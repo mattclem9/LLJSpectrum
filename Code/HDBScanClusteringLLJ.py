@@ -4,7 +4,7 @@ import hdbscan
 import numpy as np
 
 dfllj = pd.read_csv('/Users/matt/Desktop/LLJ-Data/LLJSpectrum/YearAlteredData/dfflljcluster1.csv')
-dfllj['normalized_title'] = dfllj['Title'].str.lower().str.strip()
+dfllj['normalized_title'] = dfllj['Title'].astype(str)+'.'
 
 
 model = SentenceTransformer('all-MiniLM-L6-v2')
@@ -12,7 +12,7 @@ titles = dfllj['normalized_title'].tolist()
 embeddings = model.encode(titles, show_progress_bar=True)
 
 
-clusterer = hdbscan.HDBSCAN(min_cluster_size=5, metric='euclidean', cluster_selection_method='leaf')
+clusterer = hdbscan.HDBSCAN(min_cluster_size=5,min_samples=2, metric='euclidean', cluster_selection_method='eom')
 cluster_labels = clusterer.fit_predict(embeddings)
 
 
