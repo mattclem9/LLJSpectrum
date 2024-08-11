@@ -1,0 +1,2793 @@
+Cluster 0:
+    Who Owns This Article.
+    These Are a Few of My Favorite Books.
+
+Cluster 1:
+    Schoolhouse Rock Is No Longer Enough.
+    Glass Half Full.
+     A White Paper.
+    Books on My Desk.
+     A White Paper.
+     A Grey Paper.
+    Carry Me Back to Old Virginia.
+    It Started with a Brick.
+    The Bottom Lines.
+    The Only Game in Town.
+    Something Little and Shiny on the Judicial Stage.
+     The Paper Clip.
+    Tip Jars at the Law Library Reference Desk.
+    Chicken Little at the Reference Desk.
+     A Reply to Chicken Little at the Reference Desk.
+    Next Steps.
+    Emperor's New Clothes.
+    First Person... My Time on Rikers Island.
+    Just Looking.
+
+Cluster 2:
+    Sotomayor, Sonia. My Beloved World.
+    Here Come Your New Colleagues.
+    Letter from the President.
+    Our Predecessors and Their Achievements.
+    Whom We Shall Serve.
+    Part IV - People of Spanish Descent.
+    Meet My Mentor.
+    By Command of Her Majesty.
+     Acknowledging the Third Sovereign.
+    Protecting the Lady from Toledo.
+    Eulogy for My Father.
+    The Queen of Chula Vista.
+
+Cluster 3:
+    Index to Memoirs, Orders and Rules of Court, Admissions to the Bar, and Other Interesting Material, Found in United States Supreme Court Reports, Volumes One to Two-Hundred and Ninety-One, Inclusive.
+    Legislative Calendars of Committees in the House of Representatives, as of 1969.
+
+Cluster 4:
+    Not Just Key Numbers and Keywords Anymore.
+    From Sheepskin Binding to Born Digital.
+    The Power of RSS Feed.
+     Planning, Implementing, and Evaluating the Web 2.0 Challenge.
+    AALL Diversity Redelineated.
+    Data, Data, Data.
+     The Four Cs of Search Engine Optimization.
+    The Algorithm as a Human Artifact.
+     Artificial Intelligence as Disruptor.
+    Evaluating Shepard's, KeyCite, and BCite for Case Validation Accuracy.
+    From Stele to Silicon.
+     The Curious History of Alphabetical Order.
+    COVID-19 in Asia.
+    On File with.
+     Challenges of Inaccessible References.
+    The Modern Medusa.
+     Systematizing Entries Where Standard Headings Are Inadequate.
+    A Small Binding Plant in the Building.
+    A Small Binding Plant in the Building, Part II, Administration.
+    Photo-Clerical Experiment.
+    Use of a Sequential Camera for Composition of a List of Subject Headings.
+    Specifications for Steel and Wood Stack Shelving.
+    AALL Classification Survey 1968.
+     Some Functions and Problems.
+    OBAR and Mead Data Central System.
+    The NASA Information System.
+    Microform Brief.
+     Microforms - Part IV.
+     An Index.
+    The Photocopying Machine.
+    Ballots at Boalt.
+    Vertical Files and Shelflists.
+     Problems and a Suggested Classification Scheme.
+     History, Sources, and a Proposed Classification Scheme.
+    OCLC's Serials Control Subsystem.
+    Microforms.
+    Microforms.
+    Volume Equivalents of Microforms--A Question`.
+    Cataloging Microforms Using RLIN.
+    Serials Control at Boalt Hall.
+    Quality Control for Archival Tapes.
+    A Reconstruction of Thamus.
+    File Analysis for Retrospective Conversion.
+    Vendor-Supplied Automated Authority Control.
+    WESTLAW and the American Digest Classification Scheme.
+    WESTLAW Is Natural v. Boolean Searching.
+    Diversity in AALL--It Does Exist.
+    Western Pacific Chapter.
+    Comparing KeyCite and Shepard's for Completeness, Currency, and Accuracy.
+    From Key Numbers to Keywords.
+    Print Citator Instruction.
+    Alphabetical Order and Other Simple Systems.
+     Solving a Collection Conundrum.
+     Electronic Dynamos or Legal Quagmire.
+    Creating a Supplemental Thesaurus to LCSH for a Specialized Collection.
+    Present in Its Absence.
+
+Cluster 5:
+    Address at a Joint Session with the American Library Association.
+    Classification of Law Textbooks.
+    Legislative Reference Work and the Law Library.
+    Cataloguing Law Books with Special Reference to Cooperative Indexing and Index Cards.
+    Coke's Reports, and the Anonymous Commentary on Littleton.
+    Some By-Products from Worcester County Law Library.
+    Recent Developments in International and Municipal Law.
+    The Need for College Instruction in the Use of Law Books.
+    Law and Legislative Reference as Parts of a State Library.
+    County Law Libraries and Their Services to the Community.
+    Preserving Our Heritage.
+     Protecting Law Library Core Missions through Updated Library Quality Assessment Standards.
+     Ten Sources for Reconstructing the Life of a Lawyer.
+    Does Form Follow Function - Academic Law Libraries' Organizational Structures for Collection Development .
+     Best Practices in Academic Law Library Hiring.
+    The Essential Law Library Journal.
+     Problems with Current English-Spanish Legal Dictionaries, and Notes toward a Critical Comparative Legal Lexicography .
+    An Unexpected Story.
+    Comparative Evaluation of Online Machine Translation Systems with Legal Texts.
+    Law Library Journal.
+     The First Fifty Years.
+    Dreaded Bluebook,The.
+    Web Site Accessibility.
+    Where Will You Work - A Five-Year Statistical Analysis of AALL Job Placement Listings.
+    A Law Library Journal Centennial Timeline.
+     Highlights from One Hundred Years of LLJ History.
+    By the Book.
+     Thoughts on the Future of Our Print Collections.
+    In Defense of Wikipedia .
+    Nursery of a Supreme Court Justice.
+    Foreign, Comparative and International Law SIS .
+    Practicing Reference.
+     Thoughts for Librarians and Legal Researchers.
+    Seeking Inspiration.
+    New Perspectives on following the Leader.
+    Legal Scholarship, Electronic Publishing, and Open Access.
+     Transformation or Steadfast Stagnation.
+    Peer Review and Legal Publishing.
+     What Law Librarians Need to Know about open, Single-Blind, and Double-Blind Reviewing.
+     One Hundred Years of Preservation in Law Library Journal.
+    Learning New Applications.
+    Maintaining Your Competitive Edge.
+    The Twenty-First Century Law Library.
+     CALR and the Role of Informal Apprenticeship in Attorney Training.
+    The Effect of Economics and Electronic Resources on the Traditional Law Library Print Collection.
+    A Proposed Definition of the Term Lawyering.
+     One Hundred Years of AALL History.
+    Law Libraries in the Cloud.
+    Profiling Minority Law Librarians.
+    Law Firm Legal Research Requirements for New Attorneys.
+    Assessing the Health of FOIA after 2000 through the Lens of the National Security Archive and Federal Government Audits.
+    Inspiring Innovation.
+    A Selective History of Technology in Law Libraries.
+    The Law Librarian of the Twentieth and Twenty-First Centuries.
+     A Figuration in Flux.
+    A Defense of the Public Domain.
+     A Scholarly Essay.
+     The Definition and Development of Law Librarians as Leaders.
+    The Twenty-First Century Law Library.
+     A Law Firm's Librarian's Thoughts.
+    A Learning Experience.
+    Indexing and Full-Text Coverage of Law Review Articles in Nonlegal Databases.
+     An Initial Study.
+    Ending Copyright Claims in State Primary Legal Materials.
+     Toward an Open Source Legal System.
+    The Technology of Law.
+    Diversity in the Profession.
+    Cornerstones of Law Libraries for an Era of Digital-Plus.
+    Time to Blossom.
+     An Inquiry into Bloom's Taxonomy as a Hierarchy and Means for Teaching Legal Research Skills.
+    The Relevance of Results Generated by Human Indexing and Computer Algorithms.
+     A Study of West's Headnotes and Key Numbers and LexisNexis's Headnotes and Topics.
+    The Universe of Thinkable Thoughts versus the Facts of Empirical Research.
+    Copyright Provisions in Law Journal Publication Agreements.
+    Learning from Reference Experience.
+    Collaboration versus Communication.
+     Selecting the Appropriate Tool.
+    First Amendment Limits on Library Collection Management.
+    The Creation and Transmission of Justinian's Novels.
+    Finding the Middle Ground in Collection Development.
+     How Academic Law Libraries Can Shape Their Collections in Response to the Call for More Practice-Oriented Legal Education.
+     A Proto-Federal Register.
+    Medico-Legal Research Using Evidence-Based Medicine.
+    Tying Diversity to Organizational Culture.
+    The European Human Rights System.
+    Way beyond Legal Research.
+     Understanding the Research Habits of Legal Scholars.
+    Breaking Down Link Rot.
+     The Chesapeake Project Legal Information Archive's Examination of URL Stability.
+    The Quality of Academic Law Library Online Catalogs and Its Effect on Information Retrieval.
+    The Historical and Legal Underpinnings of Access to Public Documents.
+    The Rewards of Tedium.
+    The Future of Library Collections.
+    The Need for Faculty Status and Uniform Tenure Requirements for Law Librarians.
+     Open Access in the Law School Journal Environment.
+    HeinOnline and Law Review Citation Patterns.
+    A Survey of Electronic Research Alternatives to LexisNexis and Westlaw in Law Firms.
+    Law Library Budgets in Hard Times.
+    Thinking, Writing, Sharing, Blogging.
+     Lessons Learned from Implementing a Law Library Blog.
+    Work Crunch.
+    Black's Law Dictionary.
+     The Making of an American Standard.
+    Tenure Advice for Law Librarians and Their Directors.
+    Database Ownership.
+     Myth or Reality.
+    Relevance, Choices, and the Goldilocks Problem.
+    Finding Common Ground.
+    The Role of Conferences.
+    Universal Citation and the American Association of Law Libraries.
+    A Different Question of Open Access.
+     Is There a Public Access Right to Academic Libraries in the United States and Canada.
+    Task Mastery in Legal Research Instruction.
+    Technology Management Trends in Law Schools.
+    Editing Justinian's Corpus.
+     A Study of the Paul Krueger Archive.
+    Everyday Research.
+    Building a Collaborative Digital Collection.
+     A Necessary Evolution in Libraries.
+    Citation Advantage of Open Access Legal Scholarship.
+    The Practitioners' Council.
+     Connecting Legal Research Instruction and Current Legal Research Practice.
+     How Law Student Information Literacy Standards Address Identified Issues in Legal Research Education and Training.
+    The Use of Non-MARC Metadata in AALL Libraries.
+     A Baseline Study.
+    Managing Conflict.
+     A Reminiscence.
+    Cornerstones for Enduring Law Libraries.
+    Birth of a Nutshell.
+     An Annotated Digital Catalogue.
+    Booksellers in Court.
+     Approaches to the Legal History of Copyright in England before 1842.
+    Restoring the Public Library Ethos.
+     Copyright, E-Licensing, and the Future of Librarianship.
+    Resource-Based Learning and Course Design.
+     A Brief Theoretical Overview and Practical Suggestions.
+     A Guide for American Law Librarians.
+    Cancellation of Print Primary Sources in Canadian Academic Law Libraries.
+    WestlawNext and Lexis Advance.
+    Addressing the Emerging Majority.
+     Racial and Ethnic Diversity in Law Librarianship in the Twenty-First Century.
+    How Librarians Can Help Improve Law Journal Publishing.
+    The Long Tail of Legal Information.
+     Legal Reference Service in the Age of the Content Farm.
+    A Survey of Index to Foreign Legal Periodicals Users and Its Implications for Future Developments of the Index.
+    Negotiating Weaknesses.
+    The ABA, the AALL, the AALS, and the Duplication of Legal Publications.
+    Temptations of the Sirens.
+     Ethical Issues in Libraries.
+     Assessing the Effect of Degree-Granting Institutions' Ranks on Prospective Employment at Academic Law Libraries.
+    Driving Pedestrian Traffic to Law Journals.
+    How Federal Statutes Are Named.
+    The Public Mission of the Public Law School Library.
+     Building Analytical Skill into Legal Research Instruction.
+    A Legislative History of the Affordable Care Act.
+    Library Services for the Self-Interested Law School.
+     Enhancing the Visibility of Faculty Scholarship.
+    Training in FCIL Librarianship for Tomorrow's World.
+    Other Uses of Legislative History.
+    Challenging the Status Quo.
+    Academic Libraries and the Crisis in Legal Education.
+    Resources to Begin the Study of Jewish Law in Conservative Judaism.
+    Issues and Trends in Collection Development for East Asian Legal Materials.
+    A Third Place for the Law Library.
+     Integrating Library Services with Academic Support Programs.
+    Some Guidance about Federal Agencies and Guidance.
+     Do Law Librarians Have a Role in Helping Lawyers Adjust to the New Ethics Rules Involving Technology.
+    Selected Readings on Diversity Issues.
+     Part I.
+     Resolutions of a New Law Library Director.
+     Copyright and the Future of Research Support.
+     Using the Inverted Classroom to Enhance the Legal Information Literacy of the International LL.M. Student.
+    Analytical Research Guide to Federal Indian Tax Law.
+    Marketing and Outreach in Law Libraries.
+     Slavery, the Supreme Court, and the Ambivalent Constitution.
+    Banner, Stuart. The Baseball Trust.
+     A History of Baseball's Antitrust Exemption.
+     Property Rights in the World of Ideas.
+     The Telecom Industry and Monopoly Power in the New Gilded Age.
+     Legal Implications of Rising Seas and a Changing Climate.
+     Striving for the Rule of Law in China.
+     The Elusive Quest for Poor People's Justice.
+    Howarth, David. Law as Engineering.
+    Hudson, John. The Oxford History of Laws of England.
+    Liebert, Tobe. Abortion in the United States.
+     A Compilation of Federal and State Laws.
+     Objectives, Challenges, and Solutions.
+    Selected Readings on Diversity Issues.
+     Part II.
+    Book Burning in the Twenty-First Century.
+     ABA Standard 606 and the Future of Academic Law Libraries as the Smoke Clears.
+    Are You Doing It Backward - Improving Information Literacy Instruction Using the AALL Principles and Standards for Legal Research Competency, Taxonomies, and Backward Design.
+    Mentoring, Teaching, and Training the Next Generation of Law Librarians.
+     Past and Present as Prologue to the Future.
+     Reconsidering Library of Congress Classification in U.S. Law Libraries.
+    The History of the American Bar Association Accreditation Standards for Academic Law Libraries.
+     The (Un)Availability of Tribal Law.
+    Breaking down the Black Box.
+     How Actor Network Theory Can Help Librarians Better Train Law Students in Legal Research Techniques.
+    Is This a Profession? Establishing Educational Criteria for Law Librarians.
+    The ABA Section on Legal Education Revisions of the Law Library Standards.
+     Considering the Legal Research Practices of Solo and Small Firm Attorneys.
+    A Century's Worth of Access.
+     A Historical Overview of Cataloging in Law Library Journal.
+    Information Literacy Learning Outcomes among Undergraduate Law Students in Two African Universities.
+    Stereotype Threat and Law Librarianship.
+     The Death of Academic Law Libraries Is an Exaggeration.
+    From Disability to Usability in Online Instruction.
+    Categorizing the Useful Arts.
+     Part, Present, and Future Development of Patent Classification in the United States.
+     Law Librarians, Law Libraries, and Legal Research in the Post-Internet Era.
+    Race and the Reference Librarian.
+    Cybersecurity.
+    Law Libraries and Laboratories.
+     The Legacies of Langdell and His Metaphor.
+    Assessing the Effectiveness of Single-Session Legal Research Skill Instruction through Pre- and Post-Testing.
+     A Case Study.
+     The Reality of Being a Law Library Director in Times of Great Opportunity and Significant Challenges.
+    Inclusion and Participation.
+     Law Librarians at Law Faculty Meetings.
+    A Survey of Law Libraries in Rwanda.
+     Unconscious Behavior, Bias, and Diversity.
+    Internet Citations in Oklahoma Attorney General Opinions.
+    John West and the Future of Legal Subscription Databases.
+    Empirical Legal Research Support Services.
+     A Survey of Academic Law Libraries.
+    Igniting the Conversation.
+     Embracing Legal Literacy as the Heart of the Profession.
+     How Appreciation for the Big Picture Can Benefit (Academic) Law Library Leaders.
+    Managing Disruptive Patron Behavior in Law Libraries.
+    The Elephant in the Room.
+     Toward a Definition of Grey Legal Literature.
+    Zen and the Art of Multitasking.
+     Mindfulness for Law Librarians.
+    Unifying the Nation.
+    Exploring Precedent.
+    Possible Futures for the Legal Treatise in an Environment of Wikis, Blogs, and Myriad Online Primary Law Sources.
+     Applying Copyright's Work-Made-for-Hire Doctrine to Librarians' Scholarship.
+     Describing Negative Legal Precedent in Citators.
+    Mentoring across Generations.
+     The Training of a Millennial Librarian.
+    Animal Stories for Good Reference Librarians.
+    The Effects of Demand-Driven Acquisitions on Law Library Collection Development.
+    From Law in Blackletter to Blackletter Law.
+    Growing Pains.
+     The History of the UCLA Law Library, 1949-2000.
+     The Local Librarian's Role.
+    Evolution and Opportunity.
+     Collection Development of Skills-Specific Resources in the Wake of the ABA's Revised Standards.
+    About Microaggressions.
+    Bartleby in the Law Library.
+    Understanding the Other International Agreements.
+    The Current State of E-Books in U.S. Law Libraries.
+    Imagining the Use of Intelligent Agents and Artificial Intelligence in Academic Law Libraries.
+    The State of Legal Research Education.
+     A Survey of First-Year Legal Research Programs, or Why Johnny and Jane Cannot Research.
+     Company Information for Law Students.
+     A History of Legal Aid, 1863-1945.
+     The Academy and the Judiciary.
+    On Specialized Legal Research.
+    The Need for Experiential Legal Research Education.
+     Are They Ready? A Survey of U.S. Library and Information Science Programs' Education of Aspiring Law Librarians.
+    Human Subjects Research Review.
+     Scholarly Needs and Service Opportunities.
+    Discovering the Knowledge Monopoly of Law Librarianship under the DIKW Pyramid.
+    The Law School Library or the Library at the Law School.
+     How Lessons from Other Types of Libraries Can Inform the Evolution of the Academic Law Library in the Digital Age.
+    Law Libraries and the Future of Public Access to Born-Digital Government Information.
+    Increasing Article Findability Online.
+    Legal Research Instruction and Law Librarianship in China.
+     An Updated View of Current Practices and Comparison with the U.S. Legal Education System.
+    Flipped Classrooms for Legal Education.
+    Practicing Reference.
+     Lexicographer for a Day.
+    Are Recorded Lectures Better than Live Lectures for Teaching Students Legal Research.
+     Access Policies at Academic Law Libraries and Access to Justice.
+    The Academic Law Library in the Age of Affiliations.
+     A Case Study of the University of New Hampshire Law Library.
+     Practical Information Security for Lawyers.
+     Restoring the Fundamental Constitutional Role of the Criminal, Civil, and Grand Juries.
+    A (Mostly) Legislative History of the Defend Trade Secrets Act of 2016.
+     Implications for Legal [Re]Search.
+    Leveraging Academic Law Libraries to Expand Access to Justice.
+     The Search for Truth and Justice after Serial.
+    Iowa Legal Research, Second Edition.
+    Digital Rights Management.
+     The Librarians's Guide.
+    Writing the Legal Record.
+     Law Reporters in Nineteenth-Century Kentucky.
+    ProQuest Regulatory Insight.
+    Negotiating Strengths.
+    Nation Building and Law Collections.
+     The Remarkable Development of Comparative Law Libraries in the United States.
+    Surprising Differences.
+     An Empirical Analysis of LexisNexis and West Headnotes in the Written Opinions of the 2009 Supreme Court Term.
+    Improving Lives by Building Social Capital.
+     A New Way to Frame the Work of Law Libraries.
+    The Strategic Academic Law Library Director in the Twenty-First Century.
+    Law for Farmers in Nineteenth-Century America.
+    Incorporating Race into Your Legal Research Class.
+    The Valuation of a Law Library.
+    Editing the Session Laws of the State of New York.
+    The Effect of the World War on Anglo-American Legal Literature.
+    Citations of Current Legal Periodicals and Reports.
+    Cataloging According to Legal Principles.
+     A Legal Research Odyssey.
+    Access to Print, Access to Justice.
+    The Reference Assistant.
+    Remaking the Public Law Library into a Twenty-First Century Legal Resource Center.
+    My Year of Citation Studies, Part 1.
+     The Failure of Legal Citation Reform in the 1990s.
+    A History of the Digests.
+    Practicing Reference.
+     My Year of Citation Studies, Part 2.
+    Practicing Reference.
+     My Year of Citation Studies, Part 3.
+    Diversity Dialogues.
+     Navigating Law Librarianship While Black.
+     A Week in the Life of a Black Female Law Librarian.
+     Ethics in Everyday Life.
+    Practicing Reference.
+     My Year of Citation Studies, Part 4.
+    On Embracing the Research Conference (2019-2).
+    A Day in My Law Library Life, Circa 2018.
+    Sticking to the Union.
+     A Study on the Unionization of Academic Law Libraries.
+     Publication of Statutes, Public Access to the Law, and the Uniform Electronic Legal Material Act.
+    A Library Design Bookshelf.
+    Sustainable and Open Access to Valuable Legal Research Information.
+     A New Framework.
+    Journalism under Fire.
+     Protecting the Future of Investigative Reporting.
+    Beyond the Annals of Murder.
+    The Case for County Law Library Consortia.
+    Back to the Future.
+     Open Access Legal Scholarship in the Time of Collection Budget Constraints.
+    Revisiting the Open Access Citation Advantage for Legal Scholarship.
+    Copyright's Highway.
+     From the Printing Press to the Cloud, Second Edition.
+    Reinforcing the Infrastructure of Legal Research through Court-Authored Metadata.
+    Case Western Reserve University Law School Library.
+    The Gaps Model and Faculty Services.
+     Quality Analysis through a "New" Lens.
+    Academic Law Library Director Status since the Great Recession.
+    Robotics, AI and the Future of Law.
+    Justice on Trial.
+     The Kavanaugh Confirmation and the Future of the Supreme Court.
+     Part of Our National Culture.
+     Reflections on Life and the Law, with Selected Judicial Opinions and Articles.
+    A History of Intellectual Property in 50 Objects.
+    The Making of a Justice.
+     Reflections on My First 94 Years.
+    The Secret Rules That Govern Our Digital Lives.
+    Law, Artificial Intelligence, and Natural Language Processing.
+    The Shadow Code.
+     Statutory Notes in the United States Code.
+    A Different Democratic Divide.
+    Justice in Plain Sight.
+    A Human Algorithm.
+    The Pursuit of Happiness in the Founding Era.
+     An Intellectual History.
+    Assessment Strategies in Technical Services.
+    The Second Founding.
+    The Nonsense Factory.
+     The Making and Breaking of the American Legal System.
+     Preserving the First Draft of History.
+    Strategic Planning for Academic Libraries.
+     A Step-by-Step Guide.
+    Legal Research Demystified.
+     A Step-by-Step Approach.
+    Affordable Content in Legal Education.
+    Critical Legal Research.
+    Fixing Law Schools.
+     From Collapse to the Trump Bump and beyond.
+    The Science behind the Art of Legal Writing, Second Edition.
+    Tough Cases.
+    Prison Librarianship Policy and Practice.
+    Invisible Women.
+    The Internet of Things.
+     Legal Issues, Policy, and Practical Strategies.
+    Law Librarianship in the Age of AI.
+     Post-Publication Corrections and the Integrity of Legal Scholarship.
+    Yesterday's Monsters.
+    Power, Legal Education, and Law School Cultures.
+    Cultivating Civility.
+     Practical Ways to Improve a Dysfunctional Library.
+     Economic Rights and Legal Protections for People with Low Income.
+    Law and People in Colonial America, Second Edition.
+     Women in the Shadows of the Supreme Court.
+    The Rule of Five.
+     Making Climate History at the Supreme Court.
+    Automating Legal Services.
+     Justice through Technology.
+    Ending Book Hunger.
+     Access to Print across Barriers of Class and Culture.
+    Online Courts and the Future of Justice.
+    Tomorrow's Law Libraries.
+     Academic Law Librarians Forging the Way to the Future in the New World of Legal Education.
+     A (Belated) Response to Dean Kay, with Some Suggested Additions to Her Canonical List.
+    Algorithms and Law.
+    The Price of Justice.
+     Money, Morals, and Ethical Reform in the Law.
+     A Legal Research Guide.
+    Key Directions in Legal Education.
+     National and International Perspectives.
+    Digital Punishment.
+    Upgrade Your Teaching.
+     Understanding by Design Meets Neuroscience.
+     Gender Equality and the Nineteenth Amendment.
+    The Enigma of Clarence Thomas.
+    Law and Reputation.
+     The New Generation of Activists and the Landmark Legal Fight against Climate Change.
+     Epidemics and the Law from Smallpox to COVID-19.
+    Academic Law Libraries' New Frontier - The Post-Truth Cognitive Bias Challenge and Calls for Behavioral and Structural Reforms.
+    The Digital Edge; Kennedy-Mighell Report.
+    Mine! How the Hidden Rules of Ownership Control Our Lives.
+    Social Media and Democracy.
+     The State of the Field and Prospects for Reform.
+    Taking Back the Constitution.
+     Activist Judges and the next Age of American Law.
+     Library Leadership in a Time of Disruption.
+    Protecting Our Spaces of Memory.
+     Rediscovering the Seneca Nation Settlement Act through Archives.
+    Comparing the United States Code Annotated and the United States Code Service Using Inferential Statistics.
+    Modern Legal Scholarship.
+     A Guide to Producing and Publishing Scholarly and Professional Writing.
+    Deconstructing Service in Libraries.
+     Intersections of Identities and Expectations.
+    Lyrics in the Law.
+     Music's Influence on America's Courts.
+    A World without Email.
+     Reimagining Work in an Age of Communication Overload.
+    The Lost Translators of 1808 and the Birth of Civil Law in Louisiana.
+    Hamilton and the Law.
+    The Color of Creatorship.
+     Intellectual Property, Race, and the Making of Americans.
+    Abortion and the Law in America.
+    Law Libraries Are "Knowledge Institutions Supporting Democracy".
+    An Ecological and Holistic Analysis of the Epistemic Value of Law Libraries.
+    An Informal Exploration of How Academic Law Libraries Curate Research Guides to Support Democracy, Rule of Law, and the Legal System.
+    National Security, Leaks and Freedom of the Press.
+     The Pentagon Papers Fifty Years on.
+    Crisis Lawyering.
+     Effective Legal Advocacy in Emergency Situations.
+    Movie Therapy for Law Students.
+    Integrating Doctrine and Diversity.
+     Inclusion and Equity in the Law School Classroom.
+    Runaway Technology.
+    Dress Codes.
+    The Black Book of Justice Holmes.
+    Knowledge Justice.
+     Disrupting Librarian and Information Studies through Critical Race Theory.
+    NCLC Digital Library.
+    Remaking Appalachia.
+     Ecosocialism, Ecofeminism, and Law.
+    Free Speech in the Balance.
+    Hunting and Gathering on the Legal Information Savannah.
+    A History of the West Nutshells.
+    Applying Motivation Theory to Improve 1Ls' Motivation, Self-Efficacy, and Skill Mastery.
+    Fandom and the Law.
+    The Book of Trespass.
+     Crossing the Lines That Divide Us.
+    Introduction to Law Librarianship.
+    Law and Economics in Jane Austen.
+    Advancing a Culture of Creativity in Libraries.
+     African-Americans and the Constitutional Order, 1776 to the Present, Second Edition.
+     Law and Policy Contexts.
+     The Road from Ancient Rome to the Second Amendment.
+    Restoring the Balance of Copyright.
+    Precedential Power Policies.
+    Overview of Access to Justice via Public Law Libraries in New York State.
+     Race and Guns in a Fatally Unequal America.
+    A Civility-Based Model for New Lawyers.
+     Understanding Your Moral Compass, Interpersonal Skills, and Ethical Inventory before Practicing Law.
+    Gerrymandering the States.
+     Partisanship, Race, and the Transformation of American Federalism.
+    Rethinking Environmental Law.
+     A History of Library Digitization.
+    A Pattern of Violence.
+    Judges, Technology and Artificial Intelligence.
+     The Artificial Judge.
+    Assessment of Teaching and Learning.
+     A Comprehensive Guidebook for Law Schools.
+    The History of Oregon's So-Called "Sanctuary" Law.
+    The Right to Access Legal Information.
+     Progress and Evolving Norms in a Digital Age.
+    Bolstering the Asian American Law Library Collection.
+     A Collection Development Guide.
+     The Hicks Classification System and the Evolution of Law School Curriculum.
+    The Decline of Natural Law.
+    Diversity, Equity, and Inclusion in Action.
+     Planning, Leadership, and Programming.
+    LIS Interrupted.
+     Intersections of Mental Illness and Library Work.
+    Judging Inequality.
+     State Supreme Courts and the Inequality Crisis.
+    Impeccable Research.
+     A Concise Guide to Mastering Legal Research Skills, Third Edition.
+    The Library.
+     A Fragile History.
+    War and Peace in Outer Space.
+     Law, Policy and Ethics.
+    Legal Data and Information in Practice.
+    The Right of Access to Environmental Information.
+    Rebalancing Copyright.
+     Considering Technology's Impact on Libraries and the Public Interest.
+    Methods of Citing Statute Law.
+    Revisions and Complications of the Laws of New York.
+    Binding in War Time.
+    Shelf Classification of Foreign Law Books.
+    Shelf Classification of Foreign Law Books Association of the Bar of the City of New York.
+    History of the Social Law Library, Boston.
+    The Opening of Sealed Doors.
+    The Cincinnati Law Library.
+    The Session Laws of the State of New York.
+    The Benefits of a Legislative Reference Bureau to a State Legislature.
+    The Origin, History and Compilation of the Case-Book.
+    Observations on Bar Association Proceedings.
+    Historical Sketch of American Legal Periodicals.
+    The County Law Library System in Massachusetts.
+    Present Problems of Law-Book Publishers .
+    Notes on New Hampshire Statute Law.
+    The Library as a Business Enterprise.
+    Indexing Legislation.
+    Indexing of Legislation.
+    Need for an Index to Statute Law.
+    Conclusion of the Reprint of Massachusetts Bay Colonial Laws.
+    History of Michigan Law Libraries and Their Relation to General Libraries in Michigan .
+    Procedural Codes of the State of New York.
+    Shelf Arrangement of State Reports.
+    Ecclesiastical Law Books in a Law Library.
+    The Importance of Parliamentary Law to the Legal Profession.
+    United States Public Documents as Law Books.
+    Famous and Curious Wills.
+    Law Libraries in Italy.
+    The French Judiciary System.
+    The Value of the Law Library to Layman, Legislator and Lawyer.
+    California's Constitution, Codes and Statutes.
+    The Law School Library--A Library of Research for Lawyer, Layman, and Legislator.
+    The Work of the American Law Institute and What It Means to the Law Librarian.
+    Law Libraries in California.
+    The Harvard Law School Library.
+    Address of Welcome to the American Association of Law Librarians.
+    Law Libraries of the South.
+    The Value of the Law Library to Layman, Lawyer, and Legislator.
+    The Widening Scope of Law Librarianship.
+    Law Libraries as the Source of the Study of History and Sociology.
+    The Revised Statutes of New York.
+    Mutual Co-Operation among Law Librarians in Reference to Current Local Material.
+    English Conveyancing.
+    Use of Law Books.
+    Status of the Law Librarian.
+    The Beacon Lights of the Law.
+    The Forms of Law.
+    Two Decades of Comparative Legislation.
+    Law-Book Making from a Law Librarian's Standpoint.
+    The Harvard Law Library.
+    The State of Rhode Island Law Library.
+    Bar and Allied Association Publications.
+    Outline of Massachusetts Statute Law Publications.
+    Reminiscences of a Law Bookseller from 1874 to Modern Times.
+    The Library and the People.
+    Chancellor Kent's Law Library.
+    Some Unreported Opinions of a Territorial Judge 1805-1823.
+    The State Law Index.
+    The Legislation of Vermont.
+    Fundamental Material for the Law School Library, with Particular Reference to the Library of 7500 to 15000 Volumes.
+    Tate Hall, the Law Building of the University of Missouri.
+    Civil Law in Louisiana.
+    The History of the Adoption of the Codes of California.
+    A Mnemonic Classification for Law Libraries.
+    The Student Assistant.
+    The Law Library Catalog.
+    Educational Requirements for Law Libraries.
+    Educational and Cultural Background of a Law Librarian.
+    Our Attitude to the Constitution.
+    Service in the Law Library .
+    Reflections.
+    The Past, Present and Future of the Law Library.
+    The Potentialities of the Law Library.
+    Statute Law Checklists.
+    The Cataloging of Legal Material for Non-Legal Purposes.
+    The A B C of Bar Library Cooperation.
+    The Law Quadrangle of the University of Michigan.
+    A Catalog of Roman Law and Reclassification in the Columbia Law Library.
+    A Chart of Ohio Case Law.
+    Possibilities of American Legal History.
+    Law Books and Law Publishers.
+    How to Build a Law Library without an Appropriation.
+    Government Documents for the Law Library.
+    Classification for Law Libraries of Under Fifty Thousand Volumes-Part Three.
+    The Activities and Program of the American Association of Law Libraries.
+    The Preparation of the Law Library List.
+    Cataloging of Law Libraries of under Fifty Thousand Volumes - Part Two.
+     Session Laws.
+    Fitzherbert's Abridgement.
+    Preliminary List of Litchfield Law School Notebooks.
+    The Numerical Classification Scheme of the Legislation Collection in the Harvard Law School Library.
+    The Massachusetts State Library.
+    Social Law Library, Boston, Massachusetts.
+    Report on Book Selection Made to the Executive Committee of the American Association of Law Libraries.
+    Management of a Small Law Library.
+    Recent Experience in Cataloguing the Allegheny County Law Library, Pittsburg, PA.
+    Loose Leaf Law Reports.
+    Law Reports Loose Leaf System.
+    The Small Law Library and the Librarian.
+    The Function of the Law School Librarian.
+    The Development of Law School Library Standards as Applied by Accrediting Agencies.
+    Additions to Preliminary List of Litchfield Law School Notebooks.
+    Anglo-American Legal Periodicals Births, Deaths and Changes Since 1933.
+    Law Cataloging as a Specialized Field.
+    The Odor of Sanctity in the New York State Law Library.
+    Proceedings of the Joint Meeting of the American Association of Law Libraries and the Board of Education for Librarianship of the American Association.
+    Technique of Legal Research for the Practicing Lawyer.
+    Recommendations for a County Law Library of 30,000 Volumes.
+    Development of the American Association of Law Libraries under the Expansion Plan.
+    Notes on the Law of Copyright and Importation of Books.
+    The Relation of the Library to Legal Education.
+    The Essentials of an Effective Law School Library Service.
+    Our Set of the Litchfield Law School Notebooks.
+    Some Suggestions for Improving the Law School Library Service.
+    Reorganization of the Law Library at Baylor University.
+    Some Problems of a Small Law Library.
+    Autonomy in Law Library Administration.
+    A Librarian's Approach to Problems in the Smaller Law School Libraries.
+    The Visible File in a Small Law Library-Its Installation and Use.
+    William Warburton's Authorship of Legal Judicature in Chancery Stated.
+    Letters Concerning Some Litchfield Law School Notebooks.
+    Selected List of Books for the Small Law School Library.
+    New York Session Laws-Facts and Foibles.
+    The Printing of Wisconsin Session Laws, 1836-1838.
+    Law Books and Literature.
+    We Look at the Law Library.
+    Canadian Court Rules.
+    The Place Accorded to the Library in Law School Announcements.
+    The Practices of Law Publishers as They Affect Law Libraries.
+    State Statutes, Revisions, Compilations, and Codes.
+    Milwaukee County Law Library Defense Room.
+    A Reports of Year Book 10 Henry V (1422) Found in a Manuscript Abridgment of Year Books.
+    The Influence of Judge Cardozo on the Common Law.
+    The Federal Anti-Trust Law.
+    Saving Time in Recording Statutes and Session Laws.
+    The Duke University Law Library - An Account of Its Development.
+    Recent Developments in Federal Taxation.
+    Recent Developments and Current Trends in the Law of Life Insurance.
+    Notes of a Law Book Scout in South America.
+    Who's Who in Law Libraries.
+    Library Planning in Philadelphia.
+    Recent Developments in the Law Relating to Real Estate.
+    What Changes Shall Be Proposed to the ALA Committee Pending Publication of the Catalog Rules in Final Form.
+    Microphotography for Law Schools.
+    An Early Connecticut Law School.
+    Current Phases of Derivative Actions against Directors.
+    Who's Who in the Law Libraries - Edwin Gholson.
+    Canada's War and Emergency Legislation.
+    Current Developments in Constitutional and Administrative Law.
+    Resources of Law Libraries in New York City.
+    Current Developments in the Law of Torts, 1942.
+    Current Developments in Pleading, Practice and Procedure in New York.
+    A Few Notes on the Department of Justice Library.
+    Contributions of the Columbia University Law School Library to the Field of Law Cataloging.
+    Examinations before Trial in New York State.
+    Suggestions to Libraries Participating in the American Association of Law Libraries Exchange.
+    Legislative Councils.
+    Anglo-American Legal Periodicals.
+    University of Washington Law Library Attains 100,000 Volume Mark.
+    Index to Legal Periodicals Contract.
+    General Reference Books for the Law Library.
+    American Association of Law Libraries Exchange.
+    Latin-American Law Books in Anglo-American Law Libraries.
+    Revival of the University of Virginia Law Library in Wartime.
+    Topical Law Reporters in the Law Library.
+    The New Mexico Law Library-A History.
+    New York Emergency Commercial Rent Law.
+    The Laws and Ordinances of the Guild-Court (Consulado) in Spain and America.
+    Microcards and Legal Materials.
+    Insuring Your Law Library.
+    Sylvester Gilbert's Law School at Hebron, Connecticut.
+     The Students.
+    Public Law Libraries in New York State.
+    Suggestions for Readings for Law Librarians.
+    Anglo American Legal Periodicals.
+    Loaning Books from Law Libraries.
+    Aid from the Library Staff Reasonably to be Expected by Users of a Law Library.
+    Report of the Committee on Securing Latin-American Laws.
+    Ohio Case Law.
+    Law and Legislative Library Conditions in Texas.
+    Use of the Printed Cards of the Library of Congress by Law Libraries.
+    To Law Librarians of the United States and Canada.
+    Class K (Law) at the University of Chicago.
+    Re-opening of the Middle Temple Library.
+    The Educational Background of the University's Law Librarian.
+    Formulation of the Interpretations to the Library Requirements of the Association of American Law Schools.
+    Noting Up British Statutes and Cases.
+    Anglo-American Legal Periodicals.
+    The Northampton Law School.
+    State Documents Microfilms as Research Resources for Law Libraries.
+    Law Libraries in the Survey of the Legal Profession.
+    Citation Books for United States Treaties.
+    Administrative Law and the Expansion of Class K at New York University.
+    Legislative Councils.
+    Louisiana's Civil Law Heritage.
+    Clements Library.
+    The Harvard Law School Library.
+    Law Librarian I Never Met.
+    Cataloging and Classification of Law in South American Libraries-A Report.
+    Reflections on Klassification or the Quest of an Ideal.
+    International Documentation and Treaty Problems.
+    The Code of Federal Regulations and the United States Statutes at Large.
+    Legal Research without Books.
+    Minimum Standards of Judicial Administration.
+    The Editing and Publication of the Year Books of the Reign of Edward III (1327-77).
+    The Education of the Law Librarian.
+    The Reorganization of the John Marshall Law School Library.
+    Codification of the Laws.
+    Southwestern Legal Center and School of Law Library, Southern Methodist University, Dallas, Texas.
+    A Lawyer's Classification for Law.
+    Preliminary Drafts of the Restatements.
+    An Institute on Law Cataloging.
+    The Mills Memorial Library of the School of Law of New York University.
+    Fifteen Years of Chapter Development.
+    Preliminary Drafts of the Restatements.
+    The Publication of Legal Treatises in America from 1800 to 1830.
+    Military Justice.
+    The General Interlibrary Loan Code 1952.
+    Compensation of Law Library Personnel in 1951.
+    A Case Like Mine from Georgia, A Note on Legal Research.
+    The New College of Law Library at the University of New Mexico.
+    Supplement to a Checklist of the Publications of the Sections of the American Bar Association.
+    Fundamental Concepts of Law Librarianship.
+    Law Library Administration-A Functional Approach.
+    Searching Legal Literature-An Appraisal of New Methods.
+    Sources of Legal Information in Poland.
+    Conventions and Officers.
+     A Chronicle.
+    Gray's Inn and Its History.
+    The Copying of Literary Property in Library Collections.
+    The Place of the Law Library.
+    The Elbert H. Gary Law Library of Northwestern University.
+    A Law Librarian's Ten Commandments.
+    The Technique of Reading as Applied to Law.
+    The Rastells and the Printed English Law Book of the Renaissance.
+    The Army's Law Libraries.
+    The Law Librarian's Education and the Autonomous Library.
+    A Common Lawyer's French.
+    Compensation of Law Library Personnel in 1954.
+     A Biographical Sketch.
+    New Home of the University of Arkansas Law Library.
+    Tarlton Library.
+     The Law Library of the University of Texas.
+    The New Los Angeles County Law Library Building.
+    The Copying of Literary Property in Library Collections, Part II.
+    A Common Lawyer's French.
+    Southern Law School Libraries.
+    Microfacsimiles in Law Libraries.
+    Joseph Story's Encyclopedia Americana Law Articles.
+    Planning and Building a Basic Book Collection.
+    Scientific Materials and the Law.
+    Cromwell Library American Bar Foundation.
+    Law Books for the Blind.
+    The Impact of Impending Enrollment Increases upon Legal Education.
+    Compensation of Law Library Personnel in 1955.
+    The New Boston College Law Building.
+    The Law Librarians' Institute.
+    Preparing Your Manuscript for the Printer.
+    Subject Classification in Law Libraries - A Survey-1955.
+    The Law Library of Baylor University.
+    The New Law Library Building at the University of Illinois.
+    History of the American Association of Law Libraries, The Founders and the Early Years, 1906-1929.
+    History of the American Association of Law Libraries, the Roalfe Plan and the Middle Years, 1930-1942.
+    History of the American Association of Law Libraries Up Until Now, 1943-1955.
+    Relations of the American Association of Law Libraries with Other Professional Organizations.
+    The History of the Index to Legal Periodicals.
+    A History of the Law Library Journal.
+    Institutes from the Point of View of a Director.
+    Institutes from the Point of View of the Student.
+    The Law Library Association of Greater New York (LLAGNY) 1938-1956.
+    The Law Librarians' Society of Washington, D.C., 1939-1955.
+    Law Librarians of New England, 1946-1955.
+    The Chicago Association of Law Libraries, 1947-1955.
+    The Southern California Association of Law Libraries, 1952-1955.
+    The Minnesota Chapter, American Association of Law Libraries.
+    Publications of Members of the American Association of Law Libraries - a Selected List through 1955.
+    American Association of Law Libraries.
+    Constitution of the American Association of Law Libraries.
+    The Legal Collections of the United Nations Library.
+    Classification in Law Libraries.
+    Unsigned Article on Corpus Delicti in the First Edition of the Encyclopedia Americana.
+    Trials.
+    Second Supplement to a Checklist of the Publications of the Sections of the American Bar Association.
+    The Harvard Law Library and Some Account of Its Growth.
+    Stumbling Blocks and Pitfalls in Session Laws.
+    Library School Training for Law Library Employees.
+    The Legal Systems of Canada.
+    Centralized University Library Service and the Law School.
+    Weeding a Law Collection.
+    The Future of the Law Library.
+     Scholar-Librarian.
+    Success through Speech.
+    Indexing Law Books.
+    The Libraries of the Department of Justice.
+    Friends of the Library--in the Law Library.
+    Dividing and Conquering the Card Catalog at Oklahoma.
+    Budgets Need Supporting Data.
+    The Therapy of Humor in the Practice of Law.
+    The Many-Faceted Institute of Judicial Administration.
+    A Law Building for Indiana University.
+    Introductory Statement.
+    Introduction to Library Science with Practical Problems.
+    The Law Library Staff Manual.
+    The Law Librarian and Personnel Administration.
+    The Selection and Handling of Personnel in the Law Library.
+    Statute Law in the Field of Legal Research.
+    Book Selection for the Law Library on a Limited Budget; or, Practical Suggestions for Making the Book Budget Stretch in a Law Library.
+    The Classification of Law Books.
+    Brandeis Briefs as Jurisprudence Source Material.
+    The Law Librarian Checklists the Library.
+    The Federal Trade Commission.
+    Moving Your Law Library.
+    The Book that Made the Common Law.
+     The First Printing of Fitzherbert's La Graunde Abridgement, 1514-1516.
+     His Life and Writings.
+    The Law Library of Howard University, 1867-1956.
+    Revision of the Copyright Law.
+    Sir Frederick Pollock and Law Librarianship.
+    Need for More Information Concerning Law Book Publishing, The                                                                .
+    Maintenance of Law Libraries under a Fee System.
+    The United States Statutes at Large.
+    A Decimal System of Legal Classification.
+    On the Gentle Art of Librating.
+    Logic, Law and Dreams.
+    A National Program for the Publication of the Historical Documents of the United States.
+    Rules of Court.
+    Research in Federal Tax Law.
+    Post-Admission Legal Education and the Law Librarian.
+    Non-Legal Reference Books for Law Libraries.
+    Cooperative Effort in Cataloging.
+    Guide to a Basic Library on International Law.
+    Blueprint for Atomic Energy Literature.
+     Legislative and Legal.
+    Creighton and the Problem of the Macheide.
+    1960 Survey of Law Libraries.
+    From the Attic to the Courts.
+    Musings.
+    Circulation Procedures in Midwestern Law School Libraries.
+    Certification Revisited.
+    Worldwide Responsibilities of American Law Librarians.
+    Foreign Legal Periodicals in American Law Libraries - A Union List.
+    The Opportunity Law Librarians Are Missing.
+    Opportunities for Library Cooperation.
+    Tentative Recommendations of the Copyright Office on the Revision of the Copyright Law.
+     Problems of Interest to Libraries.
+    Library Photocopying and Copyright.
+     Recent Developments.
+    Military Law Source Material.
+    The New York Revised Statutes - 1829.
+    Firm Facts.
+    Legal History-Unhappy Hybrid.
+    Legal Literature on International Human Rights.
+    Background to Law Library Education.
+    Education and the Image of the Law Librarian.
+    Education and the Recruitment of Law Librarians.
+    The Role of the Law Schools in the Education of Law Librarians.
+    Some Observations of a Recent Recruit.
+    Law Librarianship Training at the University of Washington.
+    Columbia University's Law Library Course.
+    A Suggested Master's Program in Law Librarianship for Columbia University.
+    A Proposed Program for Law Librarianship.
+    Comparative Law.
+     The History of the Language Problem and the Use of Generic Terms.
+    Firm Facts.
+    Critique of Handbooks on Common Market Law .
+    Classification of Arbitration Materials-From a Law Librarian's Viewpoint.
+    Research in Roman Law.
+     A Guide to the Sources and Their English Translations.
+    British Courts and Law Reporting in East Africa.
+    A Checklist of South Carolina Session Laws.
+    The Glorious Uncertainty of Law Librarianship.
+    Educational and Experience Backgrounds of College and University Law Librarians.
+    The Demise and Fall of Library Fungus.
+    Revised Statutes of New York-1829.
+     Reports of the Revisers 1826-1828.
+    The Law in the Near and Middle East Basic Sources in English.
+    The Legal History of St. Louis from Canoe to Capsule.
+    Judicial Writing.
+     An Observation by a Teacher of Writing.
+    The Mission of the Legal Reference Librarian.
+    Medieval Roman Law.
+     A Guide to the Sources and Literature.
+    Report of the Librarian on Her Trip to England and the Continent 1910.
+    Basic Legal Research and Sources on the Latin American Economic Integration.
+    Helen in the Court.
+     An Account of Its Development and Growth.
+    Foreign Legal Periodicals in American Law Libraries-A New Union List.
+    The Role of Official Headnotes in Legal Research.
+    Checklist of Publications of Legal Ethics Opinions.
+    Law Libraries and the Public.
+    Project Lawsearch.
+    Law Libraries at the State Level.
+    Space for a Periodical Collection.
+    The Law Library.
+     A Speech Writer's Gold Mine.
+    The New Scope and Content of Cooperative Cataloging for Law Libraries.
+    The Century Gap of Law Library Statistics.
+    Anatomy of the AALL Scholarships and Grants.
+    The African Law Reports.
+    The New Copyright Act-Its Implications for Law Libraries.
+    Introduction to Symposium Issue on Law Library Architecture.
+    Some Thoughts on Law Libraries.
+    The New School Building and the Law Librarian.
+    Some Notes on Law Library Buildings.
+    Spatial Requirements and Estimated Project Cost for a New Library Building.
+    Building Planning for a New Law School Library.
+    Planning Process for Physical Facilities for Law Libraries.
+    Designing Law Libraries for Efficient Use of Materials.
+    Law Library Architecture.
+     The Problem of Functional Design.
+    Guidelines for Furnishing the Library.
+    Library Planning for the University of Houston's Satellite Law School Complex.
+    Introduction to Symposium Issue on Classification.
+    Classification of Law at the Library of Congress, 1949-1968.
+    Class K-Law.
+    Considerations on the Adoption of the Library of Congress Classification.
+    Centralization of Cataloging and Classification after the Arrival of Class K-A Review and Reappraisal.
+    Classification-The Choices.
+    Limited Classification at the District of Columbia Bar Association Library.
+    The Use of Form Headings in the Cataloging of Legal Materials.
+    Congressional Committee Calendars as Legislative Indices.
+    An Overview of American Nonlegislative Procedure.
+    Norway and International Law.
+    A History of the Development of Classification K (Law) at the Library of Congress.
+    Soviet Russian Legal Periodicals.
+     Current or Presumed to be Current Holdings of Selected American Libraries.
+    Right to Translate and International Copyright Conventions.
+    California State Law Library Services to California County Law Libraries.
+    Development of the County Law Library.
+    Loose-Leaf Reporting Services.
+    Duplicate Holding Practices of Approved American Law School Libraries.
+    Code Revision in the Legal Process.
+    Library for International Operations.
+    The Cost of Legal Publications.
+    Wanted - A New Approach to Law Librianship.
+     A Comparative Analysis - A Draft Report Prepared According to the Instructions of the Honorable John Dow.
+    The Gentle Art of Making Enemies or Law Book Publishing Revisited.
+    Book Selection in Law Libraries--Who's in Charge Here.
+    Law Library Purchasing in an Interdisciplinary Era.
+    Acquisitions.
+    Tools of Ordering and Acquisitions.
+    Cooperative Acquisitions.
+     The Experience of General Libraries and Prospects for Law Libraries.
+    Book Buying in the One-Librarian Law Library.
+    Acquisition of Microforms in Law Libraries.
+    Foreign Law Selection and Acquisition.
+     Sources and Problems.
+    Accessibility of Legal Developments through the Legal Periodical Literature.
+    Acquisition of State Documents.
+    Distribution of U. S. Government Publications.
+    Collecting and Keeping Federal Documents.
+    Gifts and Exchanges as a Means of Growth of Law Library Collections.
+    Ethical Standards in Publishing.
+    Law Library Service to Prisoners--The Responsibility of Nonprison Libraries.
+    Legal Newspapers in the United States.
+    Selected Reference Books in Economics and Sociology for a Law Library.
+    Selected Microforms on Legal Subjects.
+    Annual Report of Libraries Serving Their State's Highest Court.
+    Program Budgeting and Work Measurement for Law Libraries.
+    A Sketch of the Inner Temple Library.
+    Commercial Cataloging.
+    Degree-Oriented Study among Law Librarians.
+    Humor in the Law Library.
+    Acquisition of Latin American Legal Materials.
+    The Role of Latin American Legal Material in the Social Science Reseach Library.
+    Computer Application to Legal Documentation.
+    Looking Ahead--Law and the New Technology.
+    Are Computer Service Agencies Responding to the Needs of Libraries.
+    Computer Service Agencies and the Needs of Libraries.
+    Systems Analysis and the Law.
+    Approaches to Library Automation.
+    Planning a Center for Information Services for the University Library.
+    Computer Applications for Small Libraries.
+    The Mead Data Central System of Computerized Legal Research.
+    LITE (Legal Information Thru Electronics)--A Progress Report.
+    Litigation Concerning County Law Library Fees.
+    Professional Law Libraries of Great Britain.
+    University Law Libraries of Great Britain.
+    Unprinted Sources of English Legal History.
+    Law Libraries in Canada.
+    Documents and Publications of Contemporary International Governmental Organizations.
+    Network Prospects for the Legal Profession.
+    Working Group Summary on Network Planning.
+    The Noting Up of Canadian Cases and Statutes.
+    Literature of Economic Theory for Law Libraries.
+    An Essay on An Introduction to the Principles of Morals and Legislation by Jeremy Bentham (1748-1832).
+    Circulation Procedures in Law Libraries.
+    Microforms on Legal Subjects.
+    Education--A Lifelong Process.
+    The All-Purpose Law Librarian.
+    Orientation of New Personnel in the Law Library.
+    A Job-Task Index for Evaluating Professional Utilization in Libraries.
+    AALL Scholarships and Grants Phase II or Anatomy of the AALL Scholarships and Grants Revisited.
+    Personnel Evaluation.
+    Law Libraries and Unions.
+    Law Librarian Recruiting.
+     By a Law School Library Survey.
+    Law Libraries and the Depository Program.
+    Summary of the Survey of Law Libraries Serving a Local Bar.
+    Paraprofessionals and Law Librarianship.
+     A Preliminary Perspective.
+    The Case for the Special Status of the University Law Library.
+    Classification Policies in Law Libraries Using Subclass KF--the Results of a Questionnaire.
+    Sources of Rules of State Courts.
+    Federal Depository Status for State Appellate Court Libraries.
+    An Introduction to Research on International Tax Agreements.
+    State Law Libraries Weight of Fatigue.
+    Hours of Opening and After-Hours Access in University Law Libraries.
+    Operation Compulex.
+     Secondary Patrons of the University Law School Library.
+    Protection of Libraries.
+    Present Legal Status and Conditions of Prison Law Libraries.
+    The History of Unidroit and the Methods of Unification.
+    Law School Libraries.
+     Survey Relating to Autonomy and Faculty Status.
+    In Re Law Library Miscellany.
+    Factors to Consider When Cataloging and Classifyng United States Government Documents for Law Libraries.
+    Clinical Legal Education and the Law Library.
+    A Preliminary Listing of Current Publications of A.B.A.-Approved Law Schools and Their Libraries.
+    Corpus of the Written Cherokee Laws.
+    Foreign Legal Periodicals in American Law Libraries 1973 Union List.
+    County Law Libraries.
+    State Law Libraries and Supreme Court Law Libraries.
+    Corporate Law Libraries--A Profile.
+    Survey of Federal Court Libraries.
+    Library of Congress Law Library.
+    Law Libraries and Librarians.
+    Internship.
+     A University of California and Los Angeles County Law Library Joint Venture.
+    Private Libraries for the Legal Profession.
+    Library of Congress Subject Heading Modification and Development of the Subject Authority File at Los Angeles County Law Library.
+    Subject Cataloging Practices in American Law Libraries.
+    New York University's Classification Scheme on Economic Integration Class KE.
+    Library Instruction in American Law Schools.
+    Law Books as a Charitable Contribution.
+    Medicine, Law, Librarianship.
+    Federal Funds.
+     Availability to Law Libraries.
+    Accreditation in Legal Education and in Education for Librarianship, 1878-1961.
+    Videotape in the Law Library.
+    Automation in Law Libraries.
+    Law and Computers.
+     Overview Update 1975.
+    The Doctrine of Fair Use as It Affects Libraries.
+    Autonomous Law School Library.
+    Legal Literature and the Impact of Printing on the English Legal Profession.
+    A Look at American Law Reporting in the 19th Century.
+    Circulation Policy in Law Libraries.
+    The Reference Librarian and the Pro Se Patron.
+    Study of the Classification of Legal Materials in the Law Libraries of the Library of Congress, the Los Angeles County Law Library, and the University of Chicago.
+    Foreign Commercial Legislation in English.
+    Documents of the Federal Trade Commission.
+    Personnel Management.
+    Impact of Computerized Methods on Legal Research Courses.
+     A Survey of LEXIS Experience and Some Probable Effects of WESTLAW, The                 .
+     Legal Information in the Department of Justice.
+     The Copyright Problem.
+    Can the Use of Visual Media Hardware and Software Be of Any Value in Law Education.
+    Sources for the Legal History of the American Revolution - Part I.
+    Commentary on Sources for the Legal History of the American Revolution - Part II.
+    Preservation and Conservation of Legal Materials.
+     18th Century Lawyers and Papers - Part I.
+    Lawyers' Papers as a Source of Legal History.
+     The 19th Century - Part II.
+    Lawyers' Papers as a Source of Legal History.
+     The 20th Century - Part III.
+    Acquisitions - Part I.
+    Library Administration of Historical Materials.
+     Cataloging - Part II.
+    Library Administration of Historical Materials.
+     Exhibits - Part III.
+    Library Administration of Historical Materials.
+    The Misery of Historians.
+     Legal History and the Civil War.
+    The Use of Early American Court Records in Historical Research.
+    American Law Library Book Catalogs - Part I.
+    Checklist of Serials - Part II.
+    Part I - Records and Briefs.
+    Part II - Resources in the Supreme Court Library.
+    Part III - Materials in the National Archives.
+    Part I - Historic Trials.
+    Part II - Biography in Legal History.
+    Part III - Treatise Literature.
+    Recent Trends in Legal Historiography.
+    Part I - Introductory Remarks.
+    Part II - Blacks.
+    Part III - the Role of Native Americans in American Legal History.
+    Part V - Women.
+    Government Litigation Files as a Source of Legal History.
+    Some Auxiliaries of Statute Revision.
+    The Genesis of an Act of Congress.
+    English Law Libraries.
+    Art and the Law.
+    Cataloging Legal Materials On-Line.
+    Continuing Education for Law Librarianship.
+    Introduction.
+    Some Characteristics of Legal Information and Their Importance in the Economics of Networks.
+    Prototype for a Regional Law Library Network.
+    Law Library Consortium Data Base Components and Standards Study Group Report.
+    United States Copyright Revision and Its Legislative History.
+     Library Copying of Nonprint, Copyrighted Material.
+    How to Research Copyright Law.
+    Rights of Students in Higher Education.
+     A Due Process Emphasis.
+    Starting a Law School Library.
+    Administrative Assistants.
+     Key Roles for a Nonlawyer Nonlibrarian in a Law Library.
+    Management Techniques Using Traditional Library Records.
+    New Directions in Education for Law Librarianship.
+    Legal Research Instruction in Law Schools, The State of the Art or, Why Law School Graduates Do Not Know How to Find the Law.
+    Semantic Methods in Legal Research.
+    A Note on Sources for Scientific Research for Lawyers.
+    Recent Developments in Securities Law.
+    Public's Access to Government--Freedom of Information, Privacy and Sunshine Acts - an Address.
+     A Research Guide.
+    A Researcher's Guide to the Watergate Affair--Part I.
+    From out of the Past and into the Future.
+    Publishing in International Law.
+     History and Contemporary Analysis.
+    The Private Law Librarian--A Complete Library Professional.
+    Teaching Practices of Academic Law Librarians.
+    Current Problems Facing State Law Libraries.
+    In Search of Standards for Public Law Libraries.
+    Microform Update.
+     Current Trends for Law Libraries.
+    Legal Research in a Side Carousel.
+    Impact of Lexis on the Law Firm Library.
+    Greater Philadelphia Law Library Association 1977 Survey.
+    Legal Periodical Usage Survey.
+     Method and Application.
+    Budgeting in Private Law Firm Libraries.
+    Marketing the Law School Library.
+    Recent Developments in Federal Documents.
+    A Researcher's Guide to the Watergate Affair--Part II.
+    Motivation, Performance and Job Satisfaction of Librarians.
+    A New Law Firm Partnership.
+     Administrators and Librarians.
+    The Southern California Association of Law Libraries at Age 25--An Informal Biography.
+    Supreme Court Memorial Proceedings and Related Items.
+    A Researcher's Guide to the Watergate Affair Part III.
+    Autonomy, Librarian Status, and Librarian Tenure in Law School Libraries.
+    Indexing for Publishers.
+    Introducing Students to LEXIS.
+     A Model Self-Teaching Exercise.
+    LEXIS vs. WESTLAW.
+     An Analysis of Automated Education.
+    Selection of Government Documents in Law School Libraries.
+    Cataloging and Classification Practices in Law Libraries.
+     The Experience of the University of Oregon Law Library.
+    International Executive Agreements.
+     A Guide to the Legal Issues and Research Sources.
+    Job Descriptions.
+     New Uses for a Familiar Tool.
+    A Law Library Consulting Service in the Philadelphia Area.
+    Clinical Legal Education and the Law Library--An Update.
+    The Ethical Aspects of Photocopying as They Pertain to the Library, the User and the Owner of Copyright.
+    A Survey of Computerized Legislative Information Systems.
+    Survey of Professional Attitudes toward Research Retrieval Systems.
+    Doing Justice.
+    Reference Service vs. Legal Advice.
+    Federal Documents, 1978.
+     Libraries of Law and Librarians.
+     Fifty Years of Legal Footnoting in Review.
+    Developing and Implementing a Law School Westlaw Orientation Program.
+    State Administrative Decisions.
+     A Very Preliminary Listing.
+    Bar Relief.
+    Law Books and Legal Publishing in America, 1760-1840.
+    Professional Responsibility of Accountants and Lawyers before the Securities and Exchange Commission.
+    Acquiring International Legal Materials.
+    Establishing a New GPO Depository Documents Department in an Academic Law Library.
+     An Examination of Physical and Attitudinal Barriers to Handicapped Library Users.
+    Southern California Association of Law Libraries 1979 Salary Survey .
+    Doing Justice.
+    How to Perform a Patent Search.
+     A Step by Step Guide for the Inventor.
+    A Checklist of Annual Surveys of State and Federal Laws.
+    A Case Study Approach to Legal Research.
+    Computer-Assisted Legal Research Instruction in Texas Law Schools.
+    An Update on Faculty Libraries.
+    Computerized Cataloging in Law Libraries.
+     OCLC and RLIN Compared.
+    Rearranging a Law Library.
+     A Case Study.
+    Automation in the Private Law Library.
+    Pennsylvania County Law Libraries.
+    1979 County Law Library Survey.
+    Private Law Libraries Special Interest Section 1979 Salary Survey.
+    Anecodotes about the Supreme Court.
+    French Civil Law System Since 1804.
+    The Quebec Legal System.
+    Selected Legislative History of the Federal Income, Estate and Gift Tax Laws Since 1913.
+    Federal Documents 1979.
+    Law Library Book Orders.
+     An Analysis of Current Practice.
+    Greater Philadelphia Law Library Association 1979 Survey.
+    Anecdotes from Bander.
+    Ordinary Joe in the Decision-Making Process.
+     The Viability of Staff Participation in Law Library Administration.
+    An American in London Law Libraries.
+    Law Library Services to Rural Lawyers.
+     The Saskatchewan Approach.
+    Legal Futurology.
+     The Field and Its Literature.
+    A Subject Index for Canadian Federal Statutes--A Proposal Based on the New Index to the U.S. Code of Federal Regulations.
+    Proposed Model for a Reference Internship in a Law School Library.
+    Changes and Challenges.
+     Law School, the New Legal Education and the Law Library.
+    Copyright and the Library Reserve Room.
+    Survey of Technical Services Practices at Fifty Large Law School Libraries.
+    A Capsule Description of User Services in Fifty Large Law School Libraries.
+    Legal Services Law Librarianship--An Investigation of Salary and Benefits in a Pioneer Field .
+    Anecdotes Revisited.
+    Major Publications of the United Nations Office of Legal Affairs.
+     Microcomputers in Law Library Automation.
+    Legal Banter.
+     A Legislative History Analysis.
+    The Francis Hopkinson Law Reports.
+    Federal Documents 1980.
+    Word/Data Processing Applications for the Law Library.
+    Organizing and Accessing a Special Collection.
+    Private Law Libraries Special Interest Section 1980 Salary Survey.
+    Survey of Court Law Libraries.
+    Legal Banter from Bander.
+    Tenure for the Law Library Director.
+    Authorship Characteristics in Law Library Journal.
+     A Comparative Study.
+    Teaching Legal Reasoning in Law School.
+     The University of Richmond Experience.
+    Checklist of Legal Newspapers in the United States.
+    Regulating Rehabilitation.
+    Library of Congress Classification System for German Law.
+     A New Approach.
+    Classification of Roman Law.
+    Integrating New Technology.
+     Some Architectural Solutions.
+    Legal Banter.
+    Anglo-American Legal Citation.
+     Historical Development and Library Implications.
+    Current Research Sources in French Law.
+    American Researcher's Guide to European Communities Law and Legal Literature.
+    Research in Securities Regulation.
+     Access to the Sources of the Law.
+    Effective Book Cost Analysis and Reflections on the American Bar Association Standards.
+    Legal Citation Form.
+     Theory and Practice.
+     The Technical Problems.
+    Accelerated Legal Research at U. S. C. Law Center.
+    A Short Look at Twenty-Five Years of the Law Library Journal.
+    Tradition and Change in Law Library Goals.
+    An Examination of the Dynamics of Change in Information Technology as Viewed from Law Libraries and Information Centers.
+    An Analysis of Academic Law Library Growth Since 1907.
+    The Law Librarian's Obligation to Publish.
+    Research, Writing, and Advocacy in the Law School Curriculum.
+    Legal Humor Dissected.
+    The Move of the University of Michigan Law Library.
+    Clouds of Codes.
+     The New International Economic Order through Codes of Conduct.
+    Researching Oral History Materials.
+    The Bar Examination.
+     Utilization of Bar Questions and Model Answers in Legal Education.
+    Cataloging and Classification Practices in Law Libraries.
+    Canon Law.
+     Its Suitability to Legal Serials and Continuations.
+    Legal Looseleaf Services.
+     A Computer-Based Approach.
+    Report to the Copyright Office by the American Association of Law Libraries July 30, 1982.
+    Law Library Staff Meetings.
+     Reference Guidelines at Kratter Law Library, University of San Diego.
+    Growth Analysis of the Major Supplemented Law Books in a County Law Library.
+    Index to 1982 Convention Abstracts and Program Proceedings.
+    Far Beyond the Law Reports.
+    On Bacon's Rules and Maximes of the Common Law.
+    The Invention of Modern Empiricism.
+     Juridical Foundations of Francis Bacon's Philosophy of Science.
+    An Acceleration System for Routing Materials in Law Firm Libraries.
+    The Making of a Cataloging Manual at Southern Illinois University.
+    Reference Theory and the Future of Legal Reference Service.
+    Automated Legislative Information Systems.
+     A New Tool for Legal Research.
+    The Periodical Section of the Uniform System of Citation, Thirteenth Edition.
+     Beyond the Basics Introduction to a Symposium.
+    Microform Holdings and American Bar Association Accreditation Standards.
+     Still a Future in Law Libraries.
+    Cataloging Microreproductions on OCLC.
+     One Cataloger's Experience.
+    Microform Management.
+     A Practical Note.
+    University of Michigan Law Library Microfom Policy.
+     An OCLC Union List of Legal Periodicals.
+    A Staff Exchange Program.
+     Mid-America's Experience.
+    AALL Institute on International Law and Business--Foreword.
+    Reference Sources in International Law.
+    Domestic Sources of International Law.
+    United States Treaties and International Agreements.
+     Sources of Publication and Legislative History Documents.
+    Fundamentals of Foreign Treaty Research.
+    Foreign and International Law Research Centers in West Germany.
+    International Organizations Documentation and International Law Collections.
+    Application of International Human Rights Standards by United States Courts.
+    International Business Transactions.
+     A Guide to Research Sources.
+    The Civilising (and Civilianizing) Functions of International Law Librarians.
+    Publication of the Orders of Federal Administrative Law Judges.
+     A Problem for Law Librarianship, Political Science Research, and Democracy.
+    Law School Honor Codes.
+    Legal Research Instruction after the First Year of Law School.
+    LEXIS and WESTLAW Instruction in the Law School.
+    1981-1982 and 1982-1983 Summaries of Law School Library Statistics and Observations on Applications of Library Statistics.
+    Planning for Automation.
+     Microcomputers in the Law Library.
+    Peaceful Partnerships.
+     Suggestions for Law School Libraries Sharing Local Computer Systems.
+    The Impact of Automation on Small and Medium-Sized Law School Libraries.
+    The Totally On-Line Library.
+     Northwestern's Integrated Library System.
+    LAMBDA at the University of Virginia Law Library.
+    Geac Computerized On-Line Circulation in University Libraries.
+    Geac at the University of Maryland Law Library.
+    Microcomputers and Law Library Automation.
+     New Directions.
+    The Use of Microcomputers at George Mason University Law Library.
+    Technical Services Aspects of Data Base Integration into the Law Library .
+    Changes in Legal Scholarship and Their Impact on Law School Library Reference Services.
+    Trial Transcipts as Research Documents.
+    Paralegal Programs.
+     An Educational Alternative for Law Librarians.
+    Negligence Law for Libraries.
+    A Recent History of the Pricing of Government Publications.
+    Fees for Service.
+     The Golden Gate University Law Library Membership Plan.
+    Bounds and Reality.
+    Development of a Maritime Law Classification.
+     The University of Virginia Newlin Collection on Oceans Law and Policy.
+     School Library Censorship Controversies.
+    Research Guide to Immigration, Aliens, and the Law .
+    AALL Scholarships and Grants, 1984.
+    A Brief History of Computer-Assisted Legal Research.
+    Planning a Publication Venture.
+     The Development of Legal Information Management Index.
+    Administering the Library Conservation Program.
+    Introduction to the National Law Library Symposium.
+    The Special Committee on a National Law Library.
+     A History.
+    The Role of the Law Library of Congress in the National Law Information System.
+    Collection Development Impact of a National Law Library.
+    The National Law Library.
+     Service Expectations of the Second-Tier Libraries.
+    Cooperative Acquisitions among Law Libraries.
+    The National Library of Medicine.
+    Foreign Experiences toward the Development of a National Legal Information Center.
+    The Role of a National Legal Information Center in the Access to Justice.
+    A Translation of Bacon's Maxims of the Common Law.
+    Cataloging State Session Laws in Microfiche.
+    Oral Competence Testing in Legal Research Techniques.
+    The Curse of Thamus.
+     An Analysis of Full-Text Legal Document Retrieval.
+    A Comprehensive Library Survey.
+     The D.C. Experience.
+    Current Legal Periodicals.
+     A Use Study.
+    Managing the Invisible Media.
+    Commentary.
+    Selection of Treatises in Academic Law Libraries.
+    Preservation Book Survey in an Academic Law Library .
+    Law Library Inventories.
+    A Supreme Court Mediagraphy.
+    Legal Abbreviations of U.S. Government Documents.
+    Another Analysis of Full-Text Legal Document Retrieval.
+    The Curse of Thamus.
+    A Reply to West Publishing Company and Mead Data Central on The Curse of Thamus.
+    Designing Enriched Jobs in Law Libraries.
+     The Debate Revisited.
+     The Status of Men and Women in Law Librarianship .
+    Superseded Material in the Law Library.
+    Proposed Amendments to the ABA Standards for the Approval of Law Schools.
+    Autonomy, Librarian Status, and Librarian Tenure in Law School Libraries.
+    Plain Language Statutes.
+    Academic Law Libraries in Scandinavia.
+    The Frontiers of Legal Writing.
+     Challenges for Teaching Research.
+    The Anatomy of Conflict.
+     Some Thoughts on Managing Staff Conflict.
+    Cataloging of Legal Research Data Bases Using RLIN.
+    Library of Congress Law Classification.
+     The Regional Schedules.
+    A Marketing Plan for the Law Library.
+    Marketing as an Integral Part of Law Library Management.
+    The Acquisition and Handling of Foreign Legal Serials.
+     The Practical Aspects.
+    Problems in Foreign Legal Acquisitions.
+     Comments on the Evaluation of Legal Information Retrieval Systems.
+     A Foundation for Building Research Strategies.
+    Performance of Legal Text Retrieval Systems.
+     The Curse of Boole.
+     Legislative History for Law Students.
+    Improving the Use of Prison Law Libraries.
+     A Modest Proposal.
+     A Survey of Practice and Opinion from Academic Law Libraries.
+    Research in Securities Regulation Revisited.
+    Burnout.
+     A Reality for Law Librarians.
+    Microcomputers for More Than On-Line Research.
+     Some Cautionary Notes.
+    Comparable Worth in Libraries.
+     A Legal Analysis.
+    A Research Guide to the Law of Private Sector Labor-Management Relations.
+    Contemporary Nursing Roles and Legal Accountability.
+    Classified Information and Legal Research.
+     The Case of the California State Library, Law Library.
+    The Publication of Federal Laws.
+     A Short History.
+    Concept through Construction.
+     Mastering the Art of Law Library Design--Introduction.
+    Programming for the New Library.
+     An Overview.
+    An Architect's Perspective.
+    Housing Books .
+     Library Services during the Construction Period.
+    Deconstructing Legal Research.
+     A Law Librarian's Commentary on Critical Legal Studies.
+    Handling Water Damage in a Law Library.
+    Research Guide to the Litigation Explosion.
+    A Brief Sketch of the Early Oregon Session Laws and Codes.
+    Differing Functions and Limitations of Law Libraries.
+    The Judicial System in Japan.
+    Uniformity in Cataloguing.
+    The Law Library of the Future.
+    Library Essentials.
+    Some Suggestions for Cooperation.
+    The Teaching of Legal Research.
+     Printer, Lawyer, Jurist.
+    A Guide to Austrian Legal Research.
+    Expanding Your Base.
+     The Law Librarian as Records Manager.
+    How Shepard's Citations Lost Its Flock.
+    Robert's Rules of Order.
+     Editions, Reprints, and Competitors.
+    Legalese Revisited.
+    The Career Paths and Education of Current Academic Law Library Directors.
+    Review Essay.
+     Legal Research Books, Manuals, and Guides--More Than Enough.
+     Management and Political Tool.
+    Funding of State Supported Academic Law Libraries.
+    An Essay on the Role of Legislative Histories in Statutory Interpretation.
+    Speed of Publication of Statutes and Regulations in the United Kingdom, Canada, and the United States.
+    The Creation of COUNSEL.
+    Making the Card Catalog a More Vital Resource in the Academic Law Library.
+    LEXIS and WESTLAW Training Centers.
+     Law School Opportunities.
+     Not So Desperately Seeking Storage Solutions.
+    Legal Deposit in Four Countries.
+     Laws and Library Services.
+    Centralization versus Decentralization of Law Libraries and Law Library Services in Nigerian Universities.
+    Serving the Evening Law Student.
+    Researching Tax Legislative History.
+    Uses of OCLC Archival Tapes and Planning for On-Line Catalogs.
+    Chief Justice Burger's Administrative Agenda.
+     A Chronology of His Speeches Made Available through Legal Publications and the Media, with Noteworthy Responses.
+    Tradition and Innovation in the Law Library.
+    Law Librarians and the New American Legal History.
+    The Common Law in the American Legal System.
+     The Challenge of Conceptual Research.
+    Dusty Books and Living History.
+    Working with Supreme Court Docket Books.
+    Organizational Structure in Law Libraries.
+     A Critique and Models for Change.
+    Organizational Change in Law Libraries.
+     The Impact of Automation on Traditional Library Structure.
+    Computers.
+     Planning for Disaster.
+    Vendor Processing and Local Authority File Development.
+    The Research Librarian in the Educational Mission of the Law School.
+    Managing the Law Library in the 1990s.
+    The Economic Value of Information.
+    Internal Audits in the Academic Law Library.
+    State Funding of Academic Law Libraries.
+    Communication as a Tool of Organizational Renewal in Law Libraries.
+    Origins of California's County Law Library System.
+     Fee-Based Services in Academic Law Libraries.
+    Qualitative Evaluation of Law School Library Services.
+    A Preliminary Examination of the AALL Exchange of Duplicates Program.
+    The Egalitarian Fallacy.
+    Setting the Legal Information Agenda for the Year 2000.
+     Preliminary Report of the National Legal Resources Committee.
+    Legal Research.
+    An Introduction to Canadian Legal Research.
+    Indexing Canadian Legal Literature.
+    WESTLAW's DIScourse.
+     Pilot Program Passes Test Site Trial.
+    The ALA Accreditation Process.
+     Implications for Educational Preparation for Law Librarianship.
+    Moving into Management from the Outside.
+    Moving into Management from Within.
+    Managing Information and Libraries in the Electronic Era.
+    Electronic Technology and the Law Firm Librarian.
+    Microcomputer Software for Library Management.
+    Introduction to the AALL Oxford Institute on the British Legal System and Law Librarianship.
+    The British Judiciary and Court Organization.
+    Organization and Governance of the British Legal Profession.
+    British Legal Education.
+    Law Librarianship in the United Kingdom.
+     Preparation, the Profession, and the British and Irish Association of Law Librarians.
+    Research Techniques in British Legal Materials.
+    Collection Development in British Legal Materials.
+    Confidentiality of Library Records.
+     A Survey of Problems, Policies, and Laws.
+    A More Cooperative Clerk.
+     The Confidentiality of Library Records.
+    Copyright Considerations for Telefacsimile Transmission of Documents in Interlibrary Loan Transactions.
+    Nonlegal Databases for the Law Librarian.
+    Taking Up Barkan's Challenge.
+     Looking at the Judicial Process and Legal Research.
+    Research Protocols in Reference Service.
+     Informal Instruction in Law Firm Libraries.
+    An Academic Microcomputer Center in the Law Library.
+    An Introduction to Law and Law Libraries in India.
+     Standards of Quality for the Law Library of Tomorrow.
+    Private Law Library Survey 1988.
+    Relative Use of a Law Collection in a Small Academic Library.
+    A Five-Year Cumulative Index to Questions & Answers Vols. 77-81, 1984-1989.
+    Project CLEAR's Paper Choice.
+     A Hypertext System for Giving Advice about Legal Research.
+    History of the University of Washington Law Librarianship Program.
+    Developing and Implementing a System of Nonlegal Database Services in a Law School Setting.
+    Congressional Intent and Legislative Histories.
+     Analysis or Psychoanalysis.
+    The Uses and Values of Legislative Histories.
+    Virginia Manuscript Law Reports.
+    The Japanese Legal System and International Trade.
+     Up-to-Date Sources of Information in English.
+    Library-Vendor Cooperation in Cataloging Legal Research Databases.
+     The Minnesota/WESTLAW Experience.
+     Contemporary Interpretive Theory, Statutory Construction, and Legislative Histories.
+    Reviving Legal Research.
+    Legal Research.
+    Strict Liability for the Dissemination of Dangerous Information.
+    Basic Books and Periodicals on Jewish Law.
+     A Guide for Law Librarians.
+     An Initial Reaction.
+     An Overview for Teachers and Librarians.
+    Barcoding a Library Collection.
+    Electronic Bulletin Boards for Law Libraries.
+    Literature on Computer Software and Legal Decision Making.
+    Sources of Rules of State Courts .
+    The New United Kingdom Copyright Act and Its Implications for Libraries and Archives.
+    Training New Law Library Personnel.
+    A Measure of CALR Use by First-Year Law Students Following Mandatory Training.
+    Improving Your Teaching.
+    User Manuals for the Private Law Firm Library.
+     Planning, Design, and Development.
+    The Value of Business-Related Information in the Academic Law Library.
+    Law Library of Congress and the Legal Profession, The .
+    The Law Library of Congress as a National Law Library.
+    Building a National Law Library to Serve the World Legal Community.
+    Introduction to the Symposium on Foreign Legal Databases.
+    Online Legal Databases.
+     France and the European Communities.
+    Legal Information Systems and Other Law-Related Databases in Germany, Austria, and Switzerland.
+    United Kindgom Legal Databases.
+    Media Equipment Selection Methods for Law Libraries.
+    Managing Student Assistants in the Law Library.
+    Avoiding the Dragon in Library Cooperation.
+    Working on the Law Reform Database.
+    Cliobernetics, Christianity, and the Common Law.
+     A Look at AALL Scholarship Recipients, 1967-1988.
+    The Legal Personality of the Colonial Period of Mexico.
+    The Future of Law Librarians in Changing Institutions, Or the Hazards and Opportunities of New Information Technology.
+    Archives and Manuscripts.
+     New Collecting Areas for Law Libraries.
+    Copyright and the Use of Telefacsimile among Branch Library Facilities.
+    The Smith Nicholas Law Library.
+     Integrating Automated Acquisitions with Other Library Functions.
+    What Does and Does Not Happen in Law School to Prepare Students to Practice Law.
+     A View from Both Sides of the Academic/Practice Dichotomy.
+    Capturing the Literature of the Bar.
+     A Proposal for Library Package Plans.
+    Survey of State, Court, and County Law Libraries.
+    The Law Librarian as Paratrooper.
+    How New Information Technologies Will Change the Way Law Professors Do and Distribute Scholarship.
+    Legal Scholarship and the Electronic Revolution.
+     An Ethical Dilemma for Librarians.
+    Opening a Window of Opportunity.
+     The Library Staff as a Meaningful and Integrated Part of the Law School Community.
+    Usage of Nonlegal Databases in Law Firm and Academic Law Libraries.
+    Cataloging and Classification of Law Materials.
+     A Survey of Recent Literature.
+    The Faculty Services Department.
+     An Overview via the Documents.
+    Lawyer-Librarians in Public Law Schools.
+     The Ethical Conundrums of Pro Bono Activities.
+    How to Develop a Marketing Plan for a Law Firm Library.
+    Rating the Justices.
+    Library Needs of a Patent Attorney .
+    Electronic Resources for Patent Searching.
+    The Civil Law in Canada.
+    Survival of Civil Law in North America.
+    The Civil Law Heritage in the Transformation of Quebec Private International Law.
+    The Quebec Legal System.
+     An Overview.
+    Teaching Legal Research.
+     Past and Present .
+    The Public Performance Right in Libraries.
+    Copyright Law and Library Photocopying.
+    Limiting Secondary Patrons' Use of Academic Law Libraries during Examination Periods.
+     Planning and Implementing a Restricted Access Policy at the University of Michigan Law Library.
+    Research Needs in Academic Law Libraries.
+    CD-Rom Journal Indexes.
+     Wilsondisc Compared to Legaltrac.
+    Proposed Constitutional Amendments as a Research Tool.
+     The Example of Prohibition.
+    A Survey of Legal Research Guides.
+    Legal Information for the Public.
+     A Public Library Perspective.
+    The Paralegal as Patron.
+    Academic Law Library Statistics, 1876-1992.
+    Writing Research Results for Publication.
+    The History of the Los Angeles County Law Library.
+    Cancelling Serials in Academic Law Libraries.
+    Introducing CD-ROMs into a Law Library.
+     Administrative Issues and Concerns.
+    Access to Academic Law Library Services.
+    Indexing and Searching in Statutory Text.
+    An Index to Memorials Published in the Law Library Journal, 1916-92.
+    Mastering the Lawless Science of Our Law.
+     A Story of Legal Citation Indexes.
+    Freedom of Speech for Libraries and Librarians.
+    Of Legislative Histories and Librarians.
+    Cataloging Reform.
+     An Overview for Academic Law Librarians.
+    Legal Reference Books Review.
+    Academic Law Librarians Today.
+     Survey of Salary and Position Information.
+    Trends in Compensation of Academic Law Librarians, 1971-91.
+    Lawyer-Librarians in Public Law Schools.
+    Creating an Expert System for Legislative History Research.
+     Project CLEAR's Lexpert.
+    Justices, Books, Laws, and Courts in Seventeenth-Century Virginia.
+    Law School Library Organization in the Age of Computers.
+    The Case of the Disappearing Briefs.
+     A Study in Preservation Strategy.
+    The Acquisition of Out-of-Print and Antiquarian Law Books.
+    A Poststructuralist Analysis of the Legal Research Process.
+    The Law Review Symposium Issue.
+     Community of Meaning or Reinscription of Hierarchy.
+    Client-Based Document Delivery Services.
+    Access to Depository Materials.
+    Historical Development of the Law Concerning Judicial Report Publication.
+    Look Beyond LEXIS and WESTLAW.
+     Other Computer Applications in the Practice of Law.
+    Teaching Legal Research to a Diverse Student Body.
+     Selection and Evaluation.
+     Document Delivery in the Nineties.
+    Integrating Document Delivery Services with Electronic Document Delivery Technologies.
+    Is the Library without Walls on a Collision Course with the 1976 Copyright Act.
+     Librarians and Freedom of Expression.
+     A Performance Study.
+    Death and Rebirth of a National Information Policy.
+    Introduction to Law Library Consortia.
+    The New England Law Library Consortium Experience.
+    The Northwest Consortium of Law Libraries Experience.
+    The New York Joint International Law Program Experience.
+    The Mid-America Law School Library Consortium Catalog on CD-ROM.
+    Law Library Consortia.
+     The Compleat Experience.
+    Library of Congress Classification Schedule of Ancient and Medieval Indian Legal Literature.
+    AALL and the Road to Diversity.
+    A Guide to American Legal History Methodology with an Example of Research in Progress.
+    Staffing for Computing Services in Academic Law Libraries.
+    Total Quality Management.
+    An Overview of the Legal System of the Aztec Empire.
+    De-Mystifying Legal Research for Prisoners.
+     Making Law Libraries Accessible to the Visually Impaired.
+    Judicial Activism in Prose.
+    Art Law Research.
+     An Introduction.
+    Survey of Single-Judge Municipal Court Libraries in Ohio.
+    Library Open-Distribution Systems and Copyright Infringement in Canada and the United States.
+    Special Collections in Law School Libraries.
+    County Law Library Cataloging by the Minnesota State Law Library.
+    The History of Statutory Compilations in Pennsylvania.
+    The Fielding Lewis Turner Law Library.
+    Faculty Privileges and Abuses.
+     A Librarian's Dilemma.
+    Legal Databases, Legal Epistemology, and the Legal Order.
+    Wisconsin County Law Libraries.
+     A Court Evaluation Project.
+     Issues in Drafting Format Selection Guidelines.
+    Putting Legal Research into Context.
+     A Nontraditional Approach to Teaching Legal Research.
+    Poststructuralism and the Brave New World of Legal Research.
+    Lawyering Decisions.
+     New Materials for Law Libraries to Collect.
+    Where are they Now The Founding Members of the State, Court & County Law Libraries Special Interest Section of the American Association of Law Libraries.
+    The Authorized Practice of Legal Reference Service.
+    International Law Book Prices.
+    Profiling Minority Law Libraries.
+    Chutzpah and the Law.
+    Legal Materials of the United States in the People's Republic of China.
+    Federal Tax Sources Recommended for Law School Libraries.
+     The Scale of Justice (A Descant for Entering First-Year Law Students).
+    California Legal History.
+     A Review of Spanish and Mexican Legal Institutions.
+     The Myth of Librarian Liability.
+    Seventeenth-Century Virginia Law and its Historians, with an Accompanying Guide to Sources.
+    Motivating Law Students to Develop Competent Legal Research Skills.
+    The Winds of Change.
+     Acquisitions for a New Century.
+    Reconciling Space and Access Needs in a Small Law Firm Library.
+     A Modest Proposal.
+    Outsourcing.
+     New Name for an Old Practice.
+    Reply to Kearley's International Law Book Prices.
+    The Impact of Recent Litigation on Interlibrary Loan and Document Delivery.
+    Teaching Research to Faculty.
+     Accommodating Cultural and Learning-Style Differences.
+    A Law Librarian's Ten Commandment's.
+    From Creativity to Computerese.
+    Why Let Them Go--Retaining Experienced Librarians by Creating Challenging Internal Career Paths.
+     Introducing the Executive Librarian.
+    Do Librarians Deserve Tenure--Casting an Anthropological Eye upon Role Definition within the Law School.
+    Toward a Truly Seamless Web.
+     Bringing Order to Law on the Internet.
+    California Legal History.
+     The Legal System under the United States Military Government, 1846-1849.
+    Managing the Boss.
+    Use Study of OCLC Cataloging in an Academic Law Library.
+     A Compendium of Legal Trivia.
+    Effectively Managing the Human Side of Change.
+    Treaty Research Basics.
+    An Impossible Task but Everybody Has To Do It--Teaching Legal Research in Law Schools.
+    The Albany Law School Journal.
+    New York Statutory Index.
+    Cooperation among Lawyers.
+    List of Books on Shakespeare and the Law.
+    The Problems of Statutory Indexing.
+    Australian Law Reports, Official and Otherwise.
+    Library By-Products.
+    Review of Leather for Binding during the Last Eleven Years in England and America.
+    The Library of the Bureau of Railway Economics in Its Inter-Library Relations.
+    Work in the Pennsylvania Legislative Reference Bureau.
+    Conflicts of Interest in Law Libraries.
+    Researching California Ballot Measures.
+    The Staff Study.
+     An Integrative Management Tool for Law Libraries.
+    Use of Law Reviews in Modern Legal Research.
+    Librarians Training Lawyers.
+    Is a Universal Collection of Treaties Feasible- An Appraisal of the U.N. Treaty Series.
+    In Search of the Delicate Balance.
+     Legal and Ethical Questions in Assisting the Pro Se Patron.
+    The Library as Storyteller.
+    Measuring the Importance of Supreme Court Decisions.
+    Meaningful Access to the Courts and Law Libraries.
+    Shepardizing English Law.
+    Redefining a Profession.
+    Planning and Constructing Law School Buildings.
+     Ten Basic Guidelines.
+    California Legal History.
+     The California Constitution of 1849.
+    The Digests of Pennsylvania.
+    Why Is Diversity Important for Law Librarianship?.
+    Diversity and Professional Activism.
+    Diversity in Conflict.
+    Evaluation Criteria and Quality Control for Legal Knowledge Systems on the Internet.
+     A Case Study.
+     The Research Value of Law Student Notebooks.
+     A Collection of Personal Reminiscences.
+    Faculty Services.
+     Librarian-Supervised Students as Research Assistants in the Law Library.
+    Federal Initiatives to Promote Access to Electronic Government Information.
+     The Impact on the Federal Depository Library Program.
+    A Comparative Lawyer's Review of the LC Classification System.
+    Researching Labor Arbitration and Alternative Dispute Resolution in Employment.
+    Evaluating Academic Law Library Directors.
+    Researching in an Imperfect World.
+    Law Libraries in Hyperspace.
+     A Citation Analysis of World Wide Web Sites.
+    The Identification of Harvard Law School Ms 189.
+    Project Management.
+     A Technique for Coping with Change.
+    Managing Internal Administrative Change.
+     An Introduction to the Command Papers of the United Kingdom.
+    Cataloging Remote Electronic Resources.
+    Practical Solutions--Dealing with Orphan Printouts.
+    A Response to Taylor's Comparison of Shepard's and KeyCite.
+    Back to the Future.
+     Predicting Materials Costs by Analyzing Past Expenditures.
+    Pursuing Fair Use, Law Libraries, and Electronic Reserves.
+     An Overview of the Social Science Studies.
+    Issues in Law Library Acquisitions.
+     An Analysis.
+    Editor's Postscript.
+     Staying Power.
+     Social Responsibility in Legal and Library Professional Organizations.
+    A New Twist on an Old Plot.
+    Mandatory Advanced Legal Research.
+     A Viable Program for Law Schools.
+    Leaving Paradise.
+     Dropping Out of the Federal Depository Library Program.
+    Has the Bluebook Met Its Match--The ALWD Citation Manual.
+    Another Response to Taylor's Comparison of KeyCite and Shepard's .
+    Better Search Engines for Law.
+    Linking Globally, Coping Locally.
+     Cataloging Internet Resources at the University of Colorado Law Library.
+    Reflections on a JX Reclassification Project.
+    Atlanta Law Libraries Association.
+    Practical Solutions--Creating a Database for Research Requests.
+    Too Many Jobs, Too Few Job Seekers--A Study of Law Librarianship Job Data Samples, 1989-1999.
+     Early Kentucky Case Law Digests.
+    An Index to Special Court Sessions in West's Federal Reporters.
+    The Trouble with Utopia.
+    A Law Librarian at Cooperstown.
+    Irish Legal History.
+     An Overview and Guide to the Sources.
+    The Impact of Electonic Access on Basic Library Services.
+     One Academic Law Library's Experience.
+    Perception versus Reality.
+     Electronic Data Interchange in the Law Library Environment.
+    Legal Research in the Computer Age.
+     A Paradigm Shift.
+    Encounters with Sources.
+    alt.lawlibrarian.
+     New Career Paths for Law Librarians.
+    A Guide to Resources on Careers in Foreign and International Law.
+    Good Reads in the Law Library.
+    Care and Maintenance of the Successful Career.
+     How Experienced Law Librarians Make Their Work Rewarding.
+    Unpublished Opinions as the Bulk of the Iceberg.
+    American Indians and Law Libraries.
+     Problems of Permancence, Accessibility, and Stability in the Use of Web Sources in Law Review Citations.
+     Promoting Learning through Learner-Centered Assessment.
+    A Three-Tiered Approach to Faculty Services Librarianship in the Law School Environment.
+    Reforming the Legal Profession.
+     Implications for Law Librarianship.
+     Twenty-Five Selected Readings.
+    Teaching the Art of the Reference Interview.
+     Engineers, Artists, and Librarians.
+     A Memorial.
+    Advanced Legal Research Courses.
+     A Survey of ABA-Accredited Law Schools.
+    Creating an Outline Tutorial and Pathfinder.
+     A Comparative Study.
+    How Many Copies Are Enough - Using Citation Studies to Limit Journal Holdings.
+    Survey of Preservation Efforts in Law Libraries.
+    Building a Foreign Law Collection at the University of Michigan Law Library, 1910-1960.
+    Persuasion in the Court.
+     A Research Guide on the Common Law Doctrine of Coverture.
+    Designing and Maintaining Law Library Web Sites.
+     Some Practical Considerations.
+    Of Reference and Revelation.
+    A User's Perspective on Privacy and the Web.
+    An Overview of the Law of Electronic Surveillance Post September 11, 2001.
+    Negotiating and Analyzing Electronic License Agreements.
+    The New Jersey Courts Publishing Project of the Rutgers-Camden Law Library.
+    Beyond Training.
+     Law Librarianship's Quest for the Pedagogy of Legal Research Education.
+    The Circle of Life.
+     Managing a Law Library Web Site Redesign Project.
+    Preservation Concerns for Law Libraries.
+     Results from the Condition Survey of the University of Kansas Law Library.
+    A Historical Sketch of the Montana State Law Library.
+    The Catalog vs. the Home Page - Best Practices in Connecting to Online Resources.
+    The Right to Receive Information.
+    Learning from Library Science.
+    The Best Tool for Building a Web Site.
+     A Cautionary Tale.
+    Feasibility and Viability of the Digital Library in a Private Law Firm.
+    A Survey of Fee-Based Web Subscriptions in Academic Law Libraries.
+    Reflections on Ranganathan's Five Laws of Library Science.
+    Technology and the Law School Librarian of the Twenty-First Century.
+    Improving Education-Delivery in the Twenty-First Century.
+     The Vital Role of the Law Librarian.
+     Law, Literature, Life.
+    Researching outside the Box.
+    Taking Care of Business.
+    A History of the Appellate Division Law Library, Rochester, New York.
+     Academic Law Librarians and CALR Vendors.
+     Data, Decisions, and Developments.
+    The Hearsay Rule.
+    To Defend the Constitution.
+     Religion, Conscientious Objection, Naturalization, and the Supreme Court.
+    With Justice for All.
+     Your Annotated Guide to the Constitution.
+    The Law and Order of Presidency.
+    The Rule of Lawyers.
+    Lawyer's Language.
+    Gale Encyclopedia of Everyday Law.
+    Statehood and the Law of Self-Determination.
+    The Complete Legal Guide to Senior Care.
+    Privacy.
+    European Law in the Past and the Future.
+     Unity and Diversity over Two Millennia.
+    Sourcebook on German Law.
+     Memos.
+    The Database and the Fields of Law.
+    An Economic Analysis of Early Casebook Publishing.
+    Status and Tenure for Academic Law Librarians.
+    The Sensory Law Library.
+    Orienting New Employees.
+     Law Libraries 101.
+    From Brown to Topeka to the Future.
+    Faculty Services in Academic Law Libraries.
+     Emerging Roles for the Collection Development Librarian.
+    The Zen of Law Librarian Job Interviews.
+     The Discipline of Law Schools and the Making of Post-Modern Lawyers.
+    Story Time in the Law Library.
+    Leaky Boundaries and the Decline of the Autonomous Law School Library.
+    Copyright in Library-Held Materials.
+     A Decision Tree for Librarians.
+    A Librarians's Guide to Unpublished Judicial Opinions.
+    Law Libraries and the Scholarly Mission.
+    Preserving Print Legal Information.
+    Issues in the Preservation of Born-digital Scholarly Communications in Law.
+    Landscape of Digital Archiving.
+    Preserving Digital Documents.
+     Choices, Approaches, and Standards.
+    The Role of Commercial Publishers in Preservation.
+    State Government Efforts to Preserve Electronic Legal Information.
+    NARA's Electronic Records Archives Program.
+    Preservation of Foreign Legal Materials.
+     Moving Forward on a National Plan.
+    The Victorian-Era Law Office.
+    Paper versus Electronic Sources for Law Review Cite Checking.
+    European Union Legal Materials.
+     A Guide for Infrequent Users.
+    Teaching Legal Research from the inside Out.
+    A Response to a Modest Proposal.
+    Why Print and Electronic Resources Are Essential to the Academic Law Library.
+    Assessing the Influence of Computer-Assisted Legal Research.
+    Foreign Official Gazettes.
+    The Law Library Mission Statement.
+    Law Libraries.
+     Maximizing Their Impact and Resources.
+    Visual Literacy and the Design of Legal Web Sites.
+    Appellate Court Briefs on the Web.
+    Is an Annual Report in Your Library's Future.
+    Educating Aspiring Law Librarians.
+     A Student's Perspective.
+    Recollections of a Mid-Twentieth-Century Law Firm Librarian.
+     Foreign and International Research and Nonspecialist.
+     Truly a Giant.
+    The Death of the Digest and the Pitfalls of Electronic Research.
+    Persistent Identification of Electronic Documents and the Future of Footnotes.
+    Building Alabama's Common Law, 1820-21.
+     A Test Case in the Use of Law Books.
+    Index of Memorials Published in the Law Library Journal.
+    Learning to Lead.
+     Debunking Leadership Myths.
+    2004-05 Completed Research Grant Project.
+     Can Government Information Removed from the Internet Be Reclaimed.
+    Evidence-Based Librarianship.
+     Opportunity for Law Librarians       .
+    Bollywood Law.
+     The Essence of Professionalism and Key to the Future of Law Librarianship as a Profession.
+    Frequently Asked Questions about AALL's First Hundred Years.
+     Having a Difficult Conversation with the Boss, The .
+    Law Librarians Provide More than Mere Access to Information.
+    Jewish Law for the Law Librarian.
+    The Search for a Law Library Director.
+     The Librarian's Role in Library Construction.
+     The Experience of the National Indian Law Library.
+    AALL History through the Eyes of Its Presidents.
+     The Dean of Law Librarians.
+    Frederick Hicks's Strategic Vision for Law Librarianship.
+    Marian Gould Gallagher's Imprint on Law Librarianship - The Advantage of Casting Bread upon the Waters.
+    Little Biographies.
+    Succession-Planning Strategies for Law Libraries.
+    Scaling the Tower of Babel Fish.
+     An Analysis of the Machine Translation of Legal Information.
+     Law Librarians and Technology at the Founding of AALL.
+    A Blog's Life.
+    The Annual Performance Evaluation.
+    Redefining Open Access for the Legal Information Market.
+    Keeping Validity in Cite.
+     Web Resources Cited in Select Washington Law Reviews, 2001-03.
+    Online Law Library Maps.
+    Private Bills and Private Laws.
+    Rebuilding the Profession.
+     Recommendations for Librarians Interested in Becoming Academic Law Library Directors.
+    A Manual to Inform Every Citizen.
+    Managing by the Book... Moving into Management.
+    Technology for Everyone.
+     Mind Mapping Complex Information.
+    Legal Information and the Development of American Law.
+     Writings on the Form and Structure of the Published Law.
+    The Universe of Thinking Thoughts.
+     Literary Warrant and West's Key Number System.
+    Context and Legal Research.
+    Legal Information as Social Capital.
+    Law and Heidegger's Question concerning Technology.
+     Prolegomenon to Future Law Librarianship.
+    Neutral Citation, Court Web Sites, and Access to Authoritative Case Law.
+    Peer to Peer Meets the World of Legal Information.
+     Encountering a New Paradigm.
+    Researching Legal History in the Digital Age.
+    Legal Research versus Legal Writing within the Law School Curriculum.
+    Should Legal Research Be Included on the Bar Exam - An Exploration of the Question.
+    Technology for Everyone... Making Presentations Visual.
+    A Working Lawyer's Life.
+    Justice Fred Blume and the Translation of Justinian's Code.
+    Rebooting the Approach to Teaching Research.
+     Embracing the Computer Age.
+    Ranking Law Reviews by Author Prominence - Ten Years Later.
+     A Research Guide to the Law of the Vatican City State.
+    The Use of Machine Translation by Law Librarians - A Reply to Yates.
+    Managing by the Book... Battling Burnout.
+    Technology for Everyone... Podcasts and Podcasting for Law Librarians.
+    Legal Information, the Informed Citizen, and the FDLP.
+     The Role of Academic Law Librarians in Promoting Democracy.
+     Stories of Self-Represented Litigants and a Call for Using Cognitive Linguistics to Work with Them.
+     Why Librarians, Not Vendors, Should Teach CALR to First-Year Students.
+    Interdisciplinary Legal Scholarship.
+     A New Model for Law Library Leaders.
+    Serendipity in the Stacks, Fortuity in the Archives.
+    Reflections on Constitutional Law.
+    The Pajama Way of Research.
+    Managing by the Book... Perfecting Negotiating Techniques.
+    Technology for Everyone... Tools for Creating Video Tutorials.
+
+Cluster 6:
+    Assisting Rural Domestic Violence Victims.
+    Batlan, Felice. Women and Justice for the Poor.
+     How Search Engines Reinforces Racism.
+     Black Women and Systemic Gendered Racism.
+    Prosecuting the President.
+     Exposing Data Bias in a World Designed for Men.
+     The Complicity of Lawyers in the Criminal Injustice System.
+    Abetting Batterers.
+    Female Law Librarians as Pioneer Women Law Professors.
+    Hate Crimes.
+    Armed Citizens.
+    Punishment without Trial.
+    Fraud and Deceit.
+    Irresponsible and Unimaginative the Lawyer and the Historian as Judicial Biographer.
+    A Marriage of Inconvenience - Congress and the District of Columbia.
+    Sex-Based Discrimination in Law Libraries.
+    A Black Librarian Takes a Look at Discrimination.
+    Attitudes of Law Librarians to Theft and Mutilation Control Methods.
+    Women in Libraries.
+    Microphobia in the Legal Profession.
+    Minorities Employed in Law Libraries.
+     Class Action.
+    Malpractice Liability of a Law Librarian.
+    Assisting Prisoners.
+    The Social Responsibility Movement among Law Librarians.
+    Book Losses and Mutilation in Law School Libraries.
+    Dyspeptic Ramblings of a Retiring Past President.
+     The Challenge of Nursing Malpractice for the Law Librarian.
+    Sexist Language.
+    USMARC Self-Defense.
+    Decapitalization of Discards in a Law Library.
+    The Librarian's Risk of Irrelevance (in the Eyes of the Law School Dean).
+     Minorities and Women in Criminal Justice.
+    Investigating Workplace Harassment.
+    When Judges Scold Lawyers.
+    Are Public Law Librarians Immune from Suit - Muddying the Already Murky Waters of Law Librarian Liability.
+
+Cluster 7:
+     Strengthened, Maintained, or Degraded?.
+     City, County or State.
+     The Place of Persons in the Order of Things.
+    From Ownership to Access.
+    When a Woman's Marital Status Determined Her Legal Status.
+     Are There New Divisions of Labor.
+    Separating State from Church.
+
+Cluster 8:
+    Back and Forth.
+     A Better Balance.
+    Correcting the Record.
+    When Goals Collide.
+    Striking a Balance.
+    One Step at a Time.
+    Climb High.
+
+Cluster 9:
+    Georgetown Law Center Memorial Service November 6, 2007.
+    Tuesday Morning Detective Work (2019-8).
+
+Cluster 10:
+    What Second Life Taught Me about Learning.
+     How User Interface Design Affects Legal Research.
+    Getting Facts Straight (and Writing Well Too).
+    Plays Well with Others.
+     What Works at Work.
+    Standard Bar Codes Beware - Smartphone Users May Prefer QR Codes.
+    The Trap of Medium-Neutral Citation, or Why a Historical-Critical Edition of State Constitutions is Necessary.
+    Does WestlawNext Really Change Everything - The Implications of WestlawNext on Legal Research.
+    Should You Use a Textbook to Teach Legal Research.
+    Writing Buddies.
+    Dress for Success - The Battle for Class, Comfort, and Sexual Equality.
+    Memories of Morris - And How I Use His BEAL.
+     How Legal Fault Lines Divide Workers and Leave Them without Protection.
+    Steve Jobs Was Right about HTML5, but Was He Right about Digital Publishing.
+    Dealing with Stress.
+    Information Is Cheap, but Meaning Is Expensive.
+    Bitten by the Reading Bug.
+     How Legislative Procedure Shapes Legislative History.
+    How to Impress Your Boss, Win Friends, and Influence People.
+    Lawyers Can't Be Luddites Anymore.
+    Coming into the Country.
+    Oh My Blawg - Who Will Save the Legal Blogs.
+     Thinking About What Lawyers Do.
+    It's All Enumerative.
+    There Oughta Be a Law - A Model Law.
+    Whatever Tribal Precedent There May Be.
+    Let's Talk about Race.
+     What Does It All Mean.
+    What about the Majority.
+    Getting to Know Fastcase.
+    Legal Education in Crisis, and Why Law Libraries Are Doomed.
+    Like Mark Twain.
+    To Meet or Not to Meet.
+    Getting It from the Source.
+     What Librarians Think about Lawyer Search Behavior.
+    Not What I Planned (a Writing Detour).
+    We All Do It.
+     Making the Most of What You Have.
+    On Empathy.
+     How Is AALL Doing.
+    Service within and beyond Our Walls.
+    To Leave or Not to Leave - Law Libraries and the FDLP.
+    How to Stop Feeling like a Phony in Your Library.
+     Recognizing the Causes of the Imposter Syndrome, and How to Put a Stop to the Cycle.
+    How Many Copies Are Enough Revisited.
+    Looking for Waldo.
+    How Whiskey Law Shaped America.
+    You Don't Look like a Lawyer.
+    How to Read the Constitution and Why.
+     A Funny Thing Happened on the Way to My Search Results.
+     How the Current U.S. Online Court Record System Exacerbates Inequality.
+     How a Small-Town Newspaper and Its Unlikely Lawyer Opened America's Courtrooms.
+     How Special Prosecutors Hold Presidents Accountable and Protect the Rule of Law.
+     How Artificial Intelligence Is Redefining Who We Are.
+     How the Civil War and Reconstruction Remade the Constitution.
+    Future-Proofing the News.
+     How to Think about Hate Speech, Campus Speech, Religious Speech, Fake News, Post-Truth, and Donald Trump.
+    To Cite or Not to Cite.
+    Who Is to Judge?.
+     What Police, Prosecutors and Courts Aren't Doing to Protect America's Women.
+     How a Single Supreme Court Seat Can Change History.
+     Privacy, Stigma, and the Harms of Data-Driven Criminal Justice.
+     How the Legal System Shapes Behavior by Producing Information.
+    A Place for Everything.
+    Five Words That Changed America.
+    Break 'Em Up.
+     Recovering Our Freedom from Big Ag, Big Tech, and Big Money.
+     Reading Today's Most Contentious Legal Issues through the Hit Musical.
+    A Place of One's Own.
+     How Law Libraries Support Democracy by Protecting Citizens' Right to Read.
+     Can Law Keep up?.
+     How the Laws of Fashion Made History.
+    Promises to Keep.
+     Why Plea Bargaining Is a Bad Deal.
+     Why Environmental Laws Should Conform to the Laws of Nature.
+     How the Law Classifies Crimes and What It Means for Justice.
+    Who Decides? States as Laboratories of Constitutional Experimentation.
+     How Americans Once Used Natural Law and Why They Stopped.
+     How Data and the Law Interact.
+    About Buying Law Books.
+    Why a Law Library.
+    How We Obtain Our Books.
+    How One Law Library Is Administered.
+    Court Rules--Where to Find Them.
+    Improving the Index to Legal Periodicals--How Would You Do It.
+     Some Theories, Some Facts and Some Reflections.
+    What Price Law Librarians.
+     Do We Need a Catalog.
+    Matching Books with People.
+     What Is Not Being Done.
+    A Spark of Hope for Prisoners.
+     What Are We Doing and Where Are We Going.
+     A Revisionist History; or More Than You Ever Wanted to Know.
+     What It Can Mean to You                    .
+     Why Networks for Libraries.
+    Not by Books Alone.
+    No Cheers for the American Law School--A Legal Historian's Complaint, Plea, and Modest Proposal.
+     How Did It Begin.
+    Speak Memory.
+    I Remember Them Well.
+     Should the Law Library Join the System.
+     Lawbooks Alone Do Not a Lawyer Make.
+     Writing Is Good for You and You Forget the Pain.
+     Plain Good Sense or Plain Nonsense.
+    Reading between the Lines.
+    Foreign Law Books-How to Secure Them.
+     Or, Can the Police Smell Probable Cause--A Substantive Lesson Plan.
+     Why All Those Old State Reports Really Matter.
+     What It Is and How to Get It.
+     Should Students Learn It or Wing It.
+    Why Can't Johnny Research-or It All Started with Christopher Columbus Langdell.
+     On the Need for Critical Law Librarianship, Or Are We All Legal Realists Now.
+     How Do Students Learn.
+    Acquiring Minds Want to Know.
+     Is There Anything Fair about It.
+     Keeping the Collection Lean and Mean in Good Times and Bad.
+    Why Legal Research Skills Declined, or When Two Rights Make a Wrong.
+    How the United States Perfects an International Agreement.
+    Free to Be You and Me.
+     What We Had and What We Need.
+     Why Being Good Isn't Good Enough Anymore.
+    Why Not a Shared Database for Legal Serial Patterns.
+    What's Wrong with Legal Research and Writing--Problems and Solutions.
+     Thinking Like a Lawyer in the Computer Age.
+    What Shall I Wear to the Computer Revolution? Some Thoughts on Electronic Researching in Law.
+     The Computer Didn't Make Me Do It.
+     Where Are We Now.
+    What Law Librarians Collect.
+    The Joy of Gathering.
+    Celebrating the Virtues of Saying I Don't Know.
+    Keeping Up is Hard to Do.
+     Legal Research is a Strategy, Not a Format.
+    On Asking for Help.
+    Reference Librarians Do Not Work in Steel.
+    Finding out What They Want to Know.
+    On Having a Bad Day.
+     Driving My Way through a Sabbatical.
+     How Automation Has Transformed the Law.
+    What Do You Do All Day.
+    Making Sense of Making Stories.
+    Working Together.
+     How the New Litigation Elite Threatens America's Rule of Law.
+     How to Be Fair, Thorough, and Legal.
+     How and Why Legal Language Is Different.
+    Why We Must Talk about the Information Commons.
+     How to Interview for a Job and How to Interview the Job.
+    What Do Directors Do.
+    What Law Professors Will Want from Law Librarians in the Twenty-first Century.
+    What Can the Faculty Expect from the Library of the Twenty-first Century.
+     How to Furnish Your Workplace for under $100.
+     Should Paper Be the Gold Standard.
+     Libraries Ask, Hey, How Am I Doing.
+    What's in a Statute Name.
+    On Not Doing Research.
+    Job Searching beyond the Classifieds.
+    Learning a Little about the World.
+     What Is the Modern Legal Researcher to Do.
+    Let the People Know the Facts.
+    Build It Right and They Will Come.
+    How Do You Know When Research Is Good.
+     Strategies to Take the Pinch out of Stepping into New Shoes.
+    Why Do We Ask the Same Questions - The Triple Helix Dilemma Revisited.
+    On Fun.
+     What Can We Learn from Princeton's Long-Standing Tradition.
+
+Cluster 11:
+    Research in the Wild.
+    Resurrecting (and Modernizing) the Research Treasure Hunt.
+    Remodeling.
+    Remodeling and Expanding Space.
+    The Use of Nonhuman Animals in Research.
+     Fine-Tuning the Research Engine.
+    Three Researchers in Search of an Alcove.
+    Blazing Trails in a New Kentucky Wilderness.
+     Further Along the Sabbatical Trail.
+
+Cluster 12:
+    Enact Locally.
+    Fifty More Constitutions.
+    Degree Pedigree.
+    From Rome to the Restatement.
+    Constitutional Personae.
+    Constitutional Orphan.
+    Klassification.
+    Klassification Again.
+    Retrospective Application of Class KF at Davis.
+    Reclassification at Berkeley.
+    Bill Drafting.
+    Another Degree.
+     A Practicum.
+    Diversity Deferred.
+    The Other Amendments.
+     Constitutional Amendments That Failed.
+
+Cluster 13:
+     Library Space.
+    Locked Collections.
+    Leather Preservation.
+     Paper Bound Originals.
+     The State of the Art.
+     The State of the Art, 1978.
+    Disabled Libraries.
+     The State of the Art, 1984.
+     The State of the Art.
+
+Cluster 14:
+    The Massachusetts Constitutional Convention.
+    The Boston Meeting of the American Bar Association.
+    The Second International Congress of Comparative Law.
+    The Libraries of the Inns of Court, London.
+    The Library of the Institute of Advanced Legal Studies, London.
+    The First Law Journals in Virginia.
+    The First Annual Meeting of the American Association of Law Llibraries.
+
+Cluster 15:
+    Mattress Tags and Pillow Case.
+    Horseless Carriages with Buggy-Whip Holders.
+
+Cluster 16:
+    Baker, H. Robert Prigg v. Pennsylvania.
+    Lincoln's Last Trial.
+     The Murder Case That Propelled Him to the Presidency; Theodore Roosevelt for the Defense.
+     Poisoned Water, Corporate Greed, and One Lawyer's Twenty-Year Battle against DuPont.
+     The Manson Family Cases and the Illusion of Parole.
+    Prison Theater and the Global Crisis of Incarceration.
+     Roe v. Wade to the Present.
+    Kennedy's Avenger.
+     Assassination, Conspiracy, and the Forgotten Trial of Jack Ruby.
+     Endeavor v. Resignation.
+     The Kent State Case.
+     The Case of Earl Warren.
+     The Case of Louisiana, The .
+    Politics Most Foul - Winston Overton's Ghost and the Louisiana Judicial Election of 1934.
+
+Cluster 17:
+    Yellow Flag Fever.
+    American Contagions.
+    Murder in Middletown.
+    Runaway Train.
+    Baseless Hysteria.
+
+Cluster 18:
+    Organized for Service.
+    A Phantom Citation.
+
+Cluster 19:
+    Define Leader.
+    Diversity.
+    Juris.
+    Professional Responsibility.
+    Time Management.
+    Servant Leadership.
+
+Cluster 20:
+    He Weifang. In the Name of Justice.
+    China's Law Library--Soochow University Law School Library.
+
+Cluster 21:
+    Office E-Mail.
+     The Year of the iPad.
+    The 4-1-1 on Lawyer Directories.
+    Retrospective.
+     125 Years.
+    Shortlisted.
+    Coaching Copyright.
+    A Note on 3 A Tennessee Reports.
+     A Union List, with a Note on Their Distribution and Microfilming.
+    Golden Jubilee Issue, The .
+    Reference Records.
+     Citations in Seconds.
+    COM Catalog vs. Card Catalog.
+    France.
+    Volume Count.
+     A Consolidated Union Serials List.
+    LEXIS Membership Group Sponsorship.
+    The Video Collection.
+
+Cluster 22:
+    The United States Code, Prima Facie Evidence, and Positive Law.
+    Dissents from the Bench.
+     A Compilation of Oral Dissents by U.S. Supreme Court Justices.
+    Appeals to the Privy Council before American Independence.
+    Third Circuit Court Reports (1789-1879).
+    Access to the Justices' Papers.
+    District Court Opinions That Remain Hidden Despite a Long-Standing Congressional Mandate of Transparency - the Result of Judicial Autonomy and Systemic Indiffernece.
+    Inconsistency and Indecision in the United States Supreme Court.
+     Miranda v. Arizona and the Right to Remain Silent.
+     Antitrust, Misuse, and Other Possible Paths to Challenge Inequitable Licensing Practices.
+    The Library of the Supreme Court of the United States.
+    The Library of the United States Court of Customs and Patent Appeals.
+    The Library of the Office of the General Counsel of the United States Treasury.
+    Chronology of the Publications of the Opinions of the Judge Advocate General of the Army.
+    Law Library of the United States Department of the Interior.
+    United States Supreme Court Records and Briefs.
+    The Tax Court of the United States.
+    Opinions of Justices Sitting in Chambers.
+    Legislative Intent and Extrinsic Aids to Statutory Interpretation in New York.
+    The U. S. Supreme Court Library.
+    A Survey of the Writing and Publication of Opinions in Federal and State Appellate Courts.
+    The Opinions of the State Attorneys General.
+    Functions and Jurisdiction of the United States Court of Customs Appeals.
+     Secondary Source Citations in United States Supreme Court Opinions October Terms 1900, 1940, and 1978.
+    Survey of State Court Opinion Writing and Publication Practices.
+    Most-Cited U.S. Courts of Appeals Cases from 1932 until the Late 1980s.
+    Copyright Compliance by Law Firms (17 U.S.C. 108).
+    An Analysis of Citations to Authority in Ohio Appellate Decisions Published in 1990.
+    The Reports of the Supreme Court of Pennsylvania.
+    The Supreme Court of Louisiana and Its Chief Justices.
+    Granting Certiorari by the United States Supreme Court.
+     Publication Patterns in the Eighth and Tenth Circuits of the United States Court of Appeals.
+    Pro Se Users, Reference Liability, and the Unauthorized Practice of Law.
+    Citations in Supreme Court Opinions and Briefs.
+     Nonlegal Materials in U.S. Supreme Court Opinions.
+    Does Lewis v. Casey Spell the End to Court-Ordered Improvement of Prison Law Libraries.
+    The Supreme Court Compendium.
+     A Study of California Supreme Court Opinions.
+    Exploring the Court of Arbitration for Sport.
+    U.N. Documents in U.S. Case Law.
+
+Cluster 23:
+    What Is All the Fuss about Library 2.0.
+    Change and Continuity (Rip Van Winkle's Reference Office).
+     Will You Make Librarians Obsolete or Can I Use Free and Open Source Software and Cloud Computing to Ensure a Bright Future.
+     A Guide to Fan Fiction, Art, Film & Cosplay.
+    It's Time for a Positive Approach to Micro-Graphics.
+    Microfiche Conversion Program at Johnson & Swanson or What to Do When the Compactor Won't Work Anymore  .
+
+Cluster 24:
+    2010.
+    Locked Down.
+    2018.
+
+Cluster 25:
+    The Whole Is Greater than the Sum of the Parts.
+     Are Their Annotations Equal?.
+    Be Those That Multiply the Commonweale.
+     Is It Possible to Draw the Line.
+     Both and, Not Either or.
+
+Cluster 26:
+    Law Library--Post Earthquake.
+    Films 16mm in Legal Education.
+    Cancellation of Serials in Budget Crisis.
+     Commercial Hindi Films with Legal Themes.
+
+Cluster 27:
+    Law Librarian, J.D. or Not J.D.
+    Are You a Member of the Law School Community.
+     Are You Ready for Law School? Prepare for Law School by Watching Movies.
+    Are You Now Or Have You Been a Law Librarian.
+
+Cluster 28:
+     30 Lessons Learned (and a Few Strokes of Luck) at the Crossroads.
+    One Piece of the Collection Development Puzzle.
+    Golf Buddy Reference Questions.
+     High Altitude Mountaineering Lessons for Librarians.
+     Lessons from the Minor Leagues.
+    Lessons in Riding, Life, and Management from Sultan, a Wise Horse.
+    Candy, Points, and Highlighters.
+
+Cluster 29:
+     The History and Origins of Princeton's Long-Standing Tradition of Interdisciplinary Legal Scholarship.
+     The Presidential Signing Statements Controversy and Its Implications for Library Professionals.
+     The Library of James Harlan of Kentucky, Father of John Marshall Harlan.
+    Reviewing Frank G. Houdek, The First Century.
+    Earl C. Borgeson's Ten Rules for Law Library Management.
+    Cass, Ronald A., and Keith H. Hylton. Laws of Creation.
+    Daily, James E., and Ryan M. Davidson. The Law of Superheroes.
+    Gerrard, Michael B., and Gregory E. Wannier, eds. Threatened Island Nations.
+    Selwyn, Laurie, and Virginia Eldridge. Public Law Librarianship.
+    The Career Path, Education, and Activities of Academic Law Library Directors Revisited Twenty-Five Years Later.
+    Michael Brown, Eric Garner, and Law Librarianship.
+     S.P. Scott, Fred Blume, Clyde Pharr, and Roman Law in Early Twentieth-Century America.
+    Posner, Richard A. Divergent Paths.
+     One Law, Ten Cases, and Fifty Years that Changed American Women's Lives at Work.
+    The History of the University of New Mexico School of Law Librarians' Fight for Faculty Status and Equal Voting Rights.
+    The Library of Robert Morris, Antebellum Civil Rights Lawyer and Activist.
+     ABA Law School Accreditation in the 21st Century and America's First Law School's Battle to Survive in the 1970s.
+     Writers Reflect on 100 Years of Landmark ACLU Cases.
+     The Struggle for Racial Equality at the Nation's Oldest Public University.
+    Frances D. Lyon Retires from Position as New York State Law Librarian.
+    Northwestern Expands Owen L. Coon Library Added to the Elbert H. Gary Library.
+    Legal Implications of the Arab Economic Boycott of the State of Israel.
+    Law Libraries and the Americans with Disabilities Act.
+     A Librarian's Guide to the Opinions of Justice Michael A. Musmanno.
+    The Interaction of the Americans with Disabilities Act, the Family Medical Leave Act, and the Pregnancy Discrimination Act and Their Impact on Libraries.
+    Thomas S. Dabagh and the Institutional Beginnings of the UCLA Law Library.
+     The Controversy between the Department of Justice and the American Library Association over the USA PATRIOT Act.
+    J. Myron Jacobstein - Law Librarian Extraordinaire, Scholar, Collaborator, and Dear Friend.
+     Charles R. McCarthy and the Evolution of the Legislative Reference Movement, 1901-1917.
+
+Cluster 30:
+    Watson, Answer Me This.
+    R-E-S-P-E-C-T, Find Out What It Means to Me.
+
+Cluster 31:
+    En la Tierra del Ciego, el Tuerco es Rey.
+
+Cluster 32:
+     Article IV of the United States Constitution.
+    The United States Constitution in Film.
+    The Freedom of Information Act of 1966.
+
+Cluster 33:
+    Highways, Buildings, and Mountains.
+
+Cluster 34:
+    Discovering William Cook.
+    Memorial and Appreciation for Earl C. Borgeson (1922-2010).
+    Morris L. Cohen.
+    Morris Cohen and Rare Book School.
+    Morris Cohen and the Art of Book Collecting.
+     Morris Cohen's Influence at Yale.
+     Morris Cohen in the 1960s.
+    Crawford, Susan. Captive Audience.
+    Houppert, Karen. Chasing Gideon.
+    Vale Bunny Watson.
+    Thomas, Gillian. Because of Sex.
+    Thomas, Suja A. The Missing American Jury.
+    Adnan's Story.
+    Noble, Safiya Umoja, Algorithms of Oppression.
+     D. L. Rhode's Cheating.
+     The Life and Works of Thomas M. McDade.
+    Judith S. Kaye in Her Own Words.
+     Sandra Day O'Connor.
+    Alexander H. R. Fraser.
+    Edward Brinley Adams.
+    William George Eakins.
+    Remarks on John William Wallace.
+    J. G. Marvin.
+    Sketch of the Life of William J. C. Berry.
+    Stephen B. Griswold.
+    Arba N. Crane.
+     Sylvester Gilbert's School at Hebron.
+    The Strange Career of Judah P. Benjamin.
+    Elsie Basset.
+    Daniel Dulany II.
+    William Sanders Johnston as I Knew Him Including a Brief Biographical Sketch 1871-1947.
+    Eldon Revare James, An Appreciation.
+    Gilson G. Glasier.
+    St. George Tucker-A Biographical Sketch.
+    John Norton Pomeroy, 1828-1885.
+    Bilali - His Book.
+    Some Writings of Max Radin of General Legal Interest.
+    Baron de Hirsch Meyer Buildings.
+    Frederick C. Hicks.
+    Mr. Joshua Williams, Q.C.
+    Legal Festschriften.
+    Helen in Academe.
+     The Unique Contribution of George Edwin Wire.
+    MAUL.
+     The Max Planck Institutes.
+     Commentary on Fishlyn.
+    Silk v. Corduroy.
+    Francois-Xavier Martin.
+    Response to Schanck.
+    Reznikoff's Testimony.
+    Response to Wayne P. Kelley.
+    Response to Wayne P. Kelley.
+    Remembrances of William D. Murphy.
+    Diana Mary Priestly.
+    William Wyche.
+    Harry Bitner.
+    Adolf Sprudzs and the International Association of Law Libraries.
+    Adolf Sprudzs and the UST Index.
+    Remembrances of Adolf Sprudzs.
+    Publications of Adolf Sprudzs.
+    Viola A. Bird - A Biographical Sketch.
+    Reminiscences of Viola A. Bird.
+    Mike Jacobstein.
+    Remembrances of J. Myron Jacobstein.
+    Frederick C. Hicks.
+     The Letter Book of John Henry Senter.
+
+Cluster 35:
+    Res Judicata.
+    Quo Vadis.
+    De Minimis Curat Lex.
+    Et Ano.
+
+Cluster 36:
+    The Official Bulletin, 1917-1919.
+     Volume II, 871-1216.
+    History of the Carolina-South Eastern Chapter, 1937-1955.
+     Charter Members, Officers and Meeting Places, 1906-1956.
+     1969-1986.
+    Annual Meetings of AALL 1906-1996.
+     1953-2002.
+     1993-2005 Supplement.
+
+Cluster 37:
+    High-Tech, Low-Tech, No-Tech.
+     Pro- or Anti-Competitive.
+
+Cluster 38:
+    Choosing the Top Candidate.
+    One Vote Away.
+     Who Applied and Who Was Chosen.
+
+Cluster 39:
+    Meeting of the Executive Committee, Statler Hotel, Washington, D.C., February 2 and 3, 1945.
+
+Cluster 40:
+    Library Costs as a Percentage of Law School Budgets.
+
+Cluster 41:
+     Births, Deaths and Changes Since 1942.
+     Births, Deaths and Changes Since May, 1945.
+     Births, Deaths, and Changes Since November 1946.
+
+Cluster 42:
+     Wiretapping and Electronic Eavesdropping.
+     Post-USA Patriot Act Electronic Surveillance at the Library.
+
+Cluster 43:
+    German Division and Reunification, 1944-1990.
+
+Cluster 44:
+     Text Transcript & Commentary.
+     The Only Surviving Copy.
+
+Cluster 45:
+    Using Adaptive Technology to Provide Access to Blind, Low-Vision, and Dyslexic Patrons.
+
+Cluster 46:
+     Burden or Blessing.
+    Emotional Intelligence.
+     Passive Aggression at Work.
+    Due Diligence.
+    Usual Cruelty.
+     A Burdensome Task.
+     Bane or Blessing.
+     Necessary Evil or Effective Group Process.
+     The Neglected, Essential Activity.
+    Crystal Ball-Reading Skills Required.
+     Oxymoron or Trainable Skill.
+     Necessary Evil or Golden Opportunity.
+
+Cluster 47:
+    Marginal Workers.
+
+Cluster 48:
+    Results of Reorganization at Baylor.
+     University of Miami.
+     University of Oklahoma.
+
+Cluster 49:
+    The Emergency Sasquatch Ordinance and Other Real Laws That Human Beings Actually Dreamed up, Enacted, and Have Sometimes Even Enforced.
+     Breaches and Heartbleed to BYOD- Are Bankers, Entertainment Company Executives, Celebrities, Postal Workers, Ice Cream Lovers, Home Builders, and CIOs the Only Ones Who Should Be Concerned.
+     Judges Tell the Stories of Some of the Hardest Decisions They've Ever Made.
+
+Cluster 50:
+    The Road Not Yet Taken.
+    Nowhere to Run; Nowhere to Hide.
+    As the World Burns.
+    To Drink from the Well.
+    While Justice Sleeps.
+    For Fear the Gallows.
+    Enough Fathom-Long Swine.
+    The Sky May Yet Fall on Firm Librarians.
+
+Cluster 51:
+    Merging West and Thomson.
+
+Cluster 52:
+    Fight of the Century.
+    Best Legal Reference Books.
+    Best Legal Reference Books of 1989.
+    Best Legal Reference Books of 1995.
+    Best Legal Reference Books of 1996.
+
+Cluster 53:
+     A Play in Six Acts.
+
+Cluster 54:
+    The Durham Statement Two Years Later.
+    A Response to the Durham Statement Two Years Later.
+    Some Remarks on the Pennsylvania Side Reports.
+
+Cluster 55:
+    Teacher, Coach, Cheerleader, and Judge.
+
+Cluster 56:
+    Twitter.
+    WikiLeaks.
+    Pro Say Podcast.
+    Along Came Google.
+    Web Wizards.
+    Netscape, Standards, and You.
+    Cool Web Sites.
+
+Cluster 57:
+    The Duty of the Members of the Faculty to the Librarian and the Duty of the Librarian to the Members of the Faculty.
+    The Duty of the Librarian of a University Law Library towards the Library's Patrons.
+
+Cluster 58:
+     A Reply to Berring and Vanden Heuvel.
+    Bouvier's, Black's, and Tinkerbell.
+    A Friendship Built on Lunch, Licorice, and Slivovitz.
+
+Cluster 59:
+    Full-Text Information Retrieval.
+

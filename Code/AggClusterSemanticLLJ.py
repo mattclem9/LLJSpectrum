@@ -1,16 +1,30 @@
 import pandas as pd
-from sentence_transformers import SentenceTransformer
+import torch
+from transformers import DistilBertModel, DistilBertTokenizer
 from sklearn.cluster import AgglomerativeClustering
 import numpy as np
 
-dfllj_algo = pd.read_csv('/Users/matt/Desktop/LLJ-Data/LLJSpectrum/YearAlteredData/dfflljcluster1.csv')
-dfllj_algo['Title'] = dfllj_algo['Title'].astype(str)+'.'
 
-model = SentenceTransformer('all-MiniLM-L6-v2')
+dfllj_algo = pd.read_csv('/Users/matt/Desktop/LLJ-Data/LLJSpectrum/YearAlteredData/dflljcluster1.csv')
+dfllj_algo['Title'] = dfllj_algo['Title']
+
+
+tokenizer = DistilBertTokenizer.from_pretrained('distilbert-base-uncased')
+model = DistilBertModel.from_pretrained('distilbert-base-uncased')
+
+
+def get_embeddings(texts):
+    inputs = tokenizer(texts, return_tensors='pt', padding=True, truncation=True)
+    with torch.no_grad():
+        outputs = model(**inputs)
+    # Use the mean pooling of the last hidden states as the sentence embedding
+    embeddings = outputs.last_hidden_state.mean(dim=1).numpy()
+    return embeddings
+
+
 dfllj_algo['Title'] = dfllj_algo['Title'].astype(str)
-embeddingsllj = model.encode(dfllj_algo['Title'].tolist())
+embeddingsllj = get_embeddings(dfllj_algo['Title'].tolist())
 dfllj_algo['Embeddings'] = list(embeddingsllj)
-
 
 def save_clusters_to_file(df, cluster_column, filename):
     unique_clusters = sorted(df[cluster_column].unique())
@@ -23,21 +37,23 @@ def save_clusters_to_file(df, cluster_column, filename):
             file.write("\n")
 
 
-distance_thresholds = [0.2, 0.5, 0.8, 1.0, 1.5, 2.0, 2.5]  
+n_clusters_list = [10, 20, 30, 40, 50, 60, 71]
 
-for distance_threshold in distance_thresholds:
+for n_clusters in n_clusters_list:
     agg_clustering_llj = AgglomerativeClustering(
-        n_clusters=None, 
-        distance_threshold=distance_threshold,
+        n_clusters=n_clusters,
         affinity='cosine', 
         linkage='average',
-        compute_full_tree=True
     )
     dfllj_algo['Clusters'] = agg_clustering_llj.fit_predict(embeddingsllj)
     
-    file_name = f"AggClusteringLLJPeriod_threshold_{distance_threshold}.txt"
+    # Save clusters to a text file
+    file_name = f"AggClusteringLLJ_BERT{n_clusters}.txt"
     save_clusters_to_file(dfllj_algo, 'Clusters', file_name)
     print(f"Clusters have been saved to {file_name}")
+    
+    # Add Cluster column with 'Cluster X' format
+    dfllj_algo['Cluster'] = 'Cluster ' + dfllj_algo['Clusters'].astype(str)
 
 
 

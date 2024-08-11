@@ -1,19 +1,23 @@
 import pandas as pd
-from sentence_transformers import SentenceTransformer
 import hdbscan
 import numpy as np
+from sentence_transformers import SentenceTransformer
+from sklearn.decomposition import PCA
 
-dfllj = pd.read_csv('/Users/matt/Desktop/LLJ-Data/LLJSpectrum/YearAlteredData/dfflljcluster1.csv')
-dfllj['normalized_title'] = dfllj['Title'].astype(str)+'.'
+
+dfllj = pd.read_csv('/Users/matt/Desktop/LLJ-Data/LLJSpectrum/YearAlteredData/dflljcluster1.csv')
+dfllj['normalized_title'] = dfllj['Title'].astype(str) + '.'
 
 
 model = SentenceTransformer('all-MiniLM-L6-v2')
+
 titles = dfllj['normalized_title'].tolist()
 embeddings = model.encode(titles, show_progress_bar=True)
 
 
-clusterer = hdbscan.HDBSCAN(min_cluster_size=5,min_samples=2, metric='euclidean', cluster_selection_method='eom')
-cluster_labels = clusterer.fit_predict(embeddings)
+
+clusterer = hdbscan.HDBSCAN(min_cluster_size=5, min_samples=2, metric='euclidean', cluster_selection_method='eom', alpha=1.0)
+cluster_labels = clusterer.fit_predict(reduced_embeddings)
 
 
 dfllj['cluster'] = cluster_labels
@@ -35,18 +39,7 @@ def save_clusters_to_file(clusters, filename):
                 file.write(f"    {title}\n")
             file.write("\n")
 
-
-filename = 'HDBScanLLJSelect5minleaf.txt'
-
-
+filename = 'HDBScanLLJ_euclidean.txt'
 save_clusters_to_file(clusters, filename)
 
-print("Clusters have been saved to HDBScan5minclustersLeaf.txt")
-
-
-for cluster_id, titles in clusters.items():
-    print(f"\nCluster {cluster_id}:")
-    for title in titles:
-        print(title)
-
-
+print(f"Clusters have been saved to {filename}")
