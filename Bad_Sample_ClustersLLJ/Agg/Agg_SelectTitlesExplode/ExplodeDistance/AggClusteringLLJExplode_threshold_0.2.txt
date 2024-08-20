@@ -1,0 +1,7460 @@
+Cluster 0:
+    The First.
+    The Second.
+
+Cluster 1:
+    Introducing CD-ROMs into a Law Library.
+    The Mid-America Law School Library Consortium Catalog on CD-ROM.
+
+Cluster 2:
+    Law Library Budgets in Hard Times.
+    Program Budgeting and Work Measurement for Law Libraries.
+    Budgeting in Private Law Firm Libraries.
+
+Cluster 3:
+    Citations of Current Legal Periodicals and Reports.
+     An OCLC Union List of Legal Periodicals.
+    Current Legal Periodicals.
+
+Cluster 4:
+    Approaches to Library Automation.
+     The Impact of Automation on Traditional Library Structure.
+
+Cluster 5:
+    The Law Librarian's Education and the Autonomous Library.
+    Autonomous Law School Library.
+
+Cluster 6:
+    Overview of Access to Justice via Public Law Libraries in New York State.
+    Resources of Law Libraries in New York City.
+    Public Law Libraries in New York State.
+
+Cluster 7:
+     A New Way to Frame the Work of Law Libraries.
+    Tomorrow's Law Libraries.
+    Why a Law Library.
+    The Past, Present and Future of the Law Library.
+    The Potentialities of the Law Library.
+    Some Problems of a Small Law Library.
+    The Future of the Law Library.
+    Some Thoughts on Law Libraries.
+     Still a Future in Law Libraries.
+    The Law Library of the Future.
+
+Cluster 8:
+     Reconsidering Library of Congress Classification in U.S. Law Libraries.
+    Classification of Law at the Library of Congress, 1949-1968.
+    Library of Congress Law Classification.
+
+Cluster 9:
+    Reference Service vs. Legal Advice.
+    Reference Theory and the Future of Legal Reference Service.
+    The Authorized Practice of Legal Reference Service.
+
+Cluster 10:
+    The Effect of Economics and Electronic Resources on the Traditional Law Library Print Collection.
+    Why Print and Electronic Resources Are Essential to the Academic Law Library.
+
+Cluster 11:
+    Task Mastery in Legal Research Instruction.
+     Building Analytical Skill into Legal Research Instruction.
+     A Concise Guide to Mastering Legal Research Skills, Third Edition.
+
+Cluster 12:
+    The Right to Access Legal Information.
+    The Right to Receive Information.
+
+Cluster 13:
+    The Chicago Association of Law Libraries, 1947-1955.
+    The Southern California Association of Law Libraries, 1952-1955.
+    Publications of Members of the American Association of Law Libraries - a Selected List through 1955.
+
+Cluster 14:
+    The New Los Angeles County Law Library Building.
+    The History of the Los Angeles County Law Library.
+
+Cluster 15:
+    The New Scope and Content of Cooperative Cataloging for Law Libraries.
+    Library-Vendor Cooperation in Cataloging Legal Research Databases.
+
+Cluster 16:
+    The County Law Library System in Massachusetts.
+    The Massachusetts State Library.
+
+Cluster 17:
+    The Minnesota Chapter, American Association of Law Libraries.
+    County Law Library Cataloging by the Minnesota State Law Library.
+
+Cluster 18:
+    Circulation Procedures in Midwestern Law School Libraries.
+    Circulation Procedures in Law Libraries.
+    Circulation Policy in Law Libraries.
+
+Cluster 19:
+    Library Services for the Self-Interested Law School.
+    Educational Requirements for Law Libraries.
+    Background to Law Library Education.
+    Library Instruction in American Law Schools.
+    Starting a Law School Library.
+    Marketing the Law School Library.
+
+Cluster 20:
+    Introduction to Symposium Issue on Law Library Architecture.
+    Law Library Architecture.
+     Mastering the Art of Law Library Design--Introduction.
+
+Cluster 21:
+     A Reminiscence.
+     A Collection of Personal Reminiscences.
+
+Cluster 22:
+    The Strategic Academic Law Library Director in the Twenty-First Century.
+    Managing the Law Library in the 1990s.
+
+Cluster 23:
+    Southern California Association of Law Libraries 1979 Salary Survey .
+    Private Law Libraries Special Interest Section 1979 Salary Survey.
+    Private Law Libraries Special Interest Section 1980 Salary Survey.
+
+Cluster 24:
+     Academic Law Librarians Forging the Way to the Future in the New World of Legal Education.
+    Law Librarians and the New American Legal History.
+
+Cluster 25:
+    Present Problems of Law-Book Publishers .
+    Need for More Information Concerning Law Book Publishing, The                                                                .
+
+Cluster 26:
+    Art and the Law.
+    Art Law Research.
+
+Cluster 27:
+    Other Uses of Legislative History.
+    The Uses and Values of Legislative Histories.
+
+Cluster 28:
+     A Legal Research Guide.
+     A Guide to the Legal Issues and Research Sources.
+     Legal Research Books, Manuals, and Guides--More Than Enough.
+    A Survey of Legal Research Guides.
+
+Cluster 29:
+     The Definition and Development of Law Librarians as Leaders.
+     A New Model for Law Library Leaders.
+
+Cluster 30:
+    The New England Law Library Consortium Experience.
+    The Northwest Consortium of Law Libraries Experience.
+     One Academic Law Library's Experience.
+
+Cluster 31:
+    Understanding the Other International Agreements.
+    International Executive Agreements.
+
+Cluster 32:
+     A Guide for American Law Librarians.
+    Suggestions for Readings for Law Librarians.
+     A Guide for Law Librarians.
+     An Overview for Academic Law Librarians.
+
+Cluster 33:
+     A Historical Overview of Cataloging in Law Library Journal.
+    Contributions of the Columbia University Law School Library to the Field of Law Cataloging.
+    Subject Cataloging Practices in American Law Libraries.
+    American Law Library Book Catalogs - Part I.
+    Use Study of OCLC Cataloging in an Academic Law Library.
+
+Cluster 34:
+     Law Librarians at Law Faculty Meetings.
+    Status of the Law Librarian.
+    The Law Librarian and Personnel Administration.
+    Academic Law Librarians Today.
+    Faculty Services in Academic Law Libraries.
+     The Dean of Law Librarians.
+
+Cluster 35:
+    Indexing and Searching in Statutory Text.
+    The Problems of Statutory Indexing.
+
+Cluster 36:
+    Service in the Law Library .
+    Access to Academic Law Library Services.
+
+Cluster 37:
+    Moving into Management from the Outside.
+    Moving into Management from Within.
+
+Cluster 38:
+    Law-Book Making from a Law Librarian's Standpoint.
+    Law Books and Law Publishers.
+    Law Books and Literature.
+
+Cluster 39:
+    The Library of the Supreme Court of the United States.
+    The U. S. Supreme Court Library.
+    State Law Libraries and Supreme Court Law Libraries.
+    Part II - Resources in the Supreme Court Library.
+
+Cluster 40:
+    The Selection and Handling of Personnel in the Law Library.
+    Orientation of New Personnel in the Law Library.
+
+Cluster 41:
+     Comments on the Evaluation of Legal Information Retrieval Systems.
+    Performance of Legal Text Retrieval Systems.
+
+Cluster 42:
+    Research in Securities Regulation.
+    Research in Securities Regulation Revisited.
+
+Cluster 43:
+    The Law Library Staff Manual.
+    User Manuals for the Private Law Firm Library.
+
+Cluster 44:
+    Introduction to Law Librarianship.
+    The Widening Scope of Law Librarianship.
+    Educational and Cultural Background of a Law Librarian.
+    The Educational Background of the University's Law Librarian.
+    The Education of the Law Librarian.
+    Fundamental Concepts of Law Librarianship.
+    Education and the Image of the Law Librarian.
+    Education and the Recruitment of Law Librarians.
+    The Role of the Law Schools in the Education of Law Librarians.
+    Educational and Experience Backgrounds of College and University Law Librarians.
+    Continuing Education for Law Librarianship.
+    New Directions in Education for Law Librarianship.
+    Teaching Practices of Academic Law Librarians.
+     An Educational Alternative for Law Librarians.
+     Implications for Educational Preparation for Law Librarianship.
+    Law Librarianship in the United Kingdom.
+     Implications for Law Librarianship.
+    Educating Aspiring Law Librarians.
+
+Cluster 45:
+     A Compilation of Federal and State Laws.
+    The Publication of Federal Laws.
+
+Cluster 46:
+    On Specialized Legal Research.
+     A Legal Research Odyssey.
+    Legal Research.
+    Legal Research.
+
+Cluster 47:
+    Classification for Law Libraries of Under Fifty Thousand Volumes-Part Three.
+    Cataloging of Law Libraries of under Fifty Thousand Volumes - Part Two.
+    Classification in Law Libraries.
+    Cataloging and Classification Practices in Law Libraries.
+    Computerized Cataloging in Law Libraries.
+    Cataloging and Classification Practices in Law Libraries.
+
+Cluster 48:
+    Autonomy in Law Library Administration.
+    Autonomy, Librarian Status, and Librarian Tenure in Law School Libraries.
+    Autonomy, Librarian Status, and Librarian Tenure in Law School Libraries.
+
+Cluster 49:
+    An Essay on the Role of Legislative Histories in Statutory Interpretation.
+     Contemporary Interpretive Theory, Statutory Construction, and Legislative Histories.
+
+Cluster 50:
+    The Law Librarians' Society of Washington, D.C., 1939-1955.
+    Law Librarians of New England, 1946-1955.
+
+Cluster 51:
+    Revisions and Complications of the Laws of New York.
+    The Revised Statutes of New York.
+    The New York Revised Statutes - 1829.
+    Revised Statutes of New York-1829.
+
+Cluster 52:
+    The Publication of Legal Treatises in America from 1800 to 1830.
+    Law Books and Legal Publishing in America, 1760-1840.
+
+Cluster 53:
+    Library of Congress Law Library.
+    Law Library of Congress and the Legal Profession, The .
+    The Law Library of Congress as a National Law Library.
+
+Cluster 54:
+     The State of the Art.
+     The State of the Art.
+
+Cluster 55:
+     Fee-Based Services in Academic Law Libraries.
+    A Survey of Fee-Based Web Subscriptions in Academic Law Libraries.
+
+Cluster 56:
+    Justices, Books, Laws, and Courts in Seventeenth-Century Virginia.
+    Seventeenth-Century Virginia Law and its Historians, with an Accompanying Guide to Sources.
+
+Cluster 57:
+    Index to Legal Periodicals Contract.
+    The History of the Index to Legal Periodicals.
+
+Cluster 58:
+    Government Documents for the Law Library.
+    Selection of Government Documents in Law School Libraries.
+
+Cluster 59:
+    The Use of Microcomputers at George Mason University Law Library.
+    An Academic Microcomputer Center in the Law Library.
+
+Cluster 60:
+    Institutes from the Point of View of a Director.
+    Institutes from the Point of View of the Student.
+
+Cluster 61:
+     A Guide to the Sources and Literature.
+     An Overview and Guide to the Sources.
+
+Cluster 62:
+    Freedom of Speech for Libraries and Librarians.
+     Librarians and Freedom of Expression.
+
+Cluster 63:
+    The Curse of Thamus.
+    The Curse of Thamus.
+    A Reply to West Publishing Company and Mead Data Central on The Curse of Thamus.
+
+Cluster 64:
+    The Research Librarian in the Educational Mission of the Law School.
+     Law Librarianship's Quest for the Pedagogy of Legal Research Education.
+
+Cluster 65:
+    Legal Banter.
+    Legal Banter from Bander.
+    Legal Banter.
+
+Cluster 66:
+    Management of a Small Law Library.
+    Reconciling Space and Access Needs in a Small Law Firm Library.
+
+Cluster 67:
+     A Survey of Academic Law Libraries.
+    Law Libraries in the Survey of the Legal Profession.
+    1960 Survey of Law Libraries.
+    Summary of the Survey of Law Libraries Serving a Local Bar.
+     Current Trends for Law Libraries.
+     A Survey of Practice and Opinion from Academic Law Libraries.
+
+Cluster 68:
+    AALL and the Road to Diversity.
+    Diversity in AALL--It Does Exist.
+
+Cluster 69:
+    The Federal Trade Commission.
+    Documents of the Federal Trade Commission.
+
+Cluster 70:
+    The Activities and Program of the American Association of Law Libraries.
+    Proceedings of the Joint Meeting of the American Association of Law Libraries and the Board of Education for Librarianship of the American Association.
+    Suggestions to Libraries Participating in the American Association of Law Libraries Exchange.
+    American Association of Law Libraries Exchange.
+    Relations of the American Association of Law Libraries with Other Professional Organizations.
+    American Association of Law Libraries.
+    Constitution of the American Association of Law Libraries.
+
+Cluster 71:
+    The Twenty-First Century Law Library.
+    The Twenty-First Century Law Library.
+    A Third Place for the Law Library.
+    The Law School Library or the Library at the Law School.
+    The Law Library Catalog.
+    The Small Law Library and the Librarian.
+    We Look at the Law Library.
+    The Place of the Law Library.
+    The Law Librarians' Institute.
+    Friends of the Library--in the Law Library.
+    The Law Librarian Checklists the Library.
+    Law Libraries and the Public.
+    Law Libraries at the State Level.
+    The Law Library.
+    Law School Libraries.
+    Law Libraries and Librarians.
+     Libraries of Law and Librarians.
+    The National Law Library.
+    Law Library Inventories.
+     Law Libraries 101.
+    Law Libraries.
+    The Search for a Law Library Director.
+
+Cluster 72:
+    Paraprofessionals and Law Librarianship.
+     Prolegomenon to Future Law Librarianship.
+
+Cluster 73:
+    Preservation and Conservation of Legal Materials.
+    Preservation of Foreign Legal Materials.
+
+Cluster 74:
+    Best Legal Reference Books.
+    Best Legal Reference Books of 1989.
+    Best Legal Reference Books of 1995.
+    Best Legal Reference Books of 1996.
+
+Cluster 75:
+    Protecting the Lady from Toledo.
+
+Cluster 76:
+    A Small Binding Plant in the Building.
+    A Small Binding Plant in the Building, Part II, Administration.
+
+Cluster 77:
+    Go and Tell the World.
+
+Cluster 78:
+    Marian Gould Gallagher's Imprint on Law Librarianship - The Advantage of Casting Bread upon the Waters.
+
+Cluster 79:
+    Should Legal Research Be Included on the Bar Exam - An Exploration of the Question.
+
+Cluster 80:
+    A Survey of the Writing and Publication of Opinions in Federal and State Appellate Courts.
+    Survey of State Court Opinion Writing and Publication Practices.
+
+Cluster 81:
+    The Teaching of Legal Research.
+    Teaching Legal Research.
+    Teaching Legal Research to a Diverse Student Body.
+     A Nontraditional Approach to Teaching Legal Research.
+    Teaching Legal Research from the inside Out.
+
+Cluster 82:
+    Remembrances of Adolf Sprudzs.
+    Publications of Adolf Sprudzs.
+
+Cluster 83:
+    Preliminary List of Litchfield Law School Notebooks.
+    Additions to Preliminary List of Litchfield Law School Notebooks.
+    Our Set of the Litchfield Law School Notebooks.
+    Letters Concerning Some Litchfield Law School Notebooks.
+
+Cluster 84:
+     Strategies to Take the Pinch out of Stepping into New Shoes.
+
+Cluster 85:
+    Funding of State Supported Academic Law Libraries.
+    State Funding of Academic Law Libraries.
+
+Cluster 86:
+     Why Librarians, Not Vendors, Should Teach CALR to First-Year Students.
+
+Cluster 87:
+    A Poststructuralist Analysis of the Legal Research Process.
+    Poststructuralism and the Brave New World of Legal Research.
+
+Cluster 88:
+    Back to the Future.
+    Back to the Future.
+
+Cluster 89:
+     Thoughts for Librarians and Legal Researchers.
+     A Law Firm's Librarian's Thoughts.
+
+Cluster 90:
+    Modern Legal Scholarship.
+    Interdisciplinary Legal Scholarship.
+
+Cluster 91:
+    Shelf Classification of Foreign Law Books.
+    Shelf Classification of Foreign Law Books Association of the Bar of the City of New York.
+
+Cluster 92:
+    Mentoring, Teaching, and Training the Next Generation of Law Librarians.
+    Law Librarian Recruiting.
+    Librarians Training Lawyers.
+     New Career Paths for Law Librarians.
+     Opportunity for Law Librarians       .
+
+Cluster 93:
+     Web Resources Cited in Select Washington Law Reviews, 2001-03.
+
+Cluster 94:
+     A Response.
+     A Reply.
+
+Cluster 95:
+     Session Laws.
+    Stumbling Blocks and Pitfalls in Session Laws.
+
+Cluster 96:
+     Sylvester Gilbert's School at Hebron.
+    Sylvester Gilbert's Law School at Hebron, Connecticut.
+
+Cluster 97:
+    Research in Roman Law.
+    Medieval Roman Law.
+    Classification of Roman Law.
+
+Cluster 98:
+    Female Law Librarians as Pioneer Women Law Professors.
+     The Status of Men and Women in Law Librarianship .
+
+Cluster 99:
+    Civil Law in Louisiana.
+    Louisiana's Civil Law Heritage.
+
+Cluster 100:
+     A Paradigm Shift.
+     Encountering a New Paradigm.
+
+Cluster 101:
+    County Law Libraries and Their Services to the Community.
+    Development of the County Law Library.
+    County Law Libraries.
+
+Cluster 102:
+    Build It Right and They Will Come.
+
+Cluster 103:
+    Succession-Planning Strategies for Law Libraries.
+
+Cluster 104:
+    WestlawNext and Lexis Advance.
+     A Survey of LEXIS Experience and Some Probable Effects of WESTLAW, The                 .
+    LEXIS vs. WESTLAW.
+    Look Beyond LEXIS and WESTLAW.
+
+Cluster 105:
+    Research, Writing, and Advocacy in the Law School Curriculum.
+    Legal Research versus Legal Writing within the Law School Curriculum.
+
+Cluster 106:
+    Cooperative Acquisitions among Law Libraries.
+    Issues in Law Library Acquisitions.
+
+Cluster 107:
+    Organizational Structure in Law Libraries.
+    Organizational Change in Law Libraries.
+
+Cluster 108:
+    Reflections on Constitutional Law.
+
+Cluster 109:
+    Frederick C. Hicks.
+    Frederick C. Hicks.
+
+Cluster 110:
+    Sources of Rules of State Courts.
+    Sources of Rules of State Courts .
+
+Cluster 111:
+    Doing Justice.
+    Doing Justice.
+
+Cluster 112:
+     New Collecting Areas for Law Libraries.
+     New Materials for Law Libraries to Collect.
+
+Cluster 113:
+    Anatomy of the AALL Scholarships and Grants.
+    AALL Scholarships and Grants Phase II or Anatomy of the AALL Scholarships and Grants Revisited.
+    AALL Scholarships and Grants, 1984.
+
+Cluster 114:
+    Revision of the Copyright Law.
+    Tentative Recommendations of the Copyright Office on the Revision of the Copyright Law.
+
+Cluster 115:
+    Legal Data and Information in Practice.
+    Legal Information for the Public.
+
+Cluster 116:
+    History of the Social Law Library, Boston.
+    Social Law Library, Boston, Massachusetts.
+
+Cluster 117:
+    Present Legal Status and Conditions of Prison Law Libraries.
+    Improving the Use of Prison Law Libraries.
+
+Cluster 118:
+    The Preparation of the Law Library List.
+    Selection of Treatises in Academic Law Libraries.
+
+Cluster 119:
+    Designing and Maintaining Law Library Web Sites.
+     Managing a Law Library Web Site Redesign Project.
+
+Cluster 120:
+    Law Libraries in California.
+    California State Law Library Services to California County Law Libraries.
+     The Case of the California State Library, Law Library.
+
+Cluster 121:
+    The Science behind the Art of Legal Writing, Second Edition.
+    The Frontiers of Legal Writing.
+
+Cluster 122:
+    Editing the Session Laws of the State of New York.
+    The Session Laws of the State of New York.
+    New York Session Laws-Facts and Foibles.
+
+Cluster 123:
+    Legal Research Demystified.
+    Deconstructing Legal Research.
+
+Cluster 124:
+    Managing Student Assistants in the Law Library.
+     Librarian-Supervised Students as Research Assistants in the Law Library.
+
+Cluster 125:
+    Compensation of Law Library Personnel in 1951.
+    Compensation of Law Library Personnel in 1954.
+    Compensation of Law Library Personnel in 1955.
+
+Cluster 126:
+    The Case for County Law Library Consortia.
+    Introduction to Law Library Consortia.
+    Law Library Consortia.
+
+Cluster 127:
+    The Need for Faculty Status and Uniform Tenure Requirements for Law Librarians.
+    Tenure Advice for Law Librarians and Their Directors.
+    Tenure for the Law Library Director.
+    Status and Tenure for Academic Law Librarians.
+
+Cluster 128:
+    Cataloging According to Legal Principles.
+    The Cataloging of Legal Material for Non-Legal Purposes.
+    Cataloging Legal Materials On-Line.
+
+Cluster 129:
+    Preservation Book Survey in an Academic Law Library .
+    Survey of Preservation Efforts in Law Libraries.
+    Preservation Concerns for Law Libraries.
+
+Cluster 130:
+    A Marketing Plan for the Law Library.
+    Marketing as an Integral Part of Law Library Management.
+    How to Develop a Marketing Plan for a Law Firm Library.
+
+Cluster 131:
+    Fundamentals of Foreign Treaty Research.
+    Treaty Research Basics.
+
+Cluster 132:
+    Use of Law Books.
+     A Test Case in the Use of Law Books.
+
+Cluster 133:
+     The Law Library of the University of Texas.
+    The Law Library of Baylor University.
+
+Cluster 134:
+    Upgrade Your Teaching.
+    Improving Your Teaching.
+
+Cluster 135:
+    Online Law Library Maps.
+
+Cluster 136:
+    An Introduction to Canadian Legal Research.
+    Indexing Canadian Legal Literature.
+
+Cluster 137:
+    Electronic Technology and the Law Firm Librarian.
+    Technology and the Law School Librarian of the Twenty-First Century.
+
+Cluster 138:
+    The Function of the Law School Librarian.
+    The All-Purpose Law Librarian.
+     The Vital Role of the Law Librarian.
+
+Cluster 139:
+    Historical Sketch of American Legal Periodicals.
+    Anglo-American Legal Periodicals.
+    Anglo American Legal Periodicals.
+    Anglo-American Legal Periodicals.
+
+Cluster 140:
+    General Reference Books for the Law Library.
+    Non-Legal Reference Books for Law Libraries.
+
+Cluster 141:
+    Law Cataloging as a Specialized Field.
+    An Institute on Law Cataloging.
+
+Cluster 142:
+    Time Management.
+
+Cluster 143:
+     Microcomputers in Law Library Automation.
+     Microcomputers in the Law Library.
+    Microcomputers and Law Library Automation.
+
+Cluster 144:
+    Post-Admission Legal Education and the Law Librarian.
+     Law School, the New Legal Education and the Law Library.
+
+Cluster 145:
+    A Suggested Master's Program in Law Librarianship for Columbia University.
+    A Proposed Program for Law Librarianship.
+
+Cluster 146:
+    The Law Librarian of the Twentieth and Twenty-First Centuries.
+    Recollections of a Mid-Twentieth-Century Law Firm Librarian.
+
+Cluster 147:
+     Literary Warrant and West's Key Number System.
+
+Cluster 148:
+     A Modest Proposal.
+     A Modest Proposal.
+    A Response to a Modest Proposal.
+
+Cluster 149:
+    A Law Librarian's Ten Commandments.
+    A Law Librarian's Ten Commandment's.
+
+Cluster 150:
+     An Appreciation.
+     An Appreciation.
+     An Appreciation.
+     An Appreciation.
+
+Cluster 151:
+     Memos.
+
+Cluster 152:
+    What's Wrong with Legal Research and Writing--Problems and Solutions.
+
+Cluster 153:
+    Merging West and Thomson.
+
+Cluster 154:
+    Crystal Ball-Reading Skills Required.
+
+Cluster 155:
+    Creating an Outline Tutorial and Pathfinder.
+
+Cluster 156:
+    Politics Most Foul - Winston Overton's Ghost and the Louisiana Judicial Election of 1934.
+
+Cluster 157:
+    The Catalog vs. the Home Page - Best Practices in Connecting to Online Resources.
+
+Cluster 158:
+     Twenty-Five Selected Readings.
+
+Cluster 159:
+     Unity and Diversity over Two Millennia.
+
+Cluster 160:
+     A Student's Perspective.
+
+Cluster 161:
+     Are There New Divisions of Labor.
+
+Cluster 162:
+    Nonlegal Databases for the Law Librarian.
+    Usage of Nonlegal Databases in Law Firm and Academic Law Libraries.
+
+Cluster 163:
+    The New Copyright Act-Its Implications for Law Libraries.
+    The New United Kingdom Copyright Act and Its Implications for Libraries and Archives.
+
+Cluster 164:
+    Keeping Validity in Cite.
+
+Cluster 165:
+     Further Along the Sabbatical Trail.
+
+Cluster 166:
+    Improving Education-Delivery in the Twenty-First Century.
+
+Cluster 167:
+     1993-2005 Supplement.
+
+Cluster 168:
+    Acquisitions.
+    Acquisitions - Part I.
+
+Cluster 169:
+    Dough, Re, Me.
+
+Cluster 170:
+     Minorities and Women in Criminal Justice.
+
+Cluster 171:
+    A Response to Taylor's Comparison of Shepard's and KeyCite.
+    Another Response to Taylor's Comparison of KeyCite and Shepard's .
+
+Cluster 172:
+    Confidentiality of Library Records.
+     The Confidentiality of Library Records.
+
+Cluster 173:
+     Stories of Self-Represented Litigants and a Call for Using Cognitive Linguistics to Work with Them.
+
+Cluster 174:
+    Mike Jacobstein.
+
+Cluster 175:
+     A Survey.
+     A Survey .
+     A Survey.
+     A Survey.
+     A Survey.
+     A Survey.
+
+Cluster 176:
+    Advanced Legal Research Courses.
+
+Cluster 177:
+     The Discipline of Law Schools and the Making of Post-Modern Lawyers.
+
+Cluster 178:
+    First Person... My Time on Rikers Island.
+
+Cluster 179:
+    Why Do We Ask the Same Questions - The Triple Helix Dilemma Revisited.
+
+Cluster 180:
+    R-E-S-P-E-C-T, Find Out What It Means to Me.
+
+Cluster 181:
+    Technology for Everyone... Podcasts and Podcasting for Law Librarians.
+
+Cluster 182:
+    Servant Leadership.
+
+Cluster 183:
+    Let the People Know the Facts.
+
+Cluster 184:
+    On Bacon's Rules and Maximes of the Common Law.
+    A Translation of Bacon's Maxims of the Common Law.
+
+Cluster 185:
+    The Victorian-Era Law Office.
+
+Cluster 186:
+    A Researcher's Guide to the Watergate Affair--Part I.
+    A Researcher's Guide to the Watergate Affair--Part II.
+    A Researcher's Guide to the Watergate Affair Part III.
+
+Cluster 187:
+    William Wyche.
+
+Cluster 188:
+     Emerging Roles for the Collection Development Librarian.
+
+Cluster 189:
+    Library Administration of Historical Materials.
+    Library Administration of Historical Materials.
+    Library Administration of Historical Materials.
+
+Cluster 190:
+    Federal Documents, 1978.
+    Federal Documents 1979.
+    Federal Documents 1980.
+
+Cluster 191:
+    A Working Lawyer's Life.
+
+Cluster 192:
+    Managing by the Book... Perfecting Negotiating Techniques.
+
+Cluster 193:
+    Law Libraries in the Cloud.
+     Availability to Law Libraries.
+
+Cluster 194:
+    The Universe of Thinking Thoughts.
+
+Cluster 195:
+    Climb High.
+
+Cluster 196:
+     Libraries Ask, Hey, How Am I Doing.
+
+Cluster 197:
+    Legal Newspapers in the United States.
+    Checklist of Legal Newspapers in the United States.
+
+Cluster 198:
+     Births, Deaths and Changes Since 1942.
+     Births, Deaths and Changes Since May, 1945.
+     Births, Deaths, and Changes Since November 1946.
+
+Cluster 199:
+     Engineers, Artists, and Librarians.
+
+Cluster 200:
+    The Essentials of an Effective Law School Library Service.
+    Some Suggestions for Improving the Law School Library Service.
+
+Cluster 201:
+     Having a Difficult Conversation with the Boss, The .
+
+Cluster 202:
+     Embracing the Computer Age.
+
+Cluster 203:
+    Neutral Citation, Court Web Sites, and Access to Authoritative Case Law.
+
+Cluster 204:
+    The Glorious Uncertainty of Law Librarianship.
+     A Reality for Law Librarians.
+
+Cluster 205:
+    What's in a Statute Name.
+
+Cluster 206:
+    On Having a Bad Day.
+
+Cluster 207:
+     A Cautionary Tale.
+
+Cluster 208:
+    Statehood and the Law of Self-Determination.
+
+Cluster 209:
+    Law Librarianship Training at the University of Washington.
+    History of the University of Washington Law Librarianship Program.
+
+Cluster 210:
+    Tradition and Change in Law Library Goals.
+    Tradition and Innovation in the Law Library.
+
+Cluster 211:
+    Research Needs in Academic Law Libraries.
+    Law Libraries and the Scholarly Mission.
+
+Cluster 212:
+     A Case Study.
+     A Case Study.
+     A Case Study.
+
+Cluster 213:
+    Clinical Legal Education and the Law Library.
+    Clinical Legal Education and the Law Library--An Update.
+
+Cluster 214:
+    Sources for the Legal History of the American Revolution - Part I.
+    Commentary on Sources for the Legal History of the American Revolution - Part II.
+
+Cluster 215:
+     An Overview.
+     An Overview.
+
+Cluster 216:
+    Serendipity in the Stacks, Fortuity in the Archives.
+
+Cluster 217:
+    Are Public Law Librarians Immune from Suit - Muddying the Already Murky Waters of Law Librarian Liability.
+
+Cluster 218:
+    Present in Its Absence.
+
+Cluster 219:
+     Truly a Giant.
+
+Cluster 220:
+    Candy, Points, and Highlighters.
+
+Cluster 221:
+    Atlanta Law Libraries Association.
+
+Cluster 222:
+    The History of Statutory Compilations in Pennsylvania.
+
+Cluster 223:
+     What Is the Modern Legal Researcher to Do.
+
+Cluster 224:
+     The Letter Book of John Henry Senter.
+
+Cluster 225:
+    My Year of Citation Studies, Part 1.
+     My Year of Citation Studies, Part 2.
+     My Year of Citation Studies, Part 3.
+     My Year of Citation Studies, Part 4.
+
+Cluster 226:
+    Federal Tax Sources Recommended for Law School Libraries.
+
+Cluster 227:
+     Access Policies at Academic Law Libraries and Access to Justice.
+    Leveraging Academic Law Libraries to Expand Access to Justice.
+
+Cluster 228:
+    The Use of Machine Translation by Law Librarians - A Reply to Yates.
+
+Cluster 229:
+    Professional Law Libraries of Great Britain.
+    University Law Libraries of Great Britain.
+    English Law Libraries.
+
+Cluster 230:
+    Jewish Law for the Law Librarian.
+
+Cluster 231:
+    Legal Information, the Informed Citizen, and the FDLP.
+
+Cluster 232:
+     The Librarian's Role in Library Construction.
+
+Cluster 233:
+    J. Myron Jacobstein - Law Librarian Extraordinaire, Scholar, Collaborator, and Dear Friend.
+
+Cluster 234:
+    The Queen of Chula Vista.
+
+Cluster 235:
+    An Index to Memorials Published in the Law Library Journal, 1916-92.
+    Index of Memorials Published in the Law Library Journal.
+
+Cluster 236:
+    California Legal History.
+    California Legal History.
+    California Legal History.
+
+Cluster 237:
+    Cataloguing Law Books with Special Reference to Cooperative Indexing and Index Cards.
+    Indexing Law Books.
+
+Cluster 238:
+    The Legal Systems of Canada.
+    The Quebec Legal System.
+    The Quebec Legal System.
+
+Cluster 239:
+    Chicken Little at the Reference Desk.
+     A Reply to Chicken Little at the Reference Desk.
+
+Cluster 240:
+    The Law Library Mission Statement.
+
+Cluster 241:
+    International Law Book Prices.
+    Reply to Kearley's International Law Book Prices.
+
+Cluster 242:
+     What Can We Learn from Princeton's Long-Standing Tradition.
+
+Cluster 243:
+    The Durham Statement Two Years Later.
+    A Response to the Durham Statement Two Years Later.
+
+Cluster 244:
+     A Step-by-Step Guide.
+     A Step-by-Step Approach.
+
+Cluster 245:
+     Microforms - Part IV.
+    Microforms.
+    Microforms.
+
+Cluster 246:
+    A Law Librarian at Cooperstown.
+
+Cluster 247:
+    A Brief History of Computer-Assisted Legal Research.
+    Assessing the Influence of Computer-Assisted Legal Research.
+
+Cluster 248:
+    A Few Notes on the Department of Justice Library.
+    The Libraries of the Department of Justice.
+
+Cluster 249:
+    Of Reference and Revelation.
+
+Cluster 250:
+    Loose Leaf Law Reports.
+    Law Reports Loose Leaf System.
+
+Cluster 251:
+    Technology for Everyone....
+
+Cluster 252:
+    Practicing Reference.
+    Practicing Reference.
+    Practicing Reference.
+    Practicing Reference.
+    Practicing Reference.
+
+Cluster 253:
+    The Essential Law Library Journal.
+    Law Library Journal.
+    A History of the Law Library Journal.
+    A Short Look at Twenty-Five Years of the Law Library Journal.
+
+Cluster 254:
+    Lawyers' Papers as a Source of Legal History.
+    Lawyers' Papers as a Source of Legal History.
+
+Cluster 255:
+    Are Computer Service Agencies Responding to the Needs of Libraries.
+    Computer Service Agencies and the Needs of Libraries.
+
+Cluster 256:
+     A Problem for Law Librarianship, Political Science Research, and Democracy.
+     The Role of Academic Law Librarians in Promoting Democracy.
+
+Cluster 257:
+    Klassification.
+    Klassification Again.
+
+Cluster 258:
+    Legal Information as Social Capital.
+
+Cluster 259:
+    Restoring the Balance of Copyright.
+    Rebalancing Copyright.
+
+Cluster 260:
+    Comparing KeyCite and Shepard's for Completeness, Currency, and Accuracy.
+
+Cluster 261:
+    An Introduction to Law and Law Libraries in India.
+     The Experience of the National Indian Law Library.
+
+Cluster 262:
+    The Valuation of a Law Library.
+    The Value of the Law Library to Layman, Legislator and Lawyer.
+    The Value of the Law Library to Layman, Lawyer, and Legislator.
+
+Cluster 263:
+    The Supreme Court Compendium.
+
+Cluster 264:
+    Reflections on Ranganathan's Five Laws of Library Science.
+
+Cluster 265:
+    Story Time in the Law Library.
+
+Cluster 266:
+    Private Libraries for the Legal Profession.
+    The Private Law Librarian--A Complete Library Professional.
+
+Cluster 267:
+     An Update.
+     An Update.
+
+Cluster 268:
+    Redefining a Profession.
+
+Cluster 269:
+    Re.
+
+Cluster 270:
+    Profiling Minority Law Librarians.
+    Profiling Minority Law Libraries.
+
+Cluster 271:
+    Staffing for Computing Services in Academic Law Libraries.
+
+Cluster 272:
+     Academic Law Librarians and CALR Vendors.
+
+Cluster 273:
+    Keeping Watch on the Waterfront.
+
+Cluster 274:
+    History of the American Association of Law Libraries, The Founders and the Early Years, 1906-1929.
+    History of the American Association of Law Libraries, the Roalfe Plan and the Middle Years, 1930-1942.
+    History of the American Association of Law Libraries Up Until Now, 1943-1955.
+
+Cluster 275:
+    The Annual Performance Evaluation.
+
+Cluster 276:
+    Library School Training for Law Library Employees.
+    Training New Law Library Personnel.
+
+Cluster 277:
+     How Legislative Procedure Shapes Legislative History.
+     A Legislative History Analysis.
+
+Cluster 278:
+    A History of the Appellate Division Law Library, Rochester, New York.
+
+Cluster 279:
+    Survey of Federal Court Libraries.
+    Survey of Court Law Libraries.
+    Survey of State, Court, and County Law Libraries.
+
+Cluster 280:
+     An Ethical Dilemma for Librarians.
+     A Librarian's Dilemma.
+
+Cluster 281:
+     Lessons from the Minor Leagues.
+
+Cluster 282:
+     A Research Guide.
+     A Guide to Research Sources.
+
+Cluster 283:
+    Academic Libraries and the Crisis in Legal Education.
+    Legal Education in Crisis, and Why Law Libraries Are Doomed.
+
+Cluster 284:
+     Publication Patterns in the Eighth and Tenth Circuits of the United States Court of Appeals.
+
+Cluster 285:
+    Trends in Compensation of Academic Law Librarians, 1971-91.
+
+Cluster 286:
+    Meaningful Access to the Courts and Law Libraries.
+
+Cluster 287:
+    Managing by the Book... Moving into Management.
+
+Cluster 288:
+    Lawyer-Librarians in Public Law Schools.
+    Lawyer-Librarians in Public Law Schools.
+
+Cluster 289:
+    The Career Path, Education, and Activities of Academic Law Library Directors Revisited Twenty-Five Years Later.
+    The Career Paths and Education of Current Academic Law Library Directors.
+    Evaluating Academic Law Library Directors.
+
+Cluster 290:
+    The Harvard Law School Library.
+    The Harvard Law Library.
+    The Harvard Law School Library.
+    The Harvard Law Library and Some Account of Its Growth.
+
+Cluster 291:
+    Foreign Legal Periodicals in American Law Libraries - A Union List.
+    Foreign Legal Periodicals in American Law Libraries-A New Union List.
+    Foreign Legal Periodicals in American Law Libraries 1973 Union List.
+
+Cluster 292:
+    Law Libraries of the South.
+    Southern Law School Libraries.
+
+Cluster 293:
+     An Analysis of Full-Text Legal Document Retrieval.
+    Another Analysis of Full-Text Legal Document Retrieval.
+
+Cluster 294:
+    How Many Copies Are Enough - Using Citation Studies to Limit Journal Holdings.
+
+Cluster 295:
+     Choices, Approaches, and Standards.
+
+Cluster 296:
+     Administrative Issues and Concerns.
+
+Cluster 297:
+    Justice Fred Blume and the Translation of Justinian's Code.
+
+Cluster 298:
+     How and Why Legal Language Is Different.
+
+Cluster 299:
+     Thinking Like a Lawyer in the Computer Age.
+
+Cluster 300:
+    Peer to Peer Meets the World of Legal Information.
+
+Cluster 301:
+    How the United States Perfects an International Agreement.
+
+Cluster 302:
+    Frederick Hicks's Strategic Vision for Law Librarianship.
+
+Cluster 303:
+    Legal Research Instruction after the First Year of Law School.
+
+Cluster 304:
+    When a Woman's Marital Status Determined Her Legal Status.
+
+Cluster 305:
+    The Egalitarian Fallacy.
+
+Cluster 306:
+    From Ownership to Access.
+
+Cluster 307:
+    Blazing Trails in a New Kentucky Wilderness.
+
+Cluster 308:
+    On Asking for Help.
+
+Cluster 309:
+    The Common Law in the American Legal System.
+
+Cluster 310:
+    The Law and Order of Presidency.
+
+Cluster 311:
+    How Shepard's Citations Lost Its Flock.
+
+Cluster 312:
+    Burnout.
+
+Cluster 313:
+    Three Researchers in Search of an Alcove.
+
+Cluster 314:
+    Legal Materials of the United States in the People's Republic of China.
+
+Cluster 315:
+     Why All Those Old State Reports Really Matter.
+
+Cluster 316:
+    Editor's Postscript.
+
+Cluster 317:
+     The Compleat Experience.
+
+Cluster 318:
+    Reading between the Lines.
+
+Cluster 319:
+    To Defend the Constitution.
+
+Cluster 320:
+     Data, Decisions, and Developments.
+
+Cluster 321:
+    An Economic Analysis of Early Casebook Publishing.
+
+Cluster 322:
+     Ten Basic Guidelines.
+
+Cluster 323:
+     Promoting Learning through Learner-Centered Assessment.
+
+Cluster 324:
+    Et Ano..
+
+Cluster 325:
+    Redefining Open Access for the Legal Information Market.
+
+Cluster 326:
+    The Pajama Way of Research.
+
+Cluster 327:
+    Celebrating the Virtues of Saying I Don't Know.
+
+Cluster 328:
+    Alphabetical Order and Other Simple Systems.
+
+Cluster 329:
+    Pursuing Fair Use, Law Libraries, and Electronic Reserves.
+
+Cluster 330:
+     The Technical Problems.
+
+Cluster 331:
+    In Search of the Delicate Balance.
+
+Cluster 332:
+    These Are a Few of My Favorite Books.
+
+Cluster 333:
+    What Do You Do All Day.
+
+Cluster 334:
+    Beyond Training.
+
+Cluster 335:
+    Acquiring Minds Want to Know.
+
+Cluster 336:
+     Issues in Drafting Format Selection Guidelines.
+
+Cluster 337:
+    U.N. Documents in U.S. Case Law.
+
+Cluster 338:
+    Firm Facts.
+    Firm Facts.
+
+Cluster 339:
+    Speed of Publication of Statutes and Regulations in the United Kingdom, Canada, and the United States.
+
+Cluster 340:
+     1969-1986.
+
+Cluster 341:
+     Bringing Order to Law on the Internet.
+
+Cluster 342:
+     Staying Power.
+
+Cluster 343:
+    Gale Encyclopedia of Everyday Law.
+
+Cluster 344:
+    The Copying of Literary Property in Library Collections.
+    The Copying of Literary Property in Library Collections, Part II.
+
+Cluster 345:
+    Creating a Supplemental Thesaurus to LCSH for a Specialized Collection.
+
+Cluster 346:
+    Remembrances of J. Myron Jacobstein.
+
+Cluster 347:
+    Researching Legal History in the Digital Age.
+
+Cluster 348:
+    Scaling the Tower of Babel Fish.
+
+Cluster 349:
+     How Experienced Law Librarians Make Their Work Rewarding.
+
+Cluster 350:
+    Remembrances of William D. Murphy.
+
+Cluster 351:
+    AALL History through the Eyes of Its Presidents.
+
+Cluster 352:
+    2004-05 Completed Research Grant Project.
+
+Cluster 353:
+     Early Kentucky Case Law Digests.
+
+Cluster 354:
+     The Neglected, Essential Activity.
+
+Cluster 355:
+    The New Jersey Courts Publishing Project of the Rutgers-Camden Law Library.
+
+Cluster 356:
+    Research Protocols in Reference Service.
+
+Cluster 357:
+    From Brown to Topeka to the Future.
+
+Cluster 358:
+    The Digests of Pennsylvania.
+
+Cluster 359:
+     Past and Present .
+
+Cluster 360:
+    The Law Review Symposium Issue.
+
+Cluster 361:
+    When Goals Collide.
+
+Cluster 362:
+    A Pattern of Violence.
+
+Cluster 363:
+    A Historical Sketch of the Montana State Law Library.
+
+Cluster 364:
+    A View from the Inside Looking In.
+
+Cluster 365:
+    Separating State from Church.
+
+Cluster 366:
+    European Union Legal Materials.
+
+Cluster 367:
+    Legal Research without Books.
+
+Cluster 368:
+     How to Furnish Your Workplace for under $100.
+
+Cluster 369:
+     An Analysis.
+
+Cluster 370:
+    A Comparative Lawyer's Review of the LC Classification System.
+
+Cluster 371:
+     How Automation Has Transformed the Law.
+
+Cluster 372:
+    The Rule of Lawyers.
+
+Cluster 373:
+     A Citation Analysis of World Wide Web Sites.
+
+Cluster 374:
+    The Role of a National Legal Information Center in the Access to Justice.
+
+Cluster 375:
+    Managing Internal Administrative Change.
+
+Cluster 376:
+    Tip Jars at the Law Library Reference Desk.
+
+Cluster 377:
+    The Interaction of the Americans with Disabilities Act, the Family Medical Leave Act, and the Pregnancy Discrimination Act and Their Impact on Libraries.
+
+Cluster 378:
+     A Survey of ABA-Accredited Law Schools.
+
+Cluster 379:
+     Where Are We Now.
+
+Cluster 380:
+    Volume Count.
+
+Cluster 381:
+    Preliminary Drafts of the Restatements.
+    Preliminary Drafts of the Restatements.
+
+Cluster 382:
+     Charles R. McCarthy and the Evolution of the Legislative Reference Movement, 1901-1917.
+
+Cluster 383:
+    Cancellation of Serials in Budget Crisis.
+
+Cluster 384:
+    Baseless Hysteria.
+
+Cluster 385:
+    Cool Web Sites.
+
+Cluster 386:
+     A Foundation for Building Research Strategies.
+
+Cluster 387:
+    The Faculty Services Department.
+    Faculty Services.
+
+Cluster 388:
+    Technology for Everyone... Making Presentations Visual.
+
+Cluster 389:
+     The Controversy between the Department of Justice and the American Library Association over the USA PATRIOT Act.
+
+Cluster 390:
+    Retrospective Application of Class KF at Davis.
+
+Cluster 391:
+    CD-Rom Journal Indexes.
+
+Cluster 392:
+    The Civil Law Heritage in the Transformation of Quebec Private International Law.
+
+Cluster 393:
+    Most-Cited U.S. Courts of Appeals Cases from 1932 until the Late 1980s.
+
+Cluster 394:
+    Bouvier's, Black's, and Tinkerbell.
+
+Cluster 395:
+    Eulogy for My Father.
+
+Cluster 396:
+    Rebooting the Approach to Teaching Research.
+
+Cluster 397:
+    On Not Doing Research.
+
+Cluster 398:
+     A Comparative Study.
+     A Comparative Study.
+
+Cluster 399:
+    Free to Be You and Me.
+
+Cluster 400:
+    An Analysis of Citations to Authority in Ohio Appellate Decisions Published in 1990.
+
+Cluster 401:
+    Integrating Document Delivery Services with Electronic Document Delivery Technologies.
+
+Cluster 402:
+    Citation Advantage of Open Access Legal Scholarship.
+    Revisiting the Open Access Citation Advantage for Legal Scholarship.
+
+Cluster 403:
+    Outsourcing.
+
+Cluster 404:
+     Maximizing Their Impact and Resources.
+
+Cluster 405:
+    A Measure of CALR Use by First-Year Law Students Following Mandatory Training.
+
+Cluster 406:
+    French Civil Law System Since 1804.
+
+Cluster 407:
+    Research Techniques in British Legal Materials.
+
+Cluster 408:
+    Private Bills and Private Laws.
+
+Cluster 409:
+    A Survey of Computerized Legislative Information Systems.
+    Automated Legislative Information Systems.
+
+Cluster 410:
+    Library Needs of a Patent Attorney .
+
+Cluster 411:
+     How Do Students Learn.
+
+Cluster 412:
+    Preserving Print Legal Information.
+
+Cluster 413:
+    Better Search Engines for Law.
+
+Cluster 414:
+    Something Little and Shiny on the Judicial Stage.
+
+Cluster 415:
+    By Command of Her Majesty.
+
+Cluster 416:
+     A Research Guide on the Common Law Doctrine of Coverture.
+
+Cluster 417:
+    Has the Bluebook Met Its Match--The ALWD Citation Manual.
+
+Cluster 418:
+    Managing Information and Libraries in the Electronic Era.
+
+Cluster 419:
+     How the New Litigation Elite Threatens America's Rule of Law.
+
+Cluster 420:
+     A Study of California Supreme Court Opinions.
+
+Cluster 421:
+    Development of a Maritime Law Classification.
+
+Cluster 422:
+    Selected Readings on Diversity Issues.
+    Selected Readings on Diversity Issues.
+
+Cluster 423:
+    Library Photocopying and Copyright.
+    The Ethical Aspects of Photocopying as They Pertain to the Library, the User and the Owner of Copyright.
+    Copyright Law and Library Photocopying.
+
+Cluster 424:
+    A Friendship Built on Lunch, Licorice, and Slivovitz.
+
+Cluster 425:
+    A Supreme Court Mediagraphy.
+
+Cluster 426:
+    The Acquisition of Out-of-Print and Antiquarian Law Books.
+
+Cluster 427:
+    Job Searching beyond the Classifieds.
+
+Cluster 428:
+    Greater Philadelphia Law Library Association 1977 Survey.
+    Greater Philadelphia Law Library Association 1979 Survey.
+
+Cluster 429:
+    Measuring the Importance of Supreme Court Decisions.
+
+Cluster 430:
+    The Other Amendments.
+
+Cluster 431:
+    The Circle of Life.
+
+Cluster 432:
+     The Essence of Professionalism and Key to the Future of Law Librarianship as a Profession.
+
+Cluster 433:
+    Visual Literacy and the Design of Legal Web Sites.
+
+Cluster 434:
+    Viola A. Bird - A Biographical Sketch.
+
+Cluster 435:
+    Death and Rebirth of a National Information Policy.
+
+Cluster 436:
+    Paper versus Electronic Sources for Law Review Cite Checking.
+
+Cluster 437:
+    Next Steps.
+
+Cluster 438:
+    Evidence-Based Librarianship.
+
+Cluster 439:
+    Is an Annual Report in Your Library's Future.
+
+Cluster 440:
+     Social Responsibility in Legal and Library Professional Organizations.
+
+Cluster 441:
+    Care and Maintenance of the Successful Career.
+
+Cluster 442:
+    The Value of Business-Related Information in the Academic Law Library.
+
+Cluster 443:
+    Diversity and Professional Activism.
+
+Cluster 444:
+    Legal Information Systems and Other Law-Related Databases in Germany, Austria, and Switzerland.
+
+Cluster 445:
+     A Public Library Perspective.
+
+Cluster 446:
+     Standards of Quality for the Law Library of Tomorrow.
+
+Cluster 447:
+     Electronic Dynamos or Legal Quagmire.
+
+Cluster 448:
+     A Librarian's Guide to the Opinions of Justice Michael A. Musmanno.
+
+Cluster 449:
+    Legal Information and the Development of American Law.
+
+Cluster 450:
+    Legal Databases, Legal Epistemology, and the Legal Order.
+
+Cluster 451:
+    Little Biographies.
+
+Cluster 452:
+     Your Annotated Guide to the Constitution.
+
+Cluster 453:
+    The Smith Nicholas Law Library.
+
+Cluster 454:
+    Mastering the Lawless Science of Our Law.
+
+Cluster 455:
+    Irish Legal History.
+
+Cluster 456:
+     Necessary Evil or Golden Opportunity.
+
+Cluster 457:
+    The Staff Study.
+
+Cluster 458:
+    European Law in the Past and the Future.
+
+Cluster 459:
+     Oxymoron or Trainable Skill.
+
+Cluster 460:
+     Electronic Data Interchange in the Law Library Environment.
+
+Cluster 461:
+    User Surveys.
+
+Cluster 462:
+    The Trouble with Utopia.
+
+Cluster 463:
+    Too Many Jobs, Too Few Job Seekers--A Study of Law Librarianship Job Data Samples, 1989-1999.
+
+Cluster 464:
+     Debunking Leadership Myths.
+
+Cluster 465:
+    International Organizations Documentation and International Law Collections.
+
+Cluster 466:
+    Growth Analysis of the Major Supplemented Law Books in a County Law Library.
+
+Cluster 467:
+    The Genesis of an Act of Congress.
+
+Cluster 468:
+    Citations in Supreme Court Opinions and Briefs.
+
+Cluster 469:
+     Should Paper Be the Gold Standard.
+
+Cluster 470:
+    A Blog's Life.
+
+Cluster 471:
+    Diversity Deferred.
+
+Cluster 472:
+    Making Sense of Making Stories.
+
+Cluster 473:
+     The Scale of Justice (A Descant for Entering First-Year Law Students).
+
+Cluster 474:
+    Bollywood Law.
+
+Cluster 475:
+    Researching outside the Box.
+
+Cluster 476:
+    Academic Law Library Statistics, 1876-1992.
+
+Cluster 477:
+    Automation in Law Libraries.
+    Automation in the Private Law Library.
+
+Cluster 478:
+    Lawyer's Language.
+
+Cluster 479:
+    Creating an Expert System for Legislative History Research.
+
+Cluster 480:
+    Motivating Law Students to Develop Competent Legal Research Skills.
+
+Cluster 481:
+    The Best Tool for Building a Web Site.
+
+Cluster 482:
+    The Complete Legal Guide to Senior Care.
+
+Cluster 483:
+    Just Looking.
+
+Cluster 484:
+     Pro- or Anti-Competitive.
+
+Cluster 485:
+    Finding out What They Want to Know.
+
+Cluster 486:
+    Emperor's New Clothes.
+
+Cluster 487:
+    Response to Wayne P. Kelley.
+    Response to Wayne P. Kelley.
+
+Cluster 488:
+    Strict Liability for the Dissemination of Dangerous Information.
+
+Cluster 489:
+    Legislative Councils.
+    Legislative Councils.
+
+Cluster 490:
+    Supplement to a Checklist of the Publications of the Sections of the American Bar Association.
+    Second Supplement to a Checklist of the Publications of the Sections of the American Bar Association.
+
+Cluster 491:
+    Feasibility and Viability of the Digital Library in a Private Law Firm.
+
+Cluster 492:
+    Technology for Everyone... Tools for Creating Video Tutorials.
+
+Cluster 493:
+    Superseded Material in the Law Library.
+
+Cluster 494:
+    Current Problems Facing State Law Libraries.
+
+Cluster 495:
+    From Key Numbers to Keywords.
+
+Cluster 496:
+     A Practicum.
+
+Cluster 497:
+    The Reports of the Supreme Court of Pennsylvania.
+
+Cluster 498:
+    Indexing Legislation.
+    Indexing of Legislation.
+
+Cluster 499:
+    Legal Humor Dissected.
+
+Cluster 500:
+    Law School Library Organization in the Age of Computers.
+
+Cluster 501:
+     An Analysis of the Machine Translation of Legal Information.
+
+Cluster 502:
+     Can Government Information Removed from the Internet Be Reclaimed.
+
+Cluster 503:
+    Bounds and Reality.
+
+Cluster 504:
+    From Creativity to Computerese.
+
+Cluster 505:
+    Learning a Little about the World.
+
+Cluster 506:
+    A Manual to Inform Every Citizen.
+
+Cluster 507:
+     The Impact on the Federal Depository Library Program.
+
+Cluster 508:
+     Secondary Source Citations in United States Supreme Court Opinions October Terms 1900, 1940, and 1978.
+
+Cluster 509:
+     A Research Guide to the Law of the Vatican City State.
+
+Cluster 510:
+    The Law Librarian as Paratrooper.
+
+Cluster 511:
+    Moving Your Law Library.
+    Rearranging a Law Library.
+
+Cluster 512:
+     What to Do.
+
+Cluster 513:
+     Foreign and International Research and Nonspecialist.
+
+Cluster 514:
+    The Database and the Fields of Law.
+
+Cluster 515:
+     A White Paper.
+     A White Paper.
+
+Cluster 516:
+    A Three-Tiered Approach to Faculty Services Librarianship in the Law School Environment.
+
+Cluster 517:
+    Cataloging Reform.
+
+Cluster 518:
+     A Viable Program for Law Schools.
+
+Cluster 519:
+    Golf Buddy Reference Questions.
+
+Cluster 520:
+    Legislative Reference Work and the Law Library.
+    Law and Legislative Reference as Parts of a State Library.
+
+Cluster 521:
+    Literature of Economic Theory for Law Libraries.
+
+Cluster 522:
+    The Impact of Recent Litigation on Interlibrary Loan and Document Delivery.
+
+Cluster 523:
+    Selected Microforms on Legal Subjects.
+    Microforms on Legal Subjects.
+
+Cluster 524:
+    An Index to Special Court Sessions in West's Federal Reporters.
+
+Cluster 525:
+    Reference Sources in International Law.
+    Domestic Sources of International Law.
+
+Cluster 526:
+     Post-USA Patriot Act Electronic Surveillance at the Library.
+
+Cluster 527:
+    Print Citator Instruction.
+
+Cluster 528:
+    Adolf Sprudzs and the International Association of Law Libraries.
+
+Cluster 529:
+    Developing and Implementing a System of Nonlegal Database Services in a Law School Setting.
+
+Cluster 530:
+     A Final Response.
+
+Cluster 531:
+    Teaching Legal Reasoning in Law School.
+
+Cluster 532:
+     Wilsondisc Compared to Legaltrac.
+
+Cluster 533:
+    Rebuilding the Profession.
+
+Cluster 534:
+    Law Library Services to Rural Lawyers.
+
+Cluster 535:
+    LEXIS Membership Group Sponsorship.
+
+Cluster 536:
+    The Economic Value of Information.
+
+Cluster 537:
+    The Library as Storyteller.
+
+Cluster 538:
+    The Case of the Disappearing Briefs.
+
+Cluster 539:
+     1953-2002.
+
+Cluster 540:
+     The Legal System under the United States Military Government, 1846-1849.
+
+Cluster 541:
+     A Review and Some Suggestions.
+
+Cluster 542:
+     An Introduction to the Command Papers of the United Kingdom.
+
+Cluster 543:
+    MAUL.
+
+Cluster 544:
+    Online Legal Databases.
+
+Cluster 545:
+     The Viability of Staff Participation in Law Library Administration.
+
+Cluster 546:
+    Working Together.
+
+Cluster 547:
+    A More Cooperative Clerk.
+
+Cluster 548:
+    Is a Universal Collection of Treaties Feasible- An Appraisal of the U.N. Treaty Series.
+
+Cluster 549:
+     Solving a Collection Conundrum.
+
+Cluster 550:
+    Introduction.
+     An Introduction.
+
+Cluster 551:
+    The Supreme Court of Louisiana and Its Chief Justices.
+
+Cluster 552:
+    Issues in the Preservation of Born-digital Scholarly Communications in Law.
+
+Cluster 553:
+    The Impact of Automation on Small and Medium-Sized Law School Libraries.
+
+Cluster 554:
+    Frequently Asked Questions about AALL's First Hundred Years.
+
+Cluster 555:
+    Learning to Lead.
+
+Cluster 556:
+    About Buying Law Books.
+    Book Buying in the One-Librarian Law Library.
+
+Cluster 557:
+    Serving the Evening Law Student.
+
+Cluster 558:
+     A Technique for Coping with Change.
+
+Cluster 559:
+    How Do You Know When Research Is Good.
+
+Cluster 560:
+    Negotiating and Analyzing Electronic License Agreements.
+
+Cluster 561:
+     Some Practical Considerations.
+
+Cluster 562:
+    Review of Leather for Binding during the Last Eleven Years in England and America.
+
+Cluster 563:
+    Persistent Identification of Electronic Documents and the Future of Footnotes.
+
+Cluster 564:
+     New Name for an Old Practice.
+
+Cluster 565:
+     The Computer Didn't Make Me Do It.
+
+Cluster 566:
+    Major Publications of the United Nations Office of Legal Affairs.
+
+Cluster 567:
+    Qualitative Evaluation of Law School Library Services.
+
+Cluster 568:
+    Exploring the Court of Arbitration for Sport.
+
+Cluster 569:
+    Electronic Bulletin Boards for Law Libraries.
+
+Cluster 570:
+    Granting Certiorari by the United States Supreme Court.
+
+Cluster 571:
+    Collection Development Impact of a National Law Library.
+
+Cluster 572:
+    WESTLAW and the American Digest Classification Scheme.
+
+Cluster 573:
+    Technical Services Aspects of Data Base Integration into the Law Library .
+
+Cluster 574:
+    Client-Based Document Delivery Services.
+
+Cluster 575:
+    Reforming the Legal Profession.
+
+Cluster 576:
+    Web Wizards.
+
+Cluster 577:
+    Annual Meetings of AALL 1906-1996.
+
+Cluster 578:
+    Negligence Law for Libraries.
+
+Cluster 579:
+    A Chart of Ohio Case Law.
+    Ohio Case Law.
+
+Cluster 580:
+     Recommendations for Librarians Interested in Becoming Academic Law Library Directors.
+
+Cluster 581:
+    Why We Must Talk about the Information Commons.
+
+Cluster 582:
+    Classification of Law Textbooks.
+    The Classification of Law Books.
+
+Cluster 583:
+    Practical Solutions--Creating a Database for Research Requests.
+
+Cluster 584:
+     Commercial Hindi Films with Legal Themes.
+
+Cluster 585:
+    The New York Joint International Law Program Experience.
+
+Cluster 586:
+    Putting Legal Research into Context.
+    Context and Legal Research.
+
+Cluster 587:
+    Sourcebook on German Law.
+
+Cluster 588:
+    Diana Mary Priestly.
+
+Cluster 589:
+    Copyright and the Library Reserve Room.
+
+Cluster 590:
+     The First Printing of Fitzherbert's La Graunde Abridgement, 1514-1516.
+
+Cluster 591:
+    The Hearsay Rule.
+
+Cluster 592:
+    When Judges Scold Lawyers.
+
+Cluster 593:
+    A (Mostly) Legislative History of the Defend Trade Secrets Act of 2016.
+
+Cluster 594:
+    Murder in Middletown.
+
+Cluster 595:
+    The Law in the Near and Middle East Basic Sources in English.
+
+Cluster 596:
+    Inconsistency and Indecision in the United States Supreme Court.
+
+Cluster 597:
+    Legalese Revisited.
+
+Cluster 598:
+    Evaluation Criteria and Quality Control for Legal Knowledge Systems on the Internet.
+
+Cluster 599:
+     The Debate Revisited.
+
+Cluster 600:
+    Clouds of Codes.
+
+Cluster 601:
+    alt.lawlibrarian.
+
+Cluster 602:
+     Is There Anything Fair about It.
+
+Cluster 603:
+    Managing the Invisible Media.
+
+Cluster 604:
+    A New Law Firm Partnership.
+
+Cluster 605:
+    Practical Solutions--Dealing with Orphan Printouts.
+
+Cluster 606:
+    Orienting New Employees.
+
+Cluster 607:
+     The History of the Language Problem and the Use of Generic Terms.
+
+Cluster 608:
+     How Did It Begin.
+
+Cluster 609:
+    Housing Books .
+
+Cluster 610:
+    The Impact of Electonic Access on Basic Library Services.
+
+Cluster 611:
+     A Critique and Models for Change.
+
+Cluster 612:
+    Academic Law Libraries in Scandinavia.
+
+Cluster 613:
+     Some Theories, Some Facts and Some Reflections.
+
+Cluster 614:
+    A Marriage of Inconvenience - Congress and the District of Columbia.
+
+Cluster 615:
+    Trial Transcipts as Research Documents.
+
+Cluster 616:
+     Some Architectural Solutions.
+
+Cluster 617:
+    Survey of Single-Judge Municipal Court Libraries in Ohio.
+
+Cluster 618:
+    The Francis Hopkinson Law Reports.
+
+Cluster 619:
+     What Is Not Being Done.
+
+Cluster 620:
+    The Color of Creatorship.
+
+Cluster 621:
+    Chutzpah and the Law.
+
+Cluster 622:
+    One Step at a Time.
+
+Cluster 623:
+    Armed Citizens.
+
+Cluster 624:
+    Geac Computerized On-Line Circulation in University Libraries.
+
+Cluster 625:
+     Overview Update 1975.
+
+Cluster 626:
+    Administering the Library Conservation Program.
+
+Cluster 627:
+    Another Degree.
+
+Cluster 628:
+     Citations in Seconds.
+
+Cluster 629:
+    The Role of Latin American Legal Material in the Social Science Reseach Library.
+
+Cluster 630:
+    Far Beyond the Law Reports.
+
+Cluster 631:
+    Problems in Foreign Legal Acquisitions.
+
+Cluster 632:
+     OCLC and RLIN Compared.
+
+Cluster 633:
+     The Research Value of Law Student Notebooks.
+
+Cluster 634:
+    Why Can't Johnny Research-or It All Started with Christopher Columbus Langdell.
+
+Cluster 635:
+    Copyright and the Use of Telefacsimile among Branch Library Facilities.
+
+Cluster 636:
+    Hours of Opening and After-Hours Access in University Law Libraries.
+
+Cluster 637:
+    It's Time for a Positive Approach to Micro-Graphics.
+
+Cluster 638:
+    A Recent History of the Pricing of Government Publications.
+
+Cluster 639:
+    Building a National Law Library to Serve the World Legal Community.
+
+Cluster 640:
+    Ethical Standards in Publishing.
+
+Cluster 641:
+    Cromwell Library American Bar Foundation.
+
+Cluster 642:
+    A Five-Year Cumulative Index to Questions & Answers Vols. 77-81, 1984-1989.
+
+Cluster 643:
+     Acknowledging the Third Sovereign.
+
+Cluster 644:
+    Critique of Handbooks on Common Market Law .
+
+Cluster 645:
+     An Account of Its Development and Growth.
+
+Cluster 646:
+    An Impossible Task but Everybody Has To Do It--Teaching Legal Research in Law Schools.
+
+Cluster 647:
+     Predicting Materials Costs by Analyzing Past Expenditures.
+
+Cluster 648:
+    Speak Memory.
+
+Cluster 649:
+    Taking Care of Business.
+
+Cluster 650:
+    Indexing for Publishers.
+
+Cluster 651:
+    Appellate Court Briefs on the Web.
+
+Cluster 652:
+    Runaway Train.
+
+Cluster 653:
+    The Winds of Change.
+
+Cluster 654:
+     Moving Forward on a National Plan.
+
+Cluster 655:
+    The Video Collection.
+
+Cluster 656:
+     An Index.
+
+Cluster 657:
+    Work in the Pennsylvania Legislative Reference Bureau.
+
+Cluster 658:
+    Films 16mm in Legal Education.
+
+Cluster 659:
+    Researching Oral History Materials.
+
+Cluster 660:
+     An Overview for Teachers and Librarians.
+
+Cluster 661:
+    Weeding a Law Collection.
+
+Cluster 662:
+    OBAR and Mead Data Central System.
+
+Cluster 663:
+     An Initial Reaction.
+
+Cluster 664:
+    The Reference Librarian and the Pro Se Patron.
+
+Cluster 665:
+     A Biographical Sketch.
+
+Cluster 666:
+    Encounters with Sources.
+
+Cluster 667:
+    Vendor-Supplied Automated Authority Control.
+
+Cluster 668:
+    Perception versus Reality.
+
+Cluster 669:
+     The Challenge of Nursing Malpractice for the Law Librarian.
+
+Cluster 670:
+    Remodeling and Expanding Space.
+
+Cluster 671:
+    Internet Citations in Oklahoma Attorney General Opinions.
+
+Cluster 672:
+    Quality Control for Archival Tapes.
+
+Cluster 673:
+    Peaceful Partnerships.
+
+Cluster 674:
+     A Very Preliminary Listing.
+
+Cluster 675:
+    Cooperation among Lawyers.
+
+Cluster 676:
+     The Field and Its Literature.
+
+Cluster 677:
+    The Sensory Law Library.
+
+Cluster 678:
+    De Minimis Curat Lex.
+
+Cluster 679:
+    Expanding Your Base.
+
+Cluster 680:
+    Foreign and International Law Research Centers in West Germany.
+
+Cluster 681:
+     The Golden Gate University Law Library Membership Plan.
+
+Cluster 682:
+    Part II - Blacks.
+
+Cluster 683:
+    The Freedom of Information Act of 1966.
+
+Cluster 684:
+    German Division and Reunification, 1944-1990.
+
+Cluster 685:
+    Why Let Them Go--Retaining Experienced Librarians by Creating Challenging Internal Career Paths.
+
+Cluster 686:
+    While Justice Sleeps.
+
+Cluster 687:
+    Diversity in Conflict.
+
+Cluster 688:
+    Are You Now Or Have You Been a Law Librarian.
+
+Cluster 689:
+    An Overview of the Law of Electronic Surveillance Post September 11, 2001.
+
+Cluster 690:
+    Highways, Buildings, and Mountains.
+
+Cluster 691:
+     Planning and Implementing a Restricted Access Policy at the University of Michigan Law Library.
+
+Cluster 692:
+    Sexist Language.
+
+Cluster 693:
+     The Ethical Conundrums of Pro Bono Activities.
+
+Cluster 694:
+    Project Management.
+
+Cluster 695:
+    Bill Drafting.
+
+Cluster 696:
+    A Decimal System of Legal Classification.
+
+Cluster 697:
+    Limiting Secondary Patrons' Use of Academic Law Libraries during Examination Periods.
+
+Cluster 698:
+    The Cost of Legal Publications.
+
+Cluster 699:
+    Literature on Computer Software and Legal Decision Making.
+
+Cluster 700:
+    Basic Books and Periodicals on Jewish Law.
+
+Cluster 701:
+    The Civilising (and Civilianizing) Functions of International Law Librarians.
+
+Cluster 702:
+    Designing Enriched Jobs in Law Libraries.
+
+Cluster 703:
+     Editions, Reprints, and Competitors.
+
+Cluster 704:
+    Part I - Records and Briefs.
+
+Cluster 705:
+    Leaving Paradise.
+
+Cluster 706:
+    Aid from the Library Staff Reasonably to be Expected by Users of a Law Library.
+
+Cluster 707:
+    The NASA Information System.
+
+Cluster 708:
+    Total Quality Management.
+
+Cluster 709:
+    The Move of the University of Michigan Law Library.
+
+Cluster 710:
+    Paralegal Programs.
+
+Cluster 711:
+    NOTIS Users' Survey.
+
+Cluster 712:
+     Community of Meaning or Reinscription of Hierarchy.
+
+Cluster 713:
+    Humor in the Law Library.
+
+Cluster 714:
+    Part I - Historic Trials.
+
+Cluster 715:
+    Survival of Civil Law in North America.
+
+Cluster 716:
+     Survey of Salary and Position Information.
+
+Cluster 717:
+    High-Tech, Low-Tech, No-Tech.
+
+Cluster 718:
+    Federal Depository Status for State Appellate Court Libraries.
+
+Cluster 719:
+     Up-to-Date Sources of Information in English.
+
+Cluster 720:
+    Videotape in the Law Library.
+
+Cluster 721:
+     The Pentagon Papers Fifty Years on.
+
+Cluster 722:
+    Setting the Legal Information Agenda for the Year 2000.
+
+Cluster 723:
+    Foreign Commercial Legislation in English.
+
+Cluster 724:
+     Music's Influence on America's Courts.
+
+Cluster 725:
+    The Emergency Sasquatch Ordinance and Other Real Laws That Human Beings Actually Dreamed up, Enacted, and Have Sometimes Even Enforced.
+
+Cluster 726:
+    Lyrics in the Law.
+
+Cluster 727:
+    The Role of the Law Library of Congress in the National Law Information System.
+
+Cluster 728:
+    Geac at the University of Maryland Law Library.
+
+Cluster 729:
+    Some Suggestions for Cooperation.
+
+Cluster 730:
+     The Example of Prohibition.
+
+Cluster 731:
+     Accommodating Cultural and Learning-Style Differences.
+
+Cluster 732:
+    What Can the Faculty Expect from the Library of the Twenty-first Century.
+
+Cluster 733:
+    Professional Responsibility of Accountants and Lawyers before the Securities and Exchange Commission.
+
+Cluster 734:
+    Reference Librarians Do Not Work in Steel.
+
+Cluster 735:
+    From Stele to Silicon.
+
+Cluster 736:
+    Promises to Keep.
+
+Cluster 737:
+    Library Open-Distribution Systems and Copyright Infringement in Canada and the United States.
+
+Cluster 738:
+     Results from the Condition Survey of the University of Kansas Law Library.
+
+Cluster 739:
+     Pilot Program Passes Test Site Trial.
+
+Cluster 740:
+    Access to Depository Materials.
+
+Cluster 741:
+    Accreditation in Legal Education and in Education for Librarianship, 1878-1961.
+
+Cluster 742:
+    Chief Justice Burger's Administrative Agenda.
+
+Cluster 743:
+    Microcomputer Software for Library Management.
+
+Cluster 744:
+     School Library Censorship Controversies.
+
+Cluster 745:
+     Legal Research is a Strategy, Not a Format.
+
+Cluster 746:
+    Judicial Activism in Prose.
+
+Cluster 747:
+    A Staff Exchange Program.
+
+Cluster 748:
+    Private Law Library Survey 1988.
+
+Cluster 749:
+     A Preliminary Perspective.
+
+Cluster 750:
+    OCLC's Serials Control Subsystem.
+
+Cluster 751:
+     Reports of the Revisers 1826-1828.
+
+Cluster 752:
+    Working with Supreme Court Docket Books.
+
+Cluster 753:
+    The Gentle Art of Making Enemies or Law Book Publishing Revisited.
+
+Cluster 754:
+     A New Approach.
+
+Cluster 755:
+    How New Information Technologies Will Change the Way Law Professors Do and Distribute Scholarship.
+
+Cluster 756:
+     A Profile.
+
+Cluster 757:
+     A Fragile History.
+
+Cluster 758:
+    Copyright Compliance by Law Firms (17 U.S.C. 108).
+
+Cluster 759:
+    Assisting Prisoners.
+
+Cluster 760:
+     A Court Evaluation Project.
+
+Cluster 761:
+    Annual Report of Libraries Serving Their State's Highest Court.
+
+Cluster 762:
+    Bolstering the Asian American Law Library Collection.
+
+Cluster 763:
+    New York Statutory Index.
+
+Cluster 764:
+    Making the Card Catalog a More Vital Resource in the Academic Law Library.
+
+Cluster 765:
+    A Librarians's Guide to Unpublished Judicial Opinions.
+
+Cluster 766:
+     How to Be Fair, Thorough, and Legal.
+
+Cluster 767:
+     What Are We Doing and Where Are We Going.
+
+Cluster 768:
+    No Cheers for the American Law School--A Legal Historian's Complaint, Plea, and Modest Proposal.
+
+Cluster 769:
+     Plain Good Sense or Plain Nonsense.
+
+Cluster 770:
+     Constitutional Amendments That Failed.
+
+Cluster 771:
+    Building Alabama's Common Law, 1820-21.
+
+Cluster 772:
+    Researching in an Imperfect World.
+
+Cluster 773:
+     Law and Policy Contexts.
+
+Cluster 774:
+    Can the Use of Visual Media Hardware and Software Be of Any Value in Law Education.
+
+Cluster 775:
+    NARA's Electronic Records Archives Program.
+
+Cluster 776:
+    Ranking Law Reviews by Author Prominence - Ten Years Later.
+
+Cluster 777:
+    Lessons in Riding, Life, and Management from Sultan, a Wise Horse.
+
+Cluster 778:
+    The Role of Commercial Publishers in Preservation.
+
+Cluster 779:
+    Robotics, AI and the Future of Law.
+
+Cluster 780:
+    Looking in Our Backyards.
+
+Cluster 781:
+    Constitutional Personae.
+
+Cluster 782:
+    Creighton and the Problem of the Macheide.
+
+Cluster 783:
+    A Checklist of South Carolina Session Laws.
+
+Cluster 784:
+    Sir Frederick Pollock and Law Librarianship.
+
+Cluster 785:
+    Publication of the Orders of Federal Administrative Law Judges.
+
+Cluster 786:
+    A Comprehensive Library Survey.
+
+Cluster 787:
+    Citation Books for United States Treaties.
+
+Cluster 788:
+    Tarlton Library.
+
+Cluster 789:
+     The Development of Legal Information Management Index.
+
+Cluster 790:
+    Cliobernetics, Christianity, and the Common Law.
+
+Cluster 791:
+    Is the Library without Walls on a Collision Course with the 1976 Copyright Act.
+
+Cluster 792:
+    What Shall I Wear to the Computer Revolution? Some Thoughts on Electronic Researching in Law.
+
+Cluster 793:
+    Foreign Official Gazettes.
+
+Cluster 794:
+     What It Is and How to Get It.
+
+Cluster 795:
+    LEXIS and WESTLAW Instruction in the Law School.
+
+Cluster 796:
+    The First Annual Meeting of the American Association of Law Llibraries.
+
+Cluster 797:
+    Reflections on a JX Reclassification Project.
+
+Cluster 798:
+    A Brief Sketch of the Early Oregon Session Laws and Codes.
+
+Cluster 799:
+     Property Rights in the World of Ideas.
+
+Cluster 800:
+    The Japanese Legal System and International Trade.
+
+Cluster 801:
+    Silk v. Corduroy.
+
+Cluster 802:
+    A Sketch of the Inner Temple Library.
+
+Cluster 803:
+    Elsie Basset.
+
+Cluster 804:
+     Integrating Automated Acquisitions with Other Library Functions.
+
+Cluster 805:
+     Mind Mapping Complex Information.
+
+Cluster 806:
+    Effective Book Cost Analysis and Reflections on the American Bar Association Standards.
+
+Cluster 807:
+    State Administrative Decisions.
+
+Cluster 808:
+     A Survey of Problems, Policies, and Laws.
+
+Cluster 809:
+     Problems of Permancence, Accessibility, and Stability in the Use of Web Sources in Law Review Citations.
+
+Cluster 810:
+    Professional Responsibility.
+
+Cluster 811:
+    The Acquisition and Handling of Foreign Legal Serials.
+
+Cluster 812:
+    Key Directions in Legal Education.
+
+Cluster 813:
+     Library Leadership in a Time of Disruption.
+
+Cluster 814:
+     18th Century Lawyers and Papers - Part I.
+
+Cluster 815:
+    Dyspeptic Ramblings of a Retiring Past President.
+
+Cluster 816:
+    Oral Competence Testing in Legal Research Techniques.
+
+Cluster 817:
+    Faculty Privileges and Abuses.
+
+Cluster 818:
+    Teaching the Art of the Reference Interview.
+
+Cluster 819:
+     A History.
+
+Cluster 820:
+    A Common Lawyer's French.
+    A Common Lawyer's French.
+
+Cluster 821:
+    Statute Law Checklists.
+
+Cluster 822:
+    Rights of Students in Higher Education.
+
+Cluster 823:
+    An Examination of the Dynamics of Change in Information Technology as Viewed from Law Libraries and Information Centers.
+
+Cluster 824:
+    Cataloging State Session Laws in Microfiche.
+
+Cluster 825:
+    Opportunities for Library Cooperation.
+
+Cluster 826:
+    Planning Process for Physical Facilities for Law Libraries.
+
+Cluster 827:
+     Legal History and the Civil War.
+
+Cluster 828:
+     The California Constitution of 1849.
+
+Cluster 829:
+     Problems of Interest to Libraries.
+
+Cluster 830:
+     On the Need for Critical Law Librarianship, Or Are We All Legal Realists Now.
+
+Cluster 831:
+     Historical Development and Library Implications.
+
+Cluster 832:
+    Planning and Constructing Law School Buildings.
+
+Cluster 833:
+    The Legal Personality of the Colonial Period of Mexico.
+
+Cluster 834:
+     Nonlegal Materials in U.S. Supreme Court Opinions.
+
+Cluster 835:
+    Why Not a Shared Database for Legal Serial Patterns.
+
+Cluster 836:
+     The 20th Century - Part III.
+
+Cluster 837:
+    The New Boston College Law Building.
+
+Cluster 838:
+    Francois-Xavier Martin.
+
+Cluster 839:
+    Acquisition of State Documents.
+
+Cluster 840:
+    Linking Globally, Coping Locally.
+
+Cluster 841:
+    Commentary.
+
+Cluster 842:
+    A Subject Index for Canadian Federal Statutes--A Proposal Based on the New Index to the U.S. Code of Federal Regulations.
+
+Cluster 843:
+     Results of a Questionaire.
+
+Cluster 844:
+    Worldwide Responsibilities of American Law Librarians.
+
+Cluster 845:
+    With Justice for All.
+
+Cluster 846:
+    The Paralegal as Patron.
+
+Cluster 847:
+    Archives and Manuscripts.
+
+Cluster 848:
+     Introducing the Executive Librarian.
+
+Cluster 849:
+    Project CLEAR's Paper Choice.
+
+Cluster 850:
+    China's Law Library--Soochow University Law School Library.
+
+Cluster 851:
+     Some Functions and Problems.
+
+Cluster 852:
+    The Law Library Association of Greater New York (LLAGNY) 1938-1956.
+
+Cluster 853:
+    Legislative Calendars of Committees in the House of Representatives, as of 1969.
+
+Cluster 854:
+    Research in Federal Tax Law.
+
+Cluster 855:
+    Using Adaptive Technology to Provide Access to Blind, Low-Vision, and Dyslexic Patrons.
+
+Cluster 856:
+    Teacher, Coach, Cheerleader, and Judge.
+
+Cluster 857:
+    Review Essay.
+
+Cluster 858:
+    Preserving Digital Documents.
+
+Cluster 859:
+     From the Printing Press to the Cloud, Second Edition.
+
+Cluster 860:
+    Musings.
+
+Cluster 861:
+    Baron de Hirsch Meyer Buildings.
+
+Cluster 862:
+     A New Framework.
+
+Cluster 863:
+    The Sky May Yet Fall on Firm Librarians.
+
+Cluster 864:
+    An Essay on An Introduction to the Principles of Morals and Legislation by Jeremy Bentham (1748-1832).
+
+Cluster 865:
+     A View from Both Sides of the Academic/Practice Dichotomy.
+
+Cluster 866:
+     Not So Desperately Seeking Storage Solutions.
+
+Cluster 867:
+    Prototype for a Regional Law Library Network.
+
+Cluster 868:
+    The Anatomy of Conflict.
+
+Cluster 869:
+    From the Attic to the Courts.
+
+Cluster 870:
+    State Government Efforts to Preserve Electronic Legal Information.
+
+Cluster 871:
+    Attitudes of Law Librarians to Theft and Mutilation Control Methods.
+
+Cluster 872:
+    Plain Language Statutes.
+
+Cluster 873:
+    Whom We Shall Serve.
+
+Cluster 874:
+     One Cataloger's Experience.
+
+Cluster 875:
+    Use of Law Reviews in Modern Legal Research.
+
+Cluster 876:
+     The Paper Clip.
+
+Cluster 877:
+     The University of Virginia Newlin Collection on Oceans Law and Policy.
+
+Cluster 878:
+    Two Decades of Comparative Legislation.
+
+Cluster 879:
+    United Kindgom Legal Databases.
+
+Cluster 880:
+     A Use Study.
+
+Cluster 881:
+    Administrative Assistants.
+
+Cluster 882:
+    Management Techniques Using Traditional Library Records.
+
+Cluster 883:
+     The Regional Schedules.
+
+Cluster 884:
+     Northwestern's Integrated Library System.
+
+Cluster 885:
+    Be Those That Multiply the Commonweale.
+
+Cluster 886:
+    Virginia Manuscript Law Reports.
+
+Cluster 887:
+     Cataloging - Part II.
+
+Cluster 888:
+    Some Characteristics of Legal Information and Their Importance in the Economics of Networks.
+
+Cluster 889:
+     Commentary on Fishlyn.
+
+Cluster 890:
+    Space for a Periodical Collection.
+
+Cluster 891:
+     The Problem of Functional Design.
+
+Cluster 892:
+    Report to the Copyright Office by the American Association of Law Libraries July 30, 1982.
+
+Cluster 893:
+     Problems and a Suggested Classification Scheme.
+
+Cluster 894:
+     Sources and Problems.
+
+Cluster 895:
+    The Judicial System in Japan.
+
+Cluster 896:
+    Unpublished Opinions as the Bulk of the Iceberg.
+
+Cluster 897:
+    Notes on the Law of Copyright and Importation of Books.
+
+Cluster 898:
+     Planning, Design, and Development.
+
+Cluster 899:
+    Reminiscences of Viola A. Bird.
+
+Cluster 900:
+    Classification of Arbitration Materials-From a Law Librarian's Viewpoint.
+
+Cluster 901:
+     Access to the Sources of the Law.
+
+Cluster 902:
+    AALL Institute on International Law and Business--Foreword.
+
+Cluster 903:
+    Managing the Boss.
+
+Cluster 904:
+     A Decision Tree for Librarians.
+
+Cluster 905:
+    One Piece of the Collection Development Puzzle.
+
+Cluster 906:
+    Research Guide to the Litigation Explosion.
+
+Cluster 907:
+    A Phantom Citation.
+
+Cluster 908:
+    Application of International Human Rights Standards by United States Courts.
+
+Cluster 909:
+    Index to 1982 Convention Abstracts and Program Proceedings.
+
+Cluster 910:
+    Researching Tax Legislative History.
+
+Cluster 911:
+     Planning for Disaster.
+
+Cluster 912:
+    The Albany Law School Journal.
+
+Cluster 913:
+    The Words We Live By.
+
+Cluster 914:
+    Landscape of Digital Archiving.
+
+Cluster 915:
+    Canon Law.
+
+Cluster 916:
+    Legal Citation Form.
+
+Cluster 917:
+    Toward a Truly Seamless Web.
+
+Cluster 918:
+    Effectively Managing the Human Side of Change.
+
+Cluster 919:
+    Uniformity in Cataloguing.
+
+Cluster 920:
+    Historical Development of the Law Concerning Judicial Report Publication.
+
+Cluster 921:
+    Concept through Construction.
+
+Cluster 922:
+     A Performance Study.
+
+Cluster 923:
+     A Guide for Infrequent Users.
+
+Cluster 924:
+    Introduction to the Symposium on Foreign Legal Databases.
+
+Cluster 925:
+    Special Collections in Law School Libraries.
+
+Cluster 926:
+     An Integrative Management Tool for Law Libraries.
+
+Cluster 927:
+    Reznikoff's Testimony.
+
+Cluster 928:
+    The National Library of Medicine.
+
+Cluster 929:
+    Privacy.
+
+Cluster 930:
+    Organization and Governance of the British Legal Profession.
+
+Cluster 931:
+     Challenges of Inaccessible References.
+
+Cluster 932:
+    The Law Librarian's Obligation to Publish.
+
+Cluster 933:
+    Accessibility of Legal Developments through the Legal Periodical Literature.
+
+Cluster 934:
+    Right to Translate and International Copyright Conventions.
+
+Cluster 935:
+    The Influence of Judge Cardozo on the Common Law.
+
+Cluster 936:
+     A Chronicle.
+
+Cluster 937:
+    A History of the Development of Classification K (Law) at the Library of Congress.
+
+Cluster 938:
+    An Overview of the Legal System of the Aztec Empire.
+
+Cluster 939:
+     How to Interview for a Job and How to Interview the Job.
+
+Cluster 940:
+    Pro Se Users, Reference Liability, and the Unauthorized Practice of Law.
+
+Cluster 941:
+    The Zen of Law Librarian Job Interviews.
+
+Cluster 942:
+    Legal Scholarship and the Electronic Revolution.
+
+Cluster 943:
+    LITE (Legal Information Thru Electronics)--A Progress Report.
+
+Cluster 944:
+    Network Prospects for the Legal Profession.
+
+Cluster 945:
+    Part II - Biography in Legal History.
+
+Cluster 946:
+    Where are they Now The Founding Members of the State, Court & County Law Libraries Special Interest Section of the American Association of Law Libraries.
+
+Cluster 947:
+    Ecclesiastical Law Books in a Law Library.
+
+Cluster 948:
+    Volume Equivalents of Microforms--A Question`.
+
+Cluster 949:
+    Robert's Rules of Order.
+
+Cluster 950:
+    Introduction to Symposium Issue on Classification.
+
+Cluster 951:
+     A Due Process Emphasis.
+
+Cluster 952:
+    Federal Initiatives to Promote Access to Electronic Government Information.
+
+Cluster 953:
+     Laws and Library Services.
+
+Cluster 954:
+    The Legal Collections of the United Nations Library.
+
+Cluster 955:
+    Comparable Worth in Libraries.
+
+Cluster 956:
+    Law Librarians Provide More than Mere Access to Information.
+
+Cluster 957:
+    Some Unreported Opinions of a Territorial Judge 1805-1823.
+
+Cluster 958:
+     Reflections on Life and the Law, with Selected Judicial Opinions and Articles.
+
+Cluster 959:
+    Part V - Women.
+
+Cluster 960:
+     An Apologetic .
+
+Cluster 961:
+    Federal Funds.
+
+Cluster 962:
+    University of Michigan Law Library Microfom Policy.
+
+Cluster 963:
+     Looking at the Judicial Process and Legal Research.
+
+Cluster 964:
+    British Legal Education.
+
+Cluster 965:
+    Establishing a New GPO Depository Documents Department in an Academic Law Library.
+
+Cluster 966:
+     Cataloging Internet Resources at the University of Colorado Law Library.
+
+Cluster 967:
+    On Fun.
+
+Cluster 968:
+     Driving My Way through a Sabbatical.
+
+Cluster 969:
+    Learning from Library Science.
+
+Cluster 970:
+     Wiretapping and Electronic Eavesdropping.
+
+Cluster 971:
+    Library of Congress Classification Schedule of Ancient and Medieval Indian Legal Literature.
+
+Cluster 972:
+     A Chronology of His Speeches Made Available through Legal Publications and the Media, with Noteworthy Responses.
+
+Cluster 973:
+    The Case for the Special Status of the University Law Library.
+
+Cluster 974:
+     Dropping Out of the Federal Depository Library Program.
+
+Cluster 975:
+    Do Librarians Deserve Tenure--Casting an Anthropological Eye upon Role Definition within the Law School.
+
+Cluster 976:
+    What Law Professors Will Want from Law Librarians in the Twenty-first Century.
+
+Cluster 977:
+    A Reconstruction of Thamus.
+
+Cluster 978:
+     Administrators and Librarians.
+
+Cluster 979:
+    In Re Law Library Miscellany.
+
+Cluster 980:
+    Copyright in Library-Held Materials.
+
+Cluster 981:
+    Law and Heidegger's Question concerning Technology.
+
+Cluster 982:
+    Law Library Consortium Data Base Components and Standards Study Group Report.
+
+Cluster 983:
+    Programming for the New Library.
+
+Cluster 984:
+     France and the European Communities.
+
+Cluster 985:
+    Computer Applications for Small Libraries.
+
+Cluster 986:
+    Conflicts of Interest in Law Libraries.
+
+Cluster 987:
+    Regulating Rehabilitation.
+
+Cluster 988:
+    Anglo-American Legal Citation.
+
+Cluster 989:
+    Affordable Content in Legal Education.
+
+Cluster 990:
+    Most Distinct and Lively Pictures.
+
+Cluster 991:
+    Motivation, Performance and Job Satisfaction of Librarians.
+
+Cluster 992:
+    Collection Development in British Legal Materials.
+
+Cluster 993:
+    Shelf Arrangement of State Reports.
+
+Cluster 994:
+    Publishing in International Law.
+
+Cluster 995:
+    Word/Data Processing Applications for the Law Library.
+
+Cluster 996:
+    Handling Water Damage in a Law Library.
+
+Cluster 997:
+    Vision.
+
+Cluster 998:
+    A Guide to Resources on Careers in Foreign and International Law.
+
+Cluster 999:
+    Reference Records.
+
+Cluster 1000:
+    Unprinted Sources of English Legal History.
+
+Cluster 1001:
+     What It Can Mean to You                    .
+
+Cluster 1002:
+    Reminiscences of a Law Bookseller from 1874 to Modern Times.
+
+Cluster 1003:
+    The Death of the Digest and the Pitfalls of Electronic Research.
+
+Cluster 1004:
+    Australian Law Reports, Official and Otherwise.
+
+Cluster 1005:
+     The Only Surviving Copy.
+
+Cluster 1006:
+    Latin-American Law Books in Anglo-American Law Libraries.
+
+Cluster 1007:
+     Open Access Legal Scholarship in the Time of Collection Budget Constraints.
+
+Cluster 1008:
+    Helen in the Court.
+
+Cluster 1009:
+    Teaching Research to Faculty.
+
+Cluster 1010:
+     A Consolidated Union Serials List.
+
+Cluster 1011:
+    The Librarian's Risk of Irrelevance (in the Eyes of the Law School Dean).
+
+Cluster 1012:
+    Military Justice.
+
+Cluster 1013:
+    Internship.
+
+Cluster 1014:
+    Codification of the Laws.
+
+Cluster 1015:
+    Ballots at Boalt.
+
+Cluster 1016:
+     A Story of Legal Citation Indexes.
+
+Cluster 1017:
+    Law Books as a Charitable Contribution.
+
+Cluster 1018:
+     Utilization of Bar Questions and Model Answers in Legal Education.
+
+Cluster 1019:
+     An Overview of the Social Science Studies.
+
+Cluster 1020:
+    Cataloging Remote Electronic Resources.
+
+Cluster 1021:
+    State Law Libraries Weight of Fatigue.
+
+Cluster 1022:
+    WESTLAW's DIScourse.
+
+Cluster 1023:
+     A Compendium of Legal Trivia.
+
+Cluster 1024:
+     Law Librarians and Technology at the Founding of AALL.
+
+Cluster 1025:
+    New Home of the University of Arkansas Law Library.
+
+Cluster 1026:
+    The Law Library of Howard University, 1867-1956.
+
+Cluster 1027:
+    Tools of Ordering and Acquisitions.
+
+Cluster 1028:
+     Both and, Not Either or.
+
+Cluster 1029:
+    LAMBDA at the University of Virginia Law Library.
+
+Cluster 1030:
+     Document Delivery in the Nineties.
+
+Cluster 1031:
+    Striking a Balance.
+
+Cluster 1032:
+     A Descriptive Survey.
+
+Cluster 1033:
+    Bridge of Words.
+
+Cluster 1034:
+     Is It Possible to Draw the Line.
+
+Cluster 1035:
+     Should the Law Library Join the System.
+
+Cluster 1036:
+    Pico and Beyond.
+
+Cluster 1037:
+    Why Is Diversity Important for Law Librarianship?.
+
+Cluster 1038:
+    Library Planning for the University of Houston's Satellite Law School Complex.
+
+Cluster 1039:
+     The Copyright Problem.
+
+Cluster 1040:
+    Vendor Processing and Local Authority File Development.
+
+Cluster 1041:
+     Planning, Leadership, and Programming.
+
+Cluster 1042:
+    Keeping Up is Hard to Do.
+
+Cluster 1043:
+    Academic Law Library Director Status since the Great Recession.
+
+Cluster 1044:
+    Observations on Bar Association Proceedings.
+
+Cluster 1045:
+    1979 County Law Library Survey.
+
+Cluster 1046:
+    Survey of Technical Services Practices at Fifty Large Law School Libraries.
+
+Cluster 1047:
+    Proposed Amendments to the ABA Standards for the Approval of Law Schools.
+
+Cluster 1048:
+    Legal Deposit in Four Countries.
+
+Cluster 1049:
+    International Business Transactions.
+
+Cluster 1050:
+    Protection of Libraries.
+
+Cluster 1051:
+    Review.
+     A Review.
+
+Cluster 1052:
+    The Noting Up of Canadian Cases and Statutes.
+
+Cluster 1053:
+    Building a Foreign Law Collection at the University of Michigan Law Library, 1910-1960.
+
+Cluster 1054:
+    Mandatory Advanced Legal Research.
+
+Cluster 1055:
+    Researching California Ballot Measures.
+
+Cluster 1056:
+    Systems Analysis and the Law.
+
+Cluster 1057:
+    Lawyering Decisions.
+
+Cluster 1058:
+    A New Twist on an Old Plot.
+
+Cluster 1059:
+     Management and Political Tool.
+
+Cluster 1060:
+     Lawbooks Alone Do Not a Lawyer Make.
+
+Cluster 1061:
+     How Law Libraries Support Democracy by Protecting Citizens' Right to Read.
+
+Cluster 1062:
+     Should Students Learn It or Wing It.
+
+Cluster 1063:
+    The Second International Congress of Comparative Law.
+
+Cluster 1064:
+    Judicial Writing.
+
+Cluster 1065:
+    Taking Up Barkan's Challenge.
+
+Cluster 1066:
+    Guide to a Basic Library on International Law.
+
+Cluster 1067:
+    Netscape, Standards, and You.
+
+Cluster 1068:
+    Microform Management.
+
+Cluster 1069:
+    International Documentation and Treaty Problems.
+
+Cluster 1070:
+    The Opinions of the State Attorneys General.
+
+Cluster 1071:
+    Dusty Books and Living History.
+
+Cluster 1072:
+    Cataloging Microreproductions on OCLC.
+
+Cluster 1073:
+    The Making of a Cataloging Manual at Southern Illinois University.
+
+Cluster 1074:
+     A Legal Analysis.
+
+Cluster 1075:
+    The First Law Journals in Virginia.
+
+Cluster 1076:
+    Introduction to the AALL Oxford Institute on the British Legal System and Law Librarianship.
+
+Cluster 1077:
+    Centralization versus Decentralization of Law Libraries and Law Library Services in Nigerian Universities.
+
+Cluster 1078:
+    Introducing Students to LEXIS.
+
+Cluster 1079:
+    A Law Library Consulting Service in the Philadelphia Area.
+
+Cluster 1080:
+     Why Networks for Libraries.
+
+Cluster 1081:
+     The Library Staff as a Meaningful and Integrated Part of the Law School Community.
+
+Cluster 1082:
+    Part III - Treatise Literature.
+
+Cluster 1083:
+    An Early Connecticut Law School.
+
+Cluster 1084:
+    Prison Librarianship Policy and Practice.
+
+Cluster 1085:
+    Remarks on John William Wallace.
+
+Cluster 1086:
+     Sources of Publication and Legislative History Documents.
+
+Cluster 1087:
+    For Fear the Gallows.
+
+Cluster 1088:
+    Alexander H. R. Fraser.
+
+Cluster 1089:
+    The Only Game in Town.
+
+Cluster 1090:
+    Barcoding a Library Collection.
+
+Cluster 1091:
+    Noting Up British Statutes and Cases.
+
+Cluster 1092:
+     The Kent State Case.
+
+Cluster 1093:
+    Good Reads in the Law Library.
+
+Cluster 1094:
+    The Future of Law Librarians in Changing Institutions, Or the Hazards and Opportunities of New Information Technology.
+
+Cluster 1095:
+     Preparation, the Profession, and the British and Irish Association of Law Librarians.
+
+Cluster 1096:
+    The Special Committee on a National Law Library.
+
+Cluster 1097:
+    The Use of Nonhuman Animals in Research.
+
+Cluster 1098:
+    Developing and Implementing a Law School Westlaw Orientation Program.
+
+Cluster 1099:
+     New Directions.
+
+Cluster 1100:
+    Class K (Law) at the University of Chicago.
+
+Cluster 1101:
+    What Do Directors Do.
+
+Cluster 1102:
+    Managing by the Book... Battling Burnout.
+
+Cluster 1103:
+    Legal Services Law Librarianship--An Investigation of Salary and Benefits in a Pioneer Field .
+
+Cluster 1104:
+    Computers.
+
+Cluster 1105:
+    Specifications for Steel and Wood Stack Shelving.
+
+Cluster 1106:
+    Congressional Committee Calendars as Legislative Indices.
+
+Cluster 1107:
+    Need for an Index to Statute Law.
+
+Cluster 1108:
+     A Step by Step Guide for the Inventor.
+
+Cluster 1109:
+    The Civil Law in Canada.
+
+Cluster 1110:
+    Library of Congress Classification System for German Law.
+
+Cluster 1111:
+    Persuasion in the Court.
+
+Cluster 1112:
+    Leaky Boundaries and the Decline of the Autonomous Law School Library.
+
+Cluster 1113:
+     Religion, Conscientious Objection, Naturalization, and the Supreme Court.
+
+Cluster 1114:
+     Acquisitions for a New Century.
+
+Cluster 1115:
+    United States Copyright Revision and Its Legislative History.
+
+Cluster 1116:
+    Lincoln's Last Trial.
+
+Cluster 1117:
+    Origins of California's County Law Library System.
+
+Cluster 1118:
+    The Public Performance Right in Libraries.
+
+Cluster 1119:
+    Law Libraries and the Depository Program.
+
+Cluster 1120:
+    What Law Librarians Collect.
+
+Cluster 1121:
+    Reviving Legal Research.
+
+Cluster 1122:
+    An American in London Law Libraries.
+
+Cluster 1123:
+    Legal Research Instruction in Law Schools, The State of the Art or, Why Law School Graduates Do Not Know How to Find the Law.
+
+Cluster 1124:
+    Writing Research Results for Publication.
+
+Cluster 1125:
+    Law Library Purchasing in an Interdisciplinary Era.
+
+Cluster 1126:
+     A Play in Six Acts.
+
+Cluster 1127:
+     What We Had and What We Need.
+
+Cluster 1128:
+    The Bottom Lines.
+
+Cluster 1129:
+    Statistics.
+
+Cluster 1130:
+    Insuring Your Law Library.
+
+Cluster 1131:
+    Introduction to Library Science with Practical Problems.
+
+Cluster 1132:
+     Keeping the Collection Lean and Mean in Good Times and Bad.
+
+Cluster 1133:
+    The New Law Library Building at the University of Illinois.
+
+Cluster 1134:
+     Recent Developments.
+
+Cluster 1135:
+    Code Revision in the Legal Process.
+
+Cluster 1136:
+    Fundamental Material for the Law School Library, with Particular Reference to the Library of 7500 to 15000 Volumes.
+
+Cluster 1137:
+    List of Books on Shakespeare and the Law.
+
+Cluster 1138:
+    Legal Research in the Computer Age.
+
+Cluster 1139:
+     The Challenge of Conceptual Research.
+
+Cluster 1140:
+    Minorities Employed in Law Libraries.
+
+Cluster 1141:
+    Designing Law Libraries for Efficient Use of Materials.
+
+Cluster 1142:
+    Selected Reference Books in Economics and Sociology for a Law Library.
+
+Cluster 1143:
+     Reference Guidelines at Kratter Law Library, University of San Diego.
+
+Cluster 1144:
+     A Union List, with a Note on Their Distribution and Microfilming.
+
+Cluster 1145:
+    The Role of Official Headnotes in Legal Research.
+
+Cluster 1146:
+    Research Guide to Immigration, Aliens, and the Law .
+
+Cluster 1147:
+    Corporate Law Libraries--A Profile.
+
+Cluster 1148:
+     Juridical Foundations of Francis Bacon's Philosophy of Science.
+
+Cluster 1149:
+    Communication as a Tool of Organizational Renewal in Law Libraries.
+
+Cluster 1150:
+    Who's Who in Law Libraries.
+
+Cluster 1151:
+    Law Library of the United States Department of the Interior.
+
+Cluster 1152:
+     An Overview via the Documents.
+
+Cluster 1153:
+     The 19th Century - Part II.
+
+Cluster 1154:
+    Capturing the Literature of the Bar.
+
+Cluster 1155:
+    A Guide to American Legal History Methodology with an Example of Research in Progress.
+
+Cluster 1156:
+    How to Perform a Patent Search.
+
+Cluster 1157:
+    Corpus of the Written Cherokee Laws.
+
+Cluster 1158:
+    An Analysis of Academic Law Library Growth Since 1907.
+
+Cluster 1159:
+    Opening a Window of Opportunity.
+
+Cluster 1160:
+    Law Libraries in Hyperspace.
+
+Cluster 1161:
+     Bane or Blessing.
+
+Cluster 1162:
+    Introduction to the National Law Library Symposium.
+
+Cluster 1163:
+    On the Gentle Art of Librating.
+
+Cluster 1164:
+    Acquisition of Microforms in Law Libraries.
+
+Cluster 1165:
+    Improving the Index to Legal Periodicals--How Would You Do It.
+
+Cluster 1166:
+     Law, Literature, Life.
+
+Cluster 1167:
+     The Experience of General Libraries and Prospects for Law Libraries.
+
+Cluster 1168:
+    Meet My Mentor.
+
+Cluster 1169:
+    1981-1982 and 1982-1983 Summaries of Law School Library Statistics and Observations on Applications of Library Statistics.
+
+Cluster 1170:
+     Selection and Evaluation.
+
+Cluster 1171:
+    A Checklist of Annual Surveys of State and Federal Laws.
+
+Cluster 1172:
+    Legal Reference Books Review.
+
+Cluster 1173:
+     An Historical Survey.
+
+Cluster 1174:
+     A Look at AALL Scholarship Recipients, 1967-1988.
+
+Cluster 1175:
+     His Life and Writings.
+
+Cluster 1176:
+    Investigating Workplace Harassment.
+
+Cluster 1177:
+    The Social Responsibility Movement among Law Librarians.
+
+Cluster 1178:
+    Malpractice Liability of a Law Librarian.
+
+Cluster 1179:
+    Reflections.
+
+Cluster 1180:
+     That Is the Question.
+
+Cluster 1181:
+    Posner, Richard A. Divergent Paths.
+
+Cluster 1182:
+     The Kavanaugh Confirmation and the Future of the Supreme Court.
+
+Cluster 1183:
+     Post-Publication Corrections and the Integrity of Legal Scholarship.
+
+Cluster 1184:
+     National and International Perspectives.
+
+Cluster 1185:
+     A New Tool for Legal Research.
+
+Cluster 1186:
+    Cancelling Serials in Academic Law Libraries.
+
+Cluster 1187:
+    Addressing the Emerging Majority.
+
+Cluster 1188:
+    Assisting Rural Domestic Violence Victims.
+
+Cluster 1189:
+     How Legal Fault Lines Divide Workers and Leave Them without Protection.
+
+Cluster 1190:
+    Hunting and Gathering on the Legal Information Savannah.
+
+Cluster 1191:
+    Locked Down.
+
+Cluster 1192:
+    Abortion and the Law in America.
+
+Cluster 1193:
+    Daily, James E., and Ryan M. Davidson. The Law of Superheroes.
+
+Cluster 1194:
+     What Works at Work.
+
+Cluster 1195:
+     Scholarly Needs and Service Opportunities.
+
+Cluster 1196:
+    The Library of the Office of the General Counsel of the United States Treasury.
+
+Cluster 1197:
+    Preserving Our Heritage.
+
+Cluster 1198:
+    The Legal History of St. Louis from Canoe to Capsule.
+
+Cluster 1199:
+    Cultivating Civility.
+
+Cluster 1200:
+    Res Judicata.
+
+Cluster 1201:
+     A Model Self-Teaching Exercise.
+
+Cluster 1202:
+     Describing Negative Legal Precedent in Citators.
+
+Cluster 1203:
+    Reply to Herskowitz's Unanswered Questions.
+
+Cluster 1204:
+    Soviet Russian Legal Periodicals.
+
+Cluster 1205:
+     A Survey of Recent Literature.
+
+Cluster 1206:
+     A Hypertext System for Giving Advice about Legal Research.
+
+Cluster 1207:
+    Human Subjects Research Review.
+
+Cluster 1208:
+     Paper Bound Originals.
+
+Cluster 1209:
+    Thomas, Suja A. The Missing American Jury.
+
+Cluster 1210:
+    Future-Proofing the News.
+
+Cluster 1211:
+    A Different Question of Open Access.
+
+Cluster 1212:
+    Minimum Standards of Judicial Administration.
+
+Cluster 1213:
+    Golden Jubilee Issue, The .
+
+Cluster 1214:
+    Library By-Products.
+
+Cluster 1215:
+     The Telecom Industry and Monopoly Power in the New Gilded Age..
+
+Cluster 1216:
+     Enhancing the Visibility of Faculty Scholarship.
+
+Cluster 1217:
+     Who Needs It?.
+
+Cluster 1218:
+    Limited Classification at the District of Columbia Bar Association Library.
+
+Cluster 1219:
+     Why Environmental Laws Should Conform to the Laws of Nature.
+
+Cluster 1220:
+     Article IV of the United States Constitution.
+
+Cluster 1221:
+     A Computer-Based Approach.
+
+Cluster 1222:
+    USMARC Self-Defense.
+
+Cluster 1223:
+     Are Their Annotations Equal?.
+
+Cluster 1224:
+    Changes and Challenges.
+
+Cluster 1225:
+     Assessing the Effect of Degree-Granting Institutions' Ranks on Prospective Employment at Academic Law Libraries.
+
+Cluster 1226:
+    The United States Constitution in Film.
+
+Cluster 1227:
+    The Strange Career of Judah P. Benjamin.
+
+Cluster 1228:
+     Part II.
+
+Cluster 1229:
+    Formulation of the Interpretations to the Library Requirements of the Association of American Law Schools.
+
+Cluster 1230:
+     Mindfulness for Law Librarians.
+
+Cluster 1231:
+    Nowhere to Run; Nowhere to Hide.
+
+Cluster 1232:
+    Photo-Clerical Experiment.
+
+Cluster 1233:
+    We All Do It.
+
+Cluster 1234:
+    Impeccable Research.
+
+Cluster 1235:
+    The Digital Edge; Kennedy-Mighell Report.
+
+Cluster 1236:
+    Relative Use of a Law Collection in a Small Academic Library.
+
+Cluster 1237:
+    A Case Like Mine from Georgia, A Note on Legal Research.
+
+Cluster 1238:
+    Anecdotes from Bander.
+
+Cluster 1239:
+    Inclusion and Participation.
+
+Cluster 1240:
+     Systematizing Entries Where Standard Headings Are Inadequate.
+
+Cluster 1241:
+    Maintaining Your Competitive Edge.
+
+Cluster 1242:
+     The Death of Academic Law Libraries Is an Exaggeration.
+
+Cluster 1243:
+     Why Plea Bargaining Is a Bad Deal.
+
+Cluster 1244:
+    Legal History-Unhappy Hybrid.
+
+Cluster 1245:
+    An Architect's Perspective.
+
+Cluster 1246:
+    Saving Time in Recording Statutes and Session Laws.
+
+Cluster 1247:
+    The Nonsense Factory.
+
+Cluster 1248:
+    Fight of the Century.
+
+Cluster 1249:
+    Clements Library.
+
+Cluster 1250:
+    Sources of Legal Information in Poland.
+
+Cluster 1251:
+    The Opening of Sealed Doors.
+
+Cluster 1252:
+    An Introduction to Research on International Tax Agreements.
+
+Cluster 1253:
+    Books on My Desk.
+
+Cluster 1254:
+    Classification Policies in Law Libraries Using Subclass KF--the Results of a Questionnaire.
+
+Cluster 1255:
+    Relevance, Choices, and the Goldilocks Problem.
+
+Cluster 1256:
+    Iowa Legal Research, Second Edition.
+
+Cluster 1257:
+    From Disability to Usability in Online Instruction.
+
+Cluster 1258:
+     Judges Tell the Stories of Some of the Hardest Decisions They've Ever Made.
+
+Cluster 1259:
+    Knowledge Justice.
+
+Cluster 1260:
+     Approaches to the Legal History of Copyright in England before 1842.
+
+Cluster 1261:
+    Disabled Libraries.
+
+Cluster 1262:
+    Legal Looseleaf Services.
+
+Cluster 1263:
+     Class Action.
+
+Cluster 1264:
+     A Revisionist History; or More Than You Ever Wanted to Know.
+
+Cluster 1265:
+    Gerrymandering the States.
+
+Cluster 1266:
+    Third Circuit Court Reports (1789-1879).
+
+Cluster 1267:
+    Sotomayor, Sonia. My Beloved World.
+
+Cluster 1268:
+     How Artificial Intelligence Is Redefining Who We Are.
+
+Cluster 1269:
+    The Importance of Parliamentary Law to the Legal Profession.
+
+Cluster 1270:
+    Stephen B. Griswold.
+
+Cluster 1271:
+     The First Fifty Years.
+
+Cluster 1272:
+     Morris Cohen's Influence at Yale.
+
+Cluster 1273:
+    The Lost Translators of 1808 and the Birth of Civil Law in Louisiana.
+
+Cluster 1274:
+    Current Phases of Derivative Actions against Directors.
+
+Cluster 1275:
+    Oh My Blawg - Who Will Save the Legal Blogs.
+
+Cluster 1276:
+    Dealing with Stress.
+
+Cluster 1277:
+    Results of Reorganization at Baylor.
+
+Cluster 1278:
+    A Place of One's Own.
+
+Cluster 1279:
+    Getting by.
+
+Cluster 1280:
+    Working Group Summary on Network Planning.
+
+Cluster 1281:
+    Journalism under Fire.
+
+Cluster 1282:
+    Law Books for the Blind.
+
+Cluster 1283:
+     A Funny Thing Happened on the Way to My Search Results.
+
+Cluster 1284:
+    State Documents Microfilms as Research Resources for Law Libraries.
+
+Cluster 1285:
+    Recent Developments in Federal Documents.
+
+Cluster 1286:
+     Ecosocialism, Ecofeminism, and Law.
+
+Cluster 1287:
+     A History of Baseball's Antitrust Exemption.
+
+Cluster 1288:
+    Internal Audits in the Academic Law Library.
+
+Cluster 1289:
+     Part of Our National Culture.
+
+Cluster 1290:
+     The Artificial Judge.
+
+Cluster 1291:
+    The Origin, History and Compilation of the Case-Book.
+
+Cluster 1292:
+     Applying Copyright's Work-Made-for-Hire Doctrine to Librarians' Scholarship.
+
+Cluster 1293:
+    From Rome to the Restatement.
+
+Cluster 1294:
+     Theory and Practice.
+
+Cluster 1295:
+     Do We Need a Catalog.
+
+Cluster 1296:
+    Researching Labor Arbitration and Alternative Dispute Resolution in Employment.
+
+Cluster 1297:
+     Some Things to Bear in Mind.
+
+Cluster 1298:
+    Part III - the Role of Native Americans in American Legal History.
+
+Cluster 1299:
+    Study of the Classification of Legal Materials in the Law Libraries of the Library of Congress, the Los Angeles County Law Library, and the University of Chicago.
+
+Cluster 1300:
+    Budgets Need Supporting Data.
+
+Cluster 1301:
+    Fraud and Deceit.
+
+Cluster 1302:
+    Checklist of Publications of Legal Ethics Opinions.
+
+Cluster 1303:
+    NCLC Digital Library.
+
+Cluster 1304:
+    Report of the Librarian on Her Trip to England and the Continent 1910.
+
+Cluster 1305:
+    Decapitalization of Discards in a Law Library.
+
+Cluster 1306:
+    Dividing and Conquering the Card Catalog at Oklahoma.
+
+Cluster 1307:
+    St. George Tucker-A Biographical Sketch.
+
+Cluster 1308:
+    Media Equipment Selection Methods for Law Libraries.
+
+Cluster 1309:
+     A Proposal for Library Package Plans.
+
+Cluster 1310:
+     Roe v. Wade to the Present.
+
+Cluster 1311:
+    Proposed Constitutional Amendments as a Research Tool.
+
+Cluster 1312:
+     An Examination of Physical and Attitudinal Barriers to Handicapped Library Users.
+
+Cluster 1313:
+    Who Owns This Article.
+
+Cluster 1314:
+    Improving Lives by Building Social Capital.
+
+Cluster 1315:
+     The Four Cs of Search Engine Optimization.
+
+Cluster 1316:
+    Job Descriptions.
+
+Cluster 1317:
+    Helen in Academe.
+
+Cluster 1318:
+    The Many-Faceted Institute of Judicial Administration.
+
+Cluster 1319:
+    Coaching Copyright.
+
+Cluster 1320:
+    Michael Brown, Eric Garner, and Law Librarianship.
+
+Cluster 1321:
+     A Guide to Producing and Publishing Scholarly and Professional Writing.
+
+Cluster 1322:
+    I Remember Them Well.
+
+Cluster 1323:
+    Memorial and Appreciation for Earl C. Borgeson (1922-2010).
+
+Cluster 1324:
+     Activist Judges and the next Age of American Law.
+
+Cluster 1325:
+     What Does It All Mean.
+
+Cluster 1326:
+     Ten Sources for Reconstructing the Life of a Lawyer.
+
+Cluster 1327:
+    The History of Unidroit and the Methods of Unification.
+
+Cluster 1328:
+    The Tax Court of the United States.
+
+Cluster 1329:
+    Comparing the United States Code Annotated and the United States Code Service Using Inferential Statistics.
+
+Cluster 1330:
+    Morris Cohen and the Art of Book Collecting.
+
+Cluster 1331:
+    Houppert, Karen. Chasing Gideon.
+
+Cluster 1332:
+    Remaking the Public Law Library into a Twenty-First Century Legal Resource Center.
+
+Cluster 1333:
+     A Reply to Berring and Vanden Heuvel.
+
+Cluster 1334:
+     Protecting the Future of Investigative Reporting.
+
+Cluster 1335:
+    Fifteen Years of Chapter Development.
+
+Cluster 1336:
+     Antitrust, Misuse, and Other Possible Paths to Challenge Inequitable Licensing Practices.
+
+Cluster 1337:
+     Fine-Tuning the Research Engine.
+
+Cluster 1338:
+     Combating the Negative Findings of the Howland and Lewis Survey (abstract).
+
+Cluster 1339:
+     Women in the Shadows of the Supreme Court.
+
+Cluster 1340:
+    Pennsylvania County Law Libraries.
+
+Cluster 1341:
+     Necessary Evil or Effective Group Process.
+
+Cluster 1342:
+    Contemporary Nursing Roles and Legal Accountability.
+
+Cluster 1343:
+    From Sheepskin Binding to Born Digital.
+
+Cluster 1344:
+     The Elusive Quest for Poor People's Justice.
+
+Cluster 1345:
+    Legal Research in a Side Carousel.
+
+Cluster 1346:
+    Collecting and Keeping Federal Documents.
+
+Cluster 1347:
+     State Supreme Courts and the Inequality Crisis.
+
+Cluster 1348:
+    Seeking Inspiration.
+
+Cluster 1349:
+    Certification Revisited.
+
+Cluster 1350:
+    Matching Books with People.
+
+Cluster 1351:
+    COM Catalog vs. Card Catalog.
+
+Cluster 1352:
+     Writing Is Good for You and You Forget the Pain.
+
+Cluster 1353:
+     How Actor Network Theory Can Help Librarians Better Train Law Students in Legal Research Techniques.
+
+Cluster 1354:
+    Punishment without Trial.
+
+Cluster 1355:
+     A Report on the 1992-1993 Survey.
+
+Cluster 1356:
+     A Practical Note.
+
+Cluster 1357:
+    De-Mystifying Legal Research for Prisoners.
+
+Cluster 1358:
+    The Relevance of Results Generated by Human Indexing and Computer Algorithms.
+
+Cluster 1359:
+    Does WestlawNext Really Change Everything - The Implications of WestlawNext on Legal Research.
+
+Cluster 1360:
+    Correcting the Record.
+
+Cluster 1361:
+    The Massachusetts Constitutional Convention.
+
+Cluster 1362:
+    The Demise and Fall of Library Fungus.
+
+Cluster 1363:
+    Recent Developments and Current Trends in the Law of Life Insurance.
+
+Cluster 1364:
+     How Lessons from Other Types of Libraries Can Inform the Evolution of the Academic Law Library in the Digital Age.
+
+Cluster 1365:
+    Case Western Reserve University Law School Library.
+
+Cluster 1366:
+    Information Literacy Learning Outcomes among Undergraduate Law Students in Two African Universities.
+
+Cluster 1367:
+    Carry Me Back to Old Virginia.
+
+Cluster 1368:
+     Lexicographer for a Day.
+
+Cluster 1369:
+    Irresponsible and Unimaginative the Lawyer and the Historian as Judicial Biographer.
+
+Cluster 1370:
+     Charter Members, Officers and Meeting Places, 1906-1956.
+
+Cluster 1371:
+     Why Being Good Isn't Good Enough Anymore.
+
+Cluster 1372:
+     History, Sources, and a Proposed Classification Scheme.
+
+Cluster 1373:
+    A Day in My Law Library Life, Circa 2018.
+
+Cluster 1374:
+     How the Law Classifies Crimes and What It Means for Justice.
+
+Cluster 1375:
+     How the Laws of Fashion Made History.
+
+Cluster 1376:
+    Microform Holdings and American Bar Association Accreditation Standards.
+
+Cluster 1377:
+    A Guide to Austrian Legal Research.
+
+Cluster 1378:
+     What Law Librarians Need to Know about open, Single-Blind, and Double-Blind Reviewing.
+
+Cluster 1379:
+     How a Small-Town Newspaper and Its Unlikely Lawyer Opened America's Courtrooms.
+
+Cluster 1380:
+     A Memorial.
+
+Cluster 1381:
+    Acquisition of Latin American Legal Materials.
+
+Cluster 1382:
+    Copyright's Highway.
+
+Cluster 1383:
+    Bold Minds.
+
+Cluster 1384:
+     How User Interface Design Affects Legal Research.
+
+Cluster 1385:
+     Legal Implications of Rising Seas and a Changing Climate.
+
+Cluster 1386:
+    It Started with a Brick.
+
+Cluster 1387:
+    Coke's Reports, and the Anonymous Commentary on Littleton.
+
+Cluster 1388:
+    Technology Management Trends in Law Schools.
+
+Cluster 1389:
+    File Analysis for Retrospective Conversion.
+
+Cluster 1390:
+    Columbia University's Law Library Course.
+
+Cluster 1391:
+    The 4-1-1 on Lawyer Directories.
+
+Cluster 1392:
+     Intersections of Identities and Expectations.
+
+Cluster 1393:
+     Epidemics and the Law from Smallpox to COVID-19.
+
+Cluster 1394:
+    William Warburton's Authorship of Legal Judicature in Chancery Stated.
+
+Cluster 1395:
+    Growing Pains.
+
+Cluster 1396:
+    Pro Say Podcast.
+
+Cluster 1397:
+    Tying Diversity to Organizational Culture.
+
+Cluster 1398:
+    Selected List of Books for the Small Law School Library.
+
+Cluster 1399:
+     The Year of the iPad.
+
+Cluster 1400:
+    Index to Memoirs, Orders and Rules of Court, Admissions to the Bar, and Other Interesting Material, Found in United States Supreme Court Reports, Volumes One to Two-Hundred and Ninety-One, Inclusive.
+
+Cluster 1401:
+    Driving Pedestrian Traffic to Law Journals.
+
+Cluster 1402:
+    Personnel Management.
+
+Cluster 1403:
+     ABA Standard 606 and the Future of Academic Law Libraries as the Smoke Clears.
+
+Cluster 1404:
+    Let's Talk about Race.
+
+Cluster 1405:
+    The European Human Rights System.
+
+Cluster 1406:
+    Not by Books Alone.
+
+Cluster 1407:
+     Volume II, 871-1216.
+
+Cluster 1408:
+    Functions and Jurisdiction of the United States Court of Customs Appeals.
+
+Cluster 1409:
+     A Guide to Fan Fiction, Art, Film & Cosplay.
+
+Cluster 1410:
+    Duplicate Holding Practices of Approved American Law School Libraries.
+
+Cluster 1411:
+     How Special Prosecutors Hold Presidents Accountable and Protect the Rule of Law.
+
+Cluster 1412:
+    Recent Developments in the Law Relating to Real Estate.
+
+Cluster 1413:
+    Back and Forth.
+
+Cluster 1414:
+     Library Space.
+
+Cluster 1415:
+    Breaking Down Link Rot.
+
+Cluster 1416:
+     The Complicity of Lawyers in the Criminal Injustice System.
+
+Cluster 1417:
+     Highlights from One Hundred Years of LLJ History.
+
+Cluster 1418:
+    Assessing the Health of FOIA after 2000 through the Lens of the National Security Archive and Federal Government Audits.
+
+Cluster 1419:
+    Some Observations of a Recent Recruit.
+
+Cluster 1420:
+    Semantic Methods in Legal Research.
+
+Cluster 1421:
+    Women in Libraries.
+
+Cluster 1422:
+     The Case of Earl Warren.
+
+Cluster 1423:
+    Reviewing Frank G. Houdek, The First Century.
+
+Cluster 1424:
+    Ordinary Joe in the Decision-Making Process.
+
+Cluster 1425:
+    War and Peace in Outer Space.
+
+Cluster 1426:
+     The Training of a Millennial Librarian.
+
+Cluster 1427:
+    It's All Enumerative.
+
+Cluster 1428:
+    New York Emergency Commercial Rent Law.
+
+Cluster 1429:
+     How Appreciation for the Big Picture Can Benefit (Academic) Law Library Leaders.
+
+Cluster 1430:
+    The Gaps Model and Faculty Services.
+
+Cluster 1431:
+     Reimagining Work in an Age of Communication Overload.
+
+Cluster 1432:
+    Survey of Professional Attitudes toward Research Retrieval Systems.
+
+Cluster 1433:
+     An Empirical Analysis of LexisNexis and West Headnotes in the Written Opinions of the 2009 Supreme Court Term.
+
+Cluster 1434:
+     Statutory Notes in the United States Code.
+
+Cluster 1435:
+     Key Roles for a Nonlawyer Nonlibrarian in a Law Library.
+
+Cluster 1436:
+     The Curse of Boole.
+
+Cluster 1437:
+     The Life and Works of Thomas M. McDade.
+
+Cluster 1438:
+     Thoughts on the Future of Our Print Collections.
+
+Cluster 1439:
+     The University of Richmond Experience.
+
+Cluster 1440:
+    LEXIS and WESTLAW Training Centers.
+
+Cluster 1441:
+    Gifts and Exchanges as a Means of Growth of Law Library Collections.
+
+Cluster 1442:
+     Part, Present, and Future Development of Patent Classification in the United States.
+
+Cluster 1443:
+    Zen and the Art of Multitasking.
+
+Cluster 1444:
+    Deconstructing Service in Libraries.
+
+Cluster 1445:
+    Getting to Know Fastcase.
+
+Cluster 1446:
+     The Failure of Legal Citation Reform in the 1990s.
+
+Cluster 1447:
+    On Empathy.
+
+Cluster 1448:
+    Planning a Center for Information Services for the University Library.
+
+Cluster 1449:
+    Twitter.
+
+Cluster 1450:
+    Cass, Ronald A., and Keith H. Hylton. Laws of Creation.
+
+Cluster 1451:
+     Integrating Library Services with Academic Support Programs.
+
+Cluster 1452:
+    Thinking, Writing, Sharing, Blogging.
+
+Cluster 1453:
+     Myth or Reality.
+
+Cluster 1454:
+    Some By-Products from Worcester County Law Library.
+
+Cluster 1455:
+     The Manson Family Cases and the Illusion of Parole.
+
+Cluster 1456:
+    A Capsule Description of User Services in Fifty Large Law School Libraries.
+
+Cluster 1457:
+     How Americans Once Used Natural Law and Why They Stopped.
+
+Cluster 1458:
+     Understanding Your Moral Compass, Interpersonal Skills, and Ethical Inventory before Practicing Law.
+
+Cluster 1459:
+    The United States Statutes at Large.
+
+Cluster 1460:
+     University of Oklahoma.
+
+Cluster 1461:
+     Inclusion and Equity in the Law School Classroom.
+
+Cluster 1462:
+     Library Services during the Construction Period.
+
+Cluster 1463:
+    Meeting of the Executive Committee, Statler Hotel, Washington, D.C., February 2 and 3, 1945.
+
+Cluster 1464:
+    Wanted - A New Approach to Law Librianship.
+
+Cluster 1465:
+     How to Think about Hate Speech, Campus Speech, Religious Speech, Fake News, Post-Truth, and Donald Trump.
+
+Cluster 1466:
+    The Fielding Lewis Turner Law Library.
+
+Cluster 1467:
+     125 Years.
+
+Cluster 1468:
+    Dress Codes.
+
+Cluster 1469:
+    Integrating Doctrine and Diversity.
+
+Cluster 1470:
+    Success through Speech.
+
+Cluster 1471:
+    Animal Stories for Good Reference Librarians.
+
+Cluster 1472:
+    The Creation and Transmission of Justinian's Novels.
+
+Cluster 1473:
+    Flipped Classrooms for Legal Education.
+
+Cluster 1474:
+     Rediscovering the Seneca Nation Settlement Act through Archives.
+
+Cluster 1475:
+    How to Research Copyright Law.
+
+Cluster 1476:
+    Electronic Resources for Patent Searching.
+
+Cluster 1477:
+    Planning for Automation.
+
+Cluster 1478:
+    Organizing and Accessing a Special Collection.
+
+Cluster 1479:
+    Reclassification at Berkeley.
+
+Cluster 1480:
+     A Survey of First-Year Legal Research Programs, or Why Johnny and Jane Cannot Research.
+
+Cluster 1481:
+    How Whiskey Law Shaped America.
+
+Cluster 1482:
+     The (Un)Availability of Tribal Law.
+
+Cluster 1483:
+    Mr. Joshua Williams, Q.C..
+
+Cluster 1484:
+    A Reports of Year Book 10 Henry V (1422) Found in a Manuscript Abridgment of Year Books.
+
+Cluster 1485:
+    Legal Periodical Usage Survey.
+
+Cluster 1486:
+     Text Transcript & Commentary.
+
+Cluster 1487:
+    A Nickel for Your ----.
+
+Cluster 1488:
+    Law and Reputation.
+
+Cluster 1489:
+    Appeals to the Privy Council before American Independence.
+
+Cluster 1490:
+    Brandeis Briefs as Jurisprudence Source Material.
+
+Cluster 1491:
+    Western Pacific Chapter.
+
+Cluster 1492:
+     The State of the Art, 1984.
+
+Cluster 1493:
+    Legal Research Instruction and Law Librarianship in China.
+
+Cluster 1494:
+    Vertical Files and Shelflists.
+
+Cluster 1495:
+     The Presidential Signing Statements Controversy and Its Implications for Library Professionals.
+
+Cluster 1496:
+    John West and the Future of Legal Subscription Databases.
+
+Cluster 1497:
+    Resurrecting (and Modernizing) the Research Treasure Hunt.
+
+Cluster 1498:
+    Tough Cases.
+
+Cluster 1499:
+    Writing Buddies.
+
+Cluster 1500:
+     Legislative and Legal.
+
+Cluster 1501:
+    Howarth, David. Law as Engineering.
+
+Cluster 1502:
+    Ending Copyright Claims in State Primary Legal Materials.
+
+Cluster 1503:
+    Enough Fathom-Long Swine.
+
+Cluster 1504:
+    Edward Brinley Adams.
+
+Cluster 1505:
+    The Legislation of Vermont.
+
+Cluster 1506:
+     A Baseline Study.
+
+Cluster 1507:
+     Collection Development of Skills-Specific Resources in the Wake of the ABA's Revised Standards.
+
+Cluster 1508:
+    Use of a Sequential Camera for Composition of a List of Subject Headings.
+
+Cluster 1509:
+    Hate Crimes.
+
+Cluster 1510:
+    Law and Legislative Library Conditions in Texas.
+
+Cluster 1511:
+     Are You Ready for Law School? Prepare for Law School by Watching Movies.
+
+Cluster 1512:
+    Planning a Publication Venture.
+
+Cluster 1513:
+     Restoring the Fundamental Constitutional Role of the Criminal, Civil, and Grand Juries.
+
+Cluster 1514:
+    Medicine, Law, Librarianship.
+
+Cluster 1515:
+     How the Civil War and Reconstruction Remade the Constitution.
+
+Cluster 1516:
+    Address at a Joint Session with the American Library Association.
+
+Cluster 1517:
+     The D.C. Experience.
+
+Cluster 1518:
+    Library of Congress Subject Heading Modification and Development of the Subject Authority File at Los Angeles County Law Library.
+
+Cluster 1519:
+    Break 'Em Up.
+
+Cluster 1520:
+    A Spark of Hope for Prisoners.
+
+Cluster 1521:
+    To Meet or Not to Meet.
+
+Cluster 1522:
+    Cataloging and Classification of Law Materials.
+
+Cluster 1523:
+    Georgetown Law Center Memorial Service November 6, 2007.
+
+Cluster 1524:
+    A View from the Flip Side.
+
+Cluster 1525:
+    Degree Pedigree.
+
+Cluster 1526:
+    The Enigma of Clarence Thomas.
+
+Cluster 1527:
+    He Weifang. In the Name of Justice.
+
+Cluster 1528:
+     Method and Application.
+
+Cluster 1529:
+    New York University's Classification Scheme on Economic Integration Class KE.
+
+Cluster 1530:
+    A Survey of Electronic Research Alternatives to LexisNexis and Westlaw in Law Firms.
+
+Cluster 1531:
+    Who Decides? States as Laboratories of Constitutional Experimentation.
+
+Cluster 1532:
+    Who's Who in the Law Libraries - Edwin Gholson.
+
+Cluster 1533:
+    The Law Quadrangle of the University of Michigan.
+
+Cluster 1534:
+    A User's Perspective on Privacy and the Web.
+
+Cluster 1535:
+    Baker, H. Robert Prigg v. Pennsylvania.
+
+Cluster 1536:
+    Law and People in Colonial America, Second Edition.
+
+Cluster 1537:
+     Poisoned Water, Corporate Greed, and One Lawyer's Twenty-Year Battle against DuPont.
+
+Cluster 1538:
+     Past and Present as Prologue to the Future.
+
+Cluster 1539:
+    The Use of Early American Court Records in Historical Research.
+
+Cluster 1540:
+    Serials Control at Boalt Hall.
+
+Cluster 1541:
+     An Analysis of Automated Education.
+
+Cluster 1542:
+    Shepardizing English Law.
+
+Cluster 1543:
+    Law School Honor Codes.
+
+Cluster 1544:
+     Artificial Intelligence as Disruptor.
+
+Cluster 1545:
+     Suggestions for Law School Libraries Sharing Local Computer Systems.
+
+Cluster 1546:
+    There Oughta Be a Law - A Model Law.
+
+Cluster 1547:
+    The Rewards of Tedium.
+
+Cluster 1548:
+    Negotiating Strengths.
+
+Cluster 1549:
+    The Reorganization of the John Marshall Law School Library.
+
+Cluster 1550:
+     The Academy and the Judiciary.
+
+Cluster 1551:
+    Microcomputers for More Than On-Line Research.
+
+Cluster 1552:
+    Does Lewis v. Casey Spell the End to Court-Ordered Improvement of Prison Law Libraries.
+
+Cluster 1553:
+    The Editing and Publication of the Year Books of the Reign of Edward III (1327-77).
+
+Cluster 1554:
+    Thomas S. Dabagh and the Institutional Beginnings of the UCLA Law Library.
+
+Cluster 1555:
+     Service Expectations of the Second-Tier Libraries.
+
+Cluster 1556:
+     Legal and Ethical Questions in Assisting the Pro Se Patron.
+
+Cluster 1557:
+     High Altitude Mountaineering Lessons for Librarians.
+
+Cluster 1558:
+     Printer, Lawyer, Jurist.
+
+Cluster 1559:
+    First Amendment Limits on Library Collection Management.
+
+Cluster 1560:
+    Steve Jobs Was Right about HTML5, but Was He Right about Digital Publishing.
+
+Cluster 1561:
+     Gender Equality and the Nineteenth Amendment.
+
+Cluster 1562:
+    Proposed Model for a Reference Internship in a Law School Library.
+
+Cluster 1563:
+    En la Tierra del Ciego, el Tuerco es Rey.
+
+Cluster 1564:
+     CALR and the Role of Informal Apprenticeship in Attorney Training.
+
+Cluster 1565:
+    You Don't Look like a Lawyer.
+
+Cluster 1566:
+    Writing the Legal Record.
+
+Cluster 1567:
+     A Compilation of Oral Dissents by U.S. Supreme Court Justices.
+
+Cluster 1568:
+    Let George Do It.
+
+Cluster 1569:
+     Assassination, Conspiracy, and the Forgotten Trial of Jack Ruby.
+
+Cluster 1570:
+     The Making and Breaking of the American Legal System.
+
+Cluster 1571:
+    Challenging the Status Quo.
+
+Cluster 1572:
+    Cataloging Microforms Using RLIN.
+
+Cluster 1573:
+    Project Lawsearch.
+
+Cluster 1574:
+    Sex-Based Discrimination in Law Libraries.
+
+Cluster 1575:
+    Inspiring Innovation.
+
+Cluster 1576:
+    Imagining the Use of Intelligent Agents and Artificial Intelligence in Academic Law Libraries.
+
+Cluster 1577:
+    Taking Back the Constitution.
+
+Cluster 1578:
+    University of Washington Law Library Attains 100,000 Volume Mark.
+
+Cluster 1579:
+    Birth of a Nutshell.
+
+Cluster 1580:
+    Movie Therapy for Law Students.
+
+Cluster 1581:
+     The New Generation of Activists and the Landmark Legal Fight against Climate Change.
+
+Cluster 1582:
+    The Creation of COUNSEL.
+
+Cluster 1583:
+    Algorithms and Law.
+
+Cluster 1584:
+    Kennedy's Avenger.
+
+Cluster 1585:
+    The Last Word (I Hope).
+
+Cluster 1586:
+    Avoiding the Dragon in Library Cooperation.
+
+Cluster 1587:
+    Banner, Stuart. The Baseball Trust.
+
+Cluster 1588:
+    Rating the Justices.
+
+Cluster 1589:
+     Lessons Learned from Implementing a Law Library Blog.
+
+Cluster 1590:
+    Define Leader.
+
+Cluster 1591:
+    Emotional Intelligence.
+
+Cluster 1592:
+    Part I - Introductory Remarks.
+
+Cluster 1593:
+     A Review of Spanish and Mexican Legal Institutions.
+
+Cluster 1594:
+    Report of the Committee on Securing Latin-American Laws.
+
+Cluster 1595:
+    A Preliminary Examination of the AALL Exchange of Duplicates Program.
+
+Cluster 1596:
+     A Study in Preservation Strategy.
+
+Cluster 1597:
+    Preparing Your Manuscript for the Printer.
+
+Cluster 1598:
+    The History of the Adoption of the Codes of California.
+
+Cluster 1599:
+     A Study of West's Headnotes and Key Numbers and LexisNexis's Headnotes and Topics.
+
+Cluster 1600:
+    Temptations of the Sirens.
+
+Cluster 1601:
+    Coming into the Country.
+
+Cluster 1602:
+    Changes in Legal Scholarship and Their Impact on Law School Library Reference Services.
+
+Cluster 1603:
+    The Invention of Modern Empiricism.
+
+Cluster 1604:
+    What Is All the Fuss about Library 2.0.
+
+Cluster 1605:
+    Five Words That Changed America.
+
+Cluster 1606:
+    Guidelines for Furnishing the Library.
+
+Cluster 1607:
+    Memories of Morris - And How I Use His BEAL.
+
+Cluster 1608:
+    The Cincinnati Law Library.
+
+Cluster 1609:
+    LIS Interrupted.
+
+Cluster 1610:
+    Class K-Law.
+
+Cluster 1611:
+     Economic Rights and Legal Protections for People with Low Income.
+
+Cluster 1612:
+    Crisis Lawyering.
+
+Cluster 1613:
+    Data, Data, Data.
+
+Cluster 1614:
+    COVID-19 in Asia.
+
+Cluster 1615:
+    How to Stop Feeling like a Phony in Your Library.
+
+Cluster 1616:
+    Public's Access to Government--Freedom of Information, Privacy and Sunshine Acts - an Address.
+
+Cluster 1617:
+    A World without Email.
+
+Cluster 1618:
+    How We Obtain Our Books.
+
+Cluster 1619:
+     From Collapse to the Trump Bump and beyond.
+
+Cluster 1620:
+    Reflections on Klassification or the Quest of an Ideal.
+
+Cluster 1621:
+     The Students.
+
+Cluster 1622:
+    Distribution of U. S. Government Publications.
+
+Cluster 1623:
+    Lawyers Can't Be Luddites Anymore.
+
+Cluster 1624:
+    The Totally On-Line Library.
+
+Cluster 1625:
+    How to Impress Your Boss, Win Friends, and Influence People.
+
+Cluster 1626:
+    First.
+
+Cluster 1627:
+     Company Information for Law Students.
+
+Cluster 1628:
+     An Inquiry into Bloom's Taxonomy as a Hierarchy and Means for Teaching Legal Research Skills.
+
+Cluster 1629:
+    Categorizing the Useful Arts.
+
+Cluster 1630:
+    The Libraries of the Inns of Court, London.
+
+Cluster 1631:
+    Building a Collaborative Digital Collection.
+
+Cluster 1632:
+    Quo Vadis.
+
+Cluster 1633:
+    Revival of the University of Virginia Law Library in Wartime.
+
+Cluster 1634:
+    The Southern California Association of Law Libraries at Age 25--An Informal Biography.
+
+Cluster 1635:
+    Trials.
+
+Cluster 1636:
+     Fifty Years of Legal Footnoting in Review.
+
+Cluster 1637:
+     The Max Planck Institutes.
+
+Cluster 1638:
+    The Visible File in a Small Law Library-Its Installation and Use.
+
+Cluster 1639:
+    Usual Cruelty.
+
+Cluster 1640:
+    Law Libraries as the Source of the Study of History and Sociology.
+
+Cluster 1641:
+    Recent Developments in International and Municipal Law.
+
+Cluster 1642:
+     Survey Relating to Autonomy and Faculty Status.
+
+Cluster 1643:
+    Mine! How the Hidden Rules of Ownership Control Our Lives.
+
+Cluster 1644:
+     Considering the Legal Research Practices of Solo and Small Firm Attorneys.
+
+Cluster 1645:
+     Morris Cohen in the 1960s.
+
+Cluster 1646:
+     An Annotated Digital Catalogue.
+
+Cluster 1647:
+    Time to Blossom.
+
+Cluster 1648:
+     Scholar-Librarian.
+
+Cluster 1649:
+    Sketch of the Life of William J. C. Berry.
+
+Cluster 1650:
+    American Researcher's Guide to European Communities Law and Legal Literature.
+
+Cluster 1651:
+     Sandra Day O'Connor.
+
+Cluster 1652:
+    Justice in Plain Sight.
+
+Cluster 1653:
+    Does Form Follow Function - Academic Law Libraries' Organizational Structures for Collection Development .
+
+Cluster 1654:
+    Northwestern Expands Owen L. Coon Library Added to the Elbert H. Gary Library.
+
+Cluster 1655:
+    The Decline of Natural Law.
+
+Cluster 1656:
+    The Odor of Sanctity in the New York State Law Library.
+
+Cluster 1657:
+    Gray's Inn and Its History.
+
+Cluster 1658:
+    France.
+
+Cluster 1659:
+    Mentoring across Generations.
+
+Cluster 1660:
+    A Survey of Law Libraries in Rwanda.
+
+Cluster 1661:
+     A Guide to the Sources and Their English Translations.
+
+Cluster 1662:
+    Examinations before Trial in New York State.
+
+Cluster 1663:
+    The Second Founding.
+
+Cluster 1664:
+     Objectives, Challenges, and Solutions.
+
+Cluster 1665:
+     Transformation or Steadfast Stagnation.
+
+Cluster 1666:
+    Discovering the Knowledge Monopoly of Law Librarianship under the DIKW Pyramid.
+
+Cluster 1667:
+    A Research Guide to the Law of Private Sector Labor-Management Relations.
+
+Cluster 1668:
+    The Library as a Business Enterprise.
+
+Cluster 1669:
+    Digital Rights Management.
+
+Cluster 1670:
+    Law Libraries and Unions.
+
+Cluster 1671:
+    Bar Relief.
+
+Cluster 1672:
+     A Ten Year Review.
+
+Cluster 1673:
+     A Study of the Paul Krueger Archive.
+
+Cluster 1674:
+     Justice through Technology.
+
+Cluster 1675:
+    Indexing and Full-Text Coverage of Law Review Articles in Nonlegal Databases.
+
+Cluster 1676:
+    District Court Opinions That Remain Hidden Despite a Long-Standing Congressional Mandate of Transparency - the Result of Judicial Autonomy and Systemic Indiffernece.
+
+Cluster 1677:
+     Crossing the Lines That Divide Us.
+
+Cluster 1678:
+    An Update on Faculty Libraries.
+
+Cluster 1679:
+    Dissents from the Bench.
+
+Cluster 1680:
+    Due Diligence.
+
+Cluster 1681:
+    Resource-Based Learning and Course Design.
+
+Cluster 1682:
+     A Burdensome Task.
+
+Cluster 1683:
+    Foreign, Comparative and International Law SIS .
+
+Cluster 1684:
+    Fees for Service.
+
+Cluster 1685:
+    Digital Punishment.
+
+Cluster 1686:
+     New Uses for a Familiar Tool.
+
+Cluster 1687:
+     Open Access in the Law School Journal Environment.
+
+Cluster 1688:
+    Current Developments in Pleading, Practice and Procedure in New York.
+
+Cluster 1689:
+    Daniel Dulany II.
+
+Cluster 1690:
+    The Duty of the Librarian of a University Law Library towards the Library's Patrons.
+
+Cluster 1691:
+    Harry Bitner.
+
+Cluster 1692:
+    Recent Developments in Securities Law.
+
+Cluster 1693:
+    The Library and the People.
+
+Cluster 1694:
+     Disrupting Librarian and Information Studies through Critical Race Theory.
+
+Cluster 1695:
+    Surprising Differences.
+
+Cluster 1696:
+    Integrating New Technology.
+
+Cluster 1697:
+     Unconscious Behavior, Bias, and Diversity.
+
+Cluster 1698:
+     Project CLEAR's Lexpert.
+
+Cluster 1699:
+    Assessment of Teaching and Learning.
+
+Cluster 1700:
+     The New International Economic Order through Codes of Conduct.
+
+Cluster 1701:
+     Miranda v. Arizona and the Right to Remain Silent.
+
+Cluster 1702:
+     The Hicks Classification System and the Evolution of Law School Curriculum.
+
+Cluster 1703:
+    Yellow Flag Fever.
+
+Cluster 1704:
+    Joseph Story's Encyclopedia Americana Law Articles.
+
+Cluster 1705:
+    How Many Copies Are Enough Revisited.
+
+Cluster 1706:
+    Our Attitude to the Constitution.
+
+Cluster 1707:
+    Current Developments in Constitutional and Administrative Law.
+
+Cluster 1708:
+    Information Is Cheap, but Meaning Is Expensive.
+
+Cluster 1709:
+    Judith S. Kaye in Her Own Words.
+
+Cluster 1710:
+    Prosecuting the President.
+
+Cluster 1711:
+    To Drink from the Well.
+
+Cluster 1712:
+    Logic, Law and Dreams.
+
+Cluster 1713:
+    To Cite or Not to Cite.
+
+Cluster 1714:
+    An Overview of American Nonlegislative Procedure.
+
+Cluster 1715:
+     Selecting the Appropriate Tool.
+
+Cluster 1716:
+    Full-Text Information Retrieval.
+
+Cluster 1717:
+    Getting Facts Straight (and Writing Well Too).
+
+Cluster 1718:
+    Classification-The Choices.
+
+Cluster 1719:
+    Plays Well with Others.
+
+Cluster 1720:
+    A Library Design Bookshelf.
+
+Cluster 1721:
+     A Brief Theoretical Overview and Practical Suggestions.
+
+Cluster 1722:
+    The Benefits of a Legislative Reference Bureau to a State Legislature.
+
+Cluster 1723:
+    What Changes Shall Be Proposed to the ALA Committee Pending Publication of the Catalog Rules in Final Form.
+
+Cluster 1724:
+     Progress and Evolving Norms in a Digital Age.
+
+Cluster 1725:
+     Do Law Librarians Have a Role in Helping Lawyers Adjust to the New Ethics Rules Involving Technology.
+
+Cluster 1726:
+    New Perspectives on following the Leader.
+
+Cluster 1727:
+    Some Writings of Max Radin of General Legal Interest.
+
+Cluster 1728:
+    Computer-Assisted Legal Research Instruction in Texas Law Schools.
+
+Cluster 1729:
+    Morris Cohen and Rare Book School.
+
+Cluster 1730:
+    Negotiating Weaknesses.
+
+Cluster 1731:
+    Our Predecessors and Their Achievements.
+
+Cluster 1732:
+    Managing Disruptive Patron Behavior in Law Libraries.
+
+Cluster 1733:
+    Cooperative Effort in Cataloging.
+
+Cluster 1734:
+    The Reference Assistant.
+
+Cluster 1735:
+    Military Law Source Material.
+
+Cluster 1736:
+    A Job-Task Index for Evaluating Professional Utilization in Libraries.
+
+Cluster 1737:
+    Vale Bunny Watson.
+
+Cluster 1738:
+    A Note on Sources for Scientific Research for Lawyers.
+
+Cluster 1739:
+    Change and Continuity (Rip Van Winkle's Reference Office).
+
+Cluster 1740:
+     Slavery, the Supreme Court, and the Ambivalent Constitution.
+
+Cluster 1741:
+    English Conveyancing.
+
+Cluster 1742:
+    From out of the Past and into the Future.
+
+Cluster 1743:
+     How Search Engines Reinforces Racism.
+
+Cluster 1744:
+    The Place Accorded to the Library in Law School Announcements.
+
+Cluster 1745:
+    National Security, Leaks and Freedom of the Press.
+
+Cluster 1746:
+    Legal Abbreviations of U.S. Government Documents.
+
+Cluster 1747:
+    Are You a Member of the Law School Community.
+
+Cluster 1748:
+    Invisible Women.
+
+Cluster 1749:
+    The Rastells and the Printed English Law Book of the Renaissance.
+
+Cluster 1750:
+    Centralization of Cataloging and Classification after the Arrival of Class K-A Review and Reappraisal.
+
+Cluster 1751:
+    Hamilton and the Law.
+
+Cluster 1752:
+    Accelerated Legal Research at U. S. C. Law Center.
+
+Cluster 1753:
+    Anecodotes about the Supreme Court.
+
+Cluster 1754:
+    Empirical Legal Research Support Services.
+
+Cluster 1755:
+     An Analysis of Current Practice.
+
+Cluster 1756:
+    The History of the University of New Mexico School of Law Librarians' Fight for Faculty Status and Equal Voting Rights.
+
+Cluster 1757:
+    Some Guidance about Federal Agencies and Guidance.
+
+Cluster 1758:
+     Law Reporters in Nineteenth-Century Kentucky.
+
+Cluster 1759:
+     Are They Ready? A Survey of U.S. Library and Information Science Programs' Education of Aspiring Law Librarians.
+
+Cluster 1760:
+     Privacy, Stigma, and the Harms of Data-Driven Criminal Justice.
+
+Cluster 1761:
+    Blueprint for Atomic Energy Literature.
+
+Cluster 1762:
+    Precedential Power Policies.
+
+Cluster 1763:
+     The Search for Truth and Justice after Serial.
+
+Cluster 1764:
+    Microcards and Legal Materials.
+
+Cluster 1765:
+    On Embracing the Research Conference (2019-2).
+
+Cluster 1766:
+     An Updated View of Current Practices and Comparison with the U.S. Legal Education System.
+
+Cluster 1767:
+     The Chesapeake Project Legal Information Archive's Examination of URL Stability.
+
+Cluster 1768:
+    Leather Preservation.
+
+Cluster 1769:
+    Possible Futures for the Legal Treatise in an Environment of Wikis, Blogs, and Myriad Online Primary Law Sources.
+
+Cluster 1770:
+     How Law Student Information Literacy Standards Address Identified Issues in Legal Research Education and Training.
+
+Cluster 1771:
+    Evaluating Shepard's, KeyCite, and BCite for Case Validation Accuracy.
+
+Cluster 1772:
+    Beyond the Annals of Murder.
+
+Cluster 1773:
+     Preserving the First Draft of History.
+
+Cluster 1774:
+     The Practical Aspects.
+
+Cluster 1775:
+     Making the Most of What You Have.
+
+Cluster 1776:
+    Juris.
+
+Cluster 1777:
+    The Historical and Legal Underpinnings of Access to Public Documents.
+
+Cluster 1778:
+    Fandom and the Law.
+
+Cluster 1779:
+    The Shadow Code.
+
+Cluster 1780:
+     A (Belated) Response to Dean Kay, with Some Suggested Additions to Her Canonical List.
+
+Cluster 1781:
+    The Library.
+
+Cluster 1782:
+     Toward an Open Source Legal System.
+
+Cluster 1783:
+     A Proto-Federal Register.
+
+Cluster 1784:
+    The Boston Meeting of the American Bar Association.
+
+Cluster 1785:
+    The Elephant in the Room.
+
+Cluster 1786:
+    Reinforcing the Infrastructure of Legal Research through Court-Authored Metadata.
+
+Cluster 1787:
+    The Trap of Medium-Neutral Citation, or Why a Historical-Critical Edition of State Constitutions is Necessary.
+
+Cluster 1788:
+    Free Speech in the Balance.
+
+Cluster 1789:
+    The Need for College Instruction in the Use of Law Books.
+
+Cluster 1790:
+    2018.
+
+Cluster 1791:
+    Gerrard, Michael B., and Gregory E. Wannier, eds. Threatened Island Nations.
+
+Cluster 1792:
+    The Bar Examination.
+
+Cluster 1793:
+    WESTLAW Is Natural v. Boolean Searching.
+
+Cluster 1794:
+    Litigation Concerning County Law Library Fees.
+
+Cluster 1795:
+     Copyright and the Future of Research Support.
+
+Cluster 1796:
+    Igniting the Conversation.
+
+Cluster 1797:
+    The History of Oregon's So-Called "Sanctuary" Law.
+
+Cluster 1798:
+    Famous and Curious Wills.
+
+Cluster 1799:
+    Book Losses and Mutilation in Law School Libraries.
+
+Cluster 1800:
+     The Myth of Librarian Liability.
+
+Cluster 1801:
+    The Book of Trespass.
+
+Cluster 1802:
+    Library Planning in Philadelphia.
+
+Cluster 1803:
+     Reading Today's Most Contentious Legal Issues through the Hit Musical.
+
+Cluster 1804:
+    A Note on 3 A Tennessee Reports.
+
+Cluster 1805:
+    ProQuest Regulatory Insight.
+
+Cluster 1806:
+    Judges, Technology and Artificial Intelligence.
+
+Cluster 1807:
+    One Vote Away.
+
+Cluster 1808:
+    Foreign Law Books-How to Secure Them.
+
+Cluster 1809:
+    Remodeling.
+
+Cluster 1810:
+    Part IV - People of Spanish Descent.
+
+Cluster 1811:
+    Tuesday Morning Detective Work (2019-8).
+
+Cluster 1812:
+     A Short History.
+
+Cluster 1813:
+    Fitzherbert's Abridgement.
+
+Cluster 1814:
+    The State Law Index.
+
+Cluster 1815:
+    Crawford, Susan. Captive Audience.
+
+Cluster 1816:
+     Law, Policy and Ethics.
+
+Cluster 1817:
+    Protecting Our Spaces of Memory.
+
+Cluster 1818:
+    Acquiring International Legal Materials.
+
+Cluster 1819:
+    The Modern Medusa.
+
+Cluster 1820:
+     A University of California and Los Angeles County Law Library Joint Venture.
+
+Cluster 1821:
+    The General Interlibrary Loan Code 1952.
+
+Cluster 1822:
+    A Human Algorithm.
+
+Cluster 1823:
+    On File with.
+
+Cluster 1824:
+    The ABA, the AALL, the AALS, and the Duplication of Legal Publications.
+
+Cluster 1825:
+     A Speech Writer's Gold Mine.
+
+Cluster 1826:
+    The Mead Data Central System of Computerized Legal Research.
+
+Cluster 1827:
+    A Legislative History of the Affordable Care Act.
+
+Cluster 1828:
+    The Joy of Gathering.
+
+Cluster 1829:
+    Are Recorded Lectures Better than Live Lectures for Teaching Students Legal Research.
+
+Cluster 1830:
+    Current Research Sources in French Law.
+
+Cluster 1831:
+     Exhibits - Part III.
+
+Cluster 1832:
+    Power, Legal Education, and Law School Cultures.
+
+Cluster 1833:
+    William Sanders Johnston as I Knew Him Including a Brief Biographical Sketch 1871-1947.
+
+Cluster 1834:
+    Introductory Statement.
+
+Cluster 1835:
+    Thomas, Gillian. Because of Sex.
+
+Cluster 1836:
+    Computer Application to Legal Documentation.
+
+Cluster 1837:
+    Anecdotes Revisited.
+
+Cluster 1838:
+    Impact of Lexis on the Law Firm Library.
+
+Cluster 1839:
+    Ending Book Hunger.
+
+Cluster 1840:
+    Recent Developments in Federal Taxation.
+
+Cluster 1841:
+     University of Miami.
+
+Cluster 1842:
+    Documents and Publications of Contemporary International Governmental Organizations.
+
+Cluster 1843:
+     D. L. Rhode's Cheating.
+
+Cluster 1844:
+    Earl C. Borgeson's Ten Rules for Law Library Management.
+
+Cluster 1845:
+     African-Americans and the Constitutional Order, 1776 to the Present, Second Edition.
+
+Cluster 1846:
+     Some Cautionary Notes.
+
+Cluster 1847:
+    Discovering William Cook.
+
+Cluster 1848:
+     Too Many Unanswered Questions.
+
+Cluster 1849:
+     City, County or State.
+
+Cluster 1850:
+     Embracing Legal Literacy as the Heart of the Profession.
+
+Cluster 1851:
+     How the Current U.S. Online Court Record System Exacerbates Inequality.
+
+Cluster 1852:
+    Microphotography for Law Schools.
+
+Cluster 1853:
+    Exploring Precedent.
+
+Cluster 1854:
+     Mid-America's Experience.
+
+Cluster 1855:
+    Schoolhouse Rock Is No Longer Enough.
+
+Cluster 1856:
+    Selwyn, Laurie, and Virginia Eldridge. Public Law Librarianship.
+
+Cluster 1857:
+    Whatever Tribal Precedent There May Be.
+
+Cluster 1858:
+    HeinOnline and Law Review Citation Patterns.
+
+Cluster 1859:
+    Tate Hall, the Law Building of the University of Missouri.
+
+Cluster 1860:
+     A Comparative Analysis - A Draft Report Prepared According to the Instructions of the Honorable John Dow.
+
+Cluster 1861:
+     Protecting Law Library Core Missions through Updated Library Quality Assessment Standards.
+
+Cluster 1862:
+    The Photocopying Machine.
+
+Cluster 1863:
+    An Unexpected Story.
+
+Cluster 1864:
+    Access to Print, Access to Justice.
+
+Cluster 1865:
+    Work Crunch.
+
+Cluster 1866:
+    A Black Librarian Takes a Look at Discrimination.
+
+Cluster 1867:
+    Bilali - His Book.
+
+Cluster 1868:
+    Should You Use a Textbook to Teach Legal Research.
+
+Cluster 1869:
+    A Civility-Based Model for New Lawyers.
+
+Cluster 1870:
+    Legislative Intent and Extrinsic Aids to Statutory Interpretation in New York.
+
+Cluster 1871:
+    Diversity, Equity, and Inclusion in Action.
+
+Cluster 1872:
+     A Necessary Evolution in Libraries.
+
+Cluster 1873:
+     Burden or Blessing.
+
+Cluster 1874:
+     Legal Issues, Policy, and Practical Strategies.
+
+Cluster 1875:
+     Writers Reflect on 100 Years of Landmark ACLU Cases.
+
+Cluster 1876:
+    Some Notes on Law Library Buildings.
+
+Cluster 1877:
+    Legal Literature and the Impact of Printing on the English Legal Profession.
+
+Cluster 1878:
+     A Primer.
+
+Cluster 1879:
+    Research in the Wild.
+
+Cluster 1880:
+     The Remarkable Development of Comparative Law Libraries in the United States.
+
+Cluster 1881:
+    A History of the Digests.
+
+Cluster 1882:
+     Legal Reference Service in the Age of the Content Farm.
+
+Cluster 1883:
+    Not What I Planned (a Writing Detour).
+
+Cluster 1884:
+    From Law in Blackletter to Blackletter Law.
+
+Cluster 1885:
+    The Universe of Thinkable Thoughts versus the Facts of Empirical Research.
+
+Cluster 1886:
+     Exposing Data Bias in a World Designed for Men.
+
+Cluster 1887:
+    Anglo-American Legal Periodicals Births, Deaths and Changes Since 1933.
+
+Cluster 1888:
+    Frances D. Lyon Retires from Position as New York State Law Librarian.
+
+Cluster 1889:
+     Effective Legal Advocacy in Emergency Situations.
+
+Cluster 1890:
+    The Quality of Academic Law Library Online Catalogs and Its Effect on Information Retrieval.
+
+Cluster 1891:
+     The State of the Field and Prospects for Reform.
+
+Cluster 1892:
+    How Librarians Can Help Improve Law Journal Publishing.
+
+Cluster 1893:
+     The Case of Louisiana, The .
+
+Cluster 1894:
+     Making Law Libraries Accessible to the Visually Impaired.
+
+Cluster 1895:
+    The Whole Is Greater than the Sum of the Parts.
+
+Cluster 1896:
+     Part I.
+
+Cluster 1897:
+     History and Contemporary Analysis.
+
+Cluster 1898:
+    By the Book.
+
+Cluster 1899:
+    Dreaded Bluebook,The.
+
+Cluster 1900:
+    Race and the Reference Librarian.
+
+Cluster 1901:
+     The Making of an American Standard.
+
+Cluster 1902:
+    Re-opening of the Middle Temple Library.
+
+Cluster 1903:
+    Law Librarian I Never Met.
+
+Cluster 1904:
+     Library Copying of Nonprint, Copyrighted Material.
+
+Cluster 1905:
+    Supreme Court Memorial Proceedings and Related Items.
+
+Cluster 1906:
+    Wisconsin County Law Libraries.
+
+Cluster 1907:
+    Dress for Success - The Battle for Class, Comfort, and Sexual Equality.
+
+Cluster 1908:
+    Norway and International Law.
+
+Cluster 1909:
+    Fifty More Constitutions.
+
+Cluster 1910:
+    The Right of Access to Environmental Information.
+
+Cluster 1911:
+    Judging Inequality.
+
+Cluster 1912:
+    An Ecological and Holistic Analysis of the Epistemic Value of Law Libraries.
+
+Cluster 1913:
+    The Printing of Wisconsin Session Laws, 1836-1838.
+
+Cluster 1914:
+    Why Legal Research Skills Declined, or When Two Rights Make a Wrong.
+
+Cluster 1915:
+     Using the Inverted Classroom to Enhance the Legal Information Literacy of the International LL.M. Student.
+
+Cluster 1916:
+    Increasing Article Findability Online.
+
+Cluster 1917:
+    Cybersecurity.
+
+Cluster 1918:
+    Liebert, Tobe. Abortion in the United States.
+
+Cluster 1919:
+     A Figuration in Flux.
+
+Cluster 1920:
+    The Public Mission of the Public Law School Library.
+
+Cluster 1921:
+    The Impact of Impending Enrollment Increases upon Legal Education.
+
+Cluster 1922:
+    Microform Update.
+
+Cluster 1923:
+    Cancellation of Print Primary Sources in Canadian Academic Law Libraries.
+
+Cluster 1924:
+     The Struggle for Racial Equality at the Nation's Oldest Public University.
+
+Cluster 1925:
+     A Decade Later, Is That Still the Question.
+
+Cluster 1926:
+    The State of Rhode Island Law Library.
+
+Cluster 1927:
+    Choosing the Top Candidate.
+
+Cluster 1928:
+     A Better Balance.
+
+Cluster 1929:
+    How Federal Statutes Are Named.
+
+Cluster 1930:
+     Recognizing the Causes of the Imposter Syndrome, and How to Put a Stop to the Cycle.
+
+Cluster 1931:
+    Law for Farmers in Nineteenth-Century America.
+
+Cluster 1932:
+    The Book that Made the Common Law.
+
+Cluster 1933:
+    Letter from the President.
+
+Cluster 1934:
+    Peer Review and Legal Publishing.
+
+Cluster 1935:
+    Office E-Mail.
+
+Cluster 1936:
+     Writings on the Form and Structure of the Published Law.
+
+Cluster 1937:
+    Organized for Service.
+
+Cluster 1938:
+     Publication of Statutes, Public Access to the Law, and the Uniform Electronic Legal Material Act.
+
+Cluster 1939:
+     A History of Legal Aid, 1863-1945.
+
+Cluster 1940:
+    Cataloging of Legal Research Data Bases Using RLIN.
+
+Cluster 1941:
+    Library Costs as a Percentage of Law School Budgets.
+
+Cluster 1942:
+    Administrative Law and the Expansion of Class K at New York University.
+
+Cluster 1943:
+    Locked Collections.
+
+Cluster 1944:
+    Law Libraries and the Future of Public Access to Born-Digital Government Information.
+
+Cluster 1945:
+    How to Read the Constitution and Why.
+
+Cluster 1946:
+    Database Ownership.
+
+Cluster 1947:
+    Social Media and Democracy.
+
+Cluster 1948:
+    The Student Assistant.
+
+Cluster 1949:
+    The Library of Robert Morris, Antebellum Civil Rights Lawyer and Activist.
+
+Cluster 1950:
+    Basic Legal Research and Sources on the Latin American Economic Integration.
+
+Cluster 1951:
+    Medico-Legal Research Using Evidence-Based Medicine.
+
+Cluster 1952:
+    A Preliminary Listing of Current Publications of A.B.A.-Approved Law Schools and Their Libraries.
+
+Cluster 1953:
+    The Official Bulletin, 1917-1919.
+
+Cluster 1954:
+    Nation Building and Law Collections.
+
+Cluster 1955:
+    Planning and Building a Basic Book Collection.
+
+Cluster 1956:
+    Personnel Evaluation.
+
+Cluster 1957:
+    Not Just Key Numbers and Keywords Anymore.
+
+Cluster 1958:
+     The Place of Persons in the Order of Things.
+
+Cluster 1959:
+    Current Developments in the Law of Torts, 1942.
+
+Cluster 1960:
+    Mutual Co-Operation among Law Librarians in Reference to Current Local Material.
+
+Cluster 1961:
+     Or, Can the Police Smell Probable Cause--A Substantive Lesson Plan.
+
+Cluster 1962:
+    The Library of the United States Court of Customs and Patent Appeals.
+
+Cluster 1963:
+    Remaking Appalachia.
+
+Cluster 1964:
+    Congressional Intent and Legislative Histories.
+
+Cluster 1965:
+    Book Burning in the Twenty-First Century.
+
+Cluster 1966:
+     Copyright, E-Licensing, and the Future of Librarianship.
+
+Cluster 1967:
+    Looking for Waldo.
+
+Cluster 1968:
+    Strategic Planning for Academic Libraries.
+
+Cluster 1969:
+     A Scholarly Essay.
+
+Cluster 1970:
+    The United States Code, Prima Facie Evidence, and Positive Law.
+
+Cluster 1971:
+     Will You Make Librarians Obsolete or Can I Use Free and Open Source Software and Cloud Computing to Ensure a Bright Future.
+
+Cluster 1972:
+    The ABA Section on Legal Education Revisions of the Law Library Standards.
+
+Cluster 1973:
+     Race and Guns in a Fatally Unequal America.
+
+Cluster 1974:
+     The Minnesota/WESTLAW Experience.
+
+Cluster 1975:
+     The Murder Case That Propelled Him to the Presidency; Theodore Roosevelt for the Defense.
+
+Cluster 1976:
+     The Unique Contribution of George Edwin Wire.
+
+Cluster 1977:
+    Conventions and Officers.
+
+Cluster 1978:
+    Analytical Research Guide to Federal Indian Tax Law.
+
+Cluster 1979:
+     Quality Analysis through a "New" Lens.
+
+Cluster 1980:
+    Stereotype Threat and Law Librarianship.
+
+Cluster 1981:
+    WikiLeaks.
+
+Cluster 1982:
+    United States Supreme Court Records and Briefs.
+
+Cluster 1983:
+    Constitutional Orphan.
+
+Cluster 1984:
+    Impact of Computerized Methods on Legal Research Courses.
+
+Cluster 1985:
+    The Effect of the World War on Anglo-American Legal Literature.
+
+Cluster 1986:
+    Classified Information and Legal Research.
+
+Cluster 1987:
+    A Law Library Journal Centennial Timeline.
+
+Cluster 1988:
+    Cornerstones for Enduring Law Libraries.
+
+Cluster 1989:
+    Unsigned Article on Corpus Delicti in the First Edition of the Encyclopedia Americana.
+
+Cluster 1990:
+    Court Rules--Where to Find Them.
+
+Cluster 1991:
+    Abetting Batterers.
+
+Cluster 1992:
+    The French Judiciary System.
+
+Cluster 1993:
+     Understanding the Research Habits of Legal Scholars.
+
+Cluster 1994:
+    The Misery of Historians.
+
+Cluster 1995:
+    United States Public Documents as Law Books.
+
+Cluster 1996:
+    The Identification of Harvard Law School Ms 189.
+
+Cluster 1997:
+     Secondary Patrons of the University Law School Library.
+
+Cluster 1998:
+    Conclusion of the Reprint of Massachusetts Bay Colonial Laws.
+
+Cluster 1999:
+     How the Legal System Shapes Behavior by Producing Information.
+
+Cluster 2000:
+    As the World Burns.
+
+Cluster 2001:
+    Marginal Workers.
+
+Cluster 2002:
+    Considerations on the Adoption of the Library of Congress Classification.
+
+Cluster 2003:
+     Planning, Implementing, and Evaluating the Web 2.0 Challenge.
+
+Cluster 2004:
+    The Numerical Classification Scheme of the Legislation Collection in the Harvard Law School Library.
+
+Cluster 2005:
+    Copyright Provisions in Law Journal Publication Agreements.
+
+Cluster 2006:
+    Arba N. Crane.
+
+Cluster 2007:
+    British Courts and Law Reporting in East Africa.
+
+Cluster 2008:
+    A Case Study Approach to Legal Research.
+
+Cluster 2009:
+     The Law Librarian as Records Manager.
+
+Cluster 2010:
+    The Doctrine of Fair Use as It Affects Libraries.
+
+Cluster 2011:
+     Legislative History for Law Students.
+
+Cluster 2012:
+    The History of the American Bar Association Accreditation Standards for Academic Law Libraries.
+
+Cluster 2013:
+     Is That Still a Question?.
+
+Cluster 2014:
+    Training in FCIL Librarianship for Tomorrow's World.
+
+Cluster 2015:
+    Are You Doing It Backward - Improving Information Literacy Instruction Using the AALL Principles and Standards for Legal Research Competency, Taxonomies, and Backward Design.
+
+Cluster 2016:
+    AALL Diversity Redelineated.
+
+Cluster 2017:
+    Everyday Research.
+
+Cluster 2018:
+     An Initial Study.
+
+Cluster 2019:
+     Access to Print across Barriers of Class and Culture.
+
+Cluster 2020:
+    Book Selection in Law Libraries--Who's in Charge Here.
+
+Cluster 2021:
+    The Current State of E-Books in U.S. Law Libraries.
+
+Cluster 2022:
+    The Laws and Ordinances of the Guild-Court (Consulado) in Spain and America.
+
+Cluster 2023:
+     Recovering Our Freedom from Big Ag, Big Tech, and Big Money.
+
+Cluster 2024:
+     Law School Opportunities.
+
+Cluster 2025:
+    Reorganization of the Law Library at Baylor University.
+
+Cluster 2026:
+    A Place for Everything.
+
+Cluster 2027:
+    J. G. Marvin.
+
+Cluster 2028:
+    State Statutes, Revisions, Compilations, and Codes.
+
+Cluster 2029:
+     Reflections on My First 94 Years.
+
+Cluster 2030:
+    Bartleby in the Law Library.
+
+Cluster 2031:
+    Bitten by the Reading Bug.
+
+Cluster 2032:
+    Microphobia in the Legal Profession.
+
+Cluster 2033:
+     Practical Information Security for Lawyers.
+
+Cluster 2034:
+    Copyright Considerations for Telefacsimile Transmission of Documents in Interlibrary Loan Transactions.
+
+Cluster 2035:
+     How a Single Supreme Court Seat Can Change History.
+
+Cluster 2036:
+    Canada's War and Emergency Legislation.
+
+Cluster 2037:
+     Understanding by Design Meets Neuroscience.
+
+Cluster 2038:
+     By a Law School Library Survey.
+
+Cluster 2039:
+     The Library of James Harlan of Kentucky, Father of John Marshall Harlan.
+
+Cluster 2040:
+    A Librarian's Approach to Problems in the Smaller Law School Libraries.
+
+Cluster 2041:
+    Of Legislative Histories and Librarians.
+
+Cluster 2042:
+    Foreign Experiences toward the Development of a National Legal Information Center.
+
+Cluster 2043:
+    Morris L. Cohen.
+
+Cluster 2044:
+    Spatial Requirements and Estimated Project Cost for a New Library Building.
+
+Cluster 2045:
+     Current or Presumed to be Current Holdings of Selected American Libraries.
+
+Cluster 2046:
+     Some Thoughts on Managing Staff Conflict.
+
+Cluster 2047:
+    Legal Implications of the Arab Economic Boycott of the State of Israel.
+
+Cluster 2048:
+    The British Judiciary and Court Organization.
+
+Cluster 2049:
+    Here Come Your New Colleagues.
+
+Cluster 2050:
+    Way beyond Legal Research.
+
+Cluster 2051:
+    The Elbert H. Gary Law Library of Northwestern University.
+
+Cluster 2052:
+    The Technique of Reading as Applied to Law.
+
+Cluster 2053:
+    Learning from Reference Experience.
+
+Cluster 2054:
+     Intersections of Mental Illness and Library Work.
+
+Cluster 2055:
+    Applying Motivation Theory to Improve 1Ls' Motivation, Self-Efficacy, and Skill Mastery.
+
+Cluster 2056:
+     Considering Technology's Impact on Libraries and the Public Interest.
+
+Cluster 2057:
+    Uses of OCLC Archival Tapes and Planning for On-Line Catalogs.
+
+Cluster 2058:
+    Checklist of Serials - Part II.
+
+Cluster 2059:
+    John Norton Pomeroy, 1828-1885.
+
+Cluster 2060:
+    AALL Classification Survey 1968.
+
+Cluster 2061:
+    The African Law Reports.
+
+Cluster 2062:
+    Diversity Dialogues.
+
+Cluster 2063:
+    Noble, Safiya Umoja, Algorithms of Oppression.
+
+Cluster 2064:
+    Cornerstones of Law Libraries for an Era of Digital-Plus.
+
+Cluster 2065:
+    The Rule of Five.
+
+Cluster 2066:
+    Law Library Staff Meetings.
+
+Cluster 2067:
+    The Use of Form Headings in the Cataloging of Legal Materials.
+
+Cluster 2068:
+    Use of the Printed Cards of the Library of Congress by Law Libraries.
+
+Cluster 2069:
+    To Leave or Not to Leave - Law Libraries and the FDLP.
+
+Cluster 2070:
+    Automating Legal Services.
+
+Cluster 2071:
+     The Saskatchewan Approach.
+
+Cluster 2072:
+    The Need for Experiential Legal Research Education.
+
+Cluster 2073:
+    William George Eakins.
+
+Cluster 2074:
+     Its Suitability to Legal Serials and Continuations.
+
+Cluster 2075:
+    An Acceleration System for Routing Materials in Law Firm Libraries.
+
+Cluster 2076:
+     Beyond the Basics Introduction to a Symposium.
+
+Cluster 2077:
+    Sustainable and Open Access to Valuable Legal Research Information.
+
+Cluster 2078:
+     An Observation by a Teacher of Writing.
+
+Cluster 2079:
+    Chronology of the Publications of the Opinions of the Judge Advocate General of the Army.
+
+Cluster 2080:
+     How Academic Law Libraries Can Shape Their Collections in Response to the Call for More Practice-Oriented Legal Education.
+
+Cluster 2081:
+    Fixing Law Schools.
+
+Cluster 2082:
+    Differing Functions and Limitations of Law Libraries.
+
+Cluster 2083:
+    Web Site Accessibility.
+
+Cluster 2084:
+     Implications for Legal [Re]Search.
+
+Cluster 2085:
+    A Learning Experience.
+
+Cluster 2086:
+    Recent Trends in Legal Historiography.
+
+Cluster 2087:
+    The Power of RSS Feed.
+
+Cluster 2088:
+    The Long Tail of Legal Information.
+
+Cluster 2089:
+    The Road Not Yet Taken.
+
+Cluster 2090:
+     How Data and the Law Interact.
+
+Cluster 2091:
+    Finding Common Ground.
+
+Cluster 2092:
+     The Experience of the University of Oregon Law Library.
+
+Cluster 2093:
+     Passive Aggression at Work.
+
+Cluster 2094:
+    The Northampton Law School.
+
+Cluster 2095:
+    How to Build a Law Library without an Appropriation.
+
+Cluster 2096:
+     ABA Law School Accreditation in the 21st Century and America's First Law School's Battle to Survive in the 1970s.
+
+Cluster 2097:
+    Online Courts and the Future of Justice.
+
+Cluster 2098:
+    Selected Legislative History of the Federal Income, Estate and Gift Tax Laws Since 1913.
+
+Cluster 2099:
+    Looking Ahead--Law and the New Technology.
+
+Cluster 2100:
+    What Price Law Librarians.
+
+Cluster 2101:
+     Can Law Keep up?.
+
+Cluster 2102:
+    Chancellor Kent's Law Library.
+
+Cluster 2103:
+    Enact Locally.
+
+Cluster 2104:
+    Outline of Massachusetts Statute Law Publications.
+
+Cluster 2105:
+    Who Is to Judge?.
+
+Cluster 2106:
+    California's Constitution, Codes and Statutes.
+
+Cluster 2107:
+    A Look at American Law Reporting in the 19th Century.
+
+Cluster 2108:
+    The ALA Accreditation Process.
+
+Cluster 2109:
+    Law, Artificial Intelligence, and Natural Language Processing.
+
+Cluster 2110:
+     Challenges for Teaching Research.
+
+Cluster 2111:
+    Prison Theater and the Global Crisis of Incarceration.
+
+Cluster 2112:
+    In Search of Standards for Public Law Libraries.
+
+Cluster 2113:
+    Searching Legal Literature-An Appraisal of New Methods.
+
+Cluster 2114:
+    Comparative Law.
+
+Cluster 2115:
+    2010.
+
+Cluster 2116:
+     Informal Instruction in Law Firm Libraries.
+
+Cluster 2117:
+    Scientific Materials and the Law.
+
+Cluster 2118:
+    Law Firm Legal Research Requirements for New Attorneys.
+
+Cluster 2119:
+    Sticking to the Union.
+
+Cluster 2120:
+    Library Essentials.
+
+Cluster 2121:
+    Milwaukee County Law Library Defense Room.
+
+Cluster 2122:
+    Unanswerable Questions.
+
+Cluster 2123:
+     How Is AALL Doing.
+
+Cluster 2124:
+     Best Practices in Academic Law Library Hiring.
+
+Cluster 2125:
+    Loose-Leaf Reporting Services.
+
+Cluster 2126:
+    Black's Law Dictionary.
+
+Cluster 2127:
+    Watson, Answer Me This.
+
+Cluster 2128:
+     One Law, Ten Cases, and Fifty Years that Changed American Women's Lives at Work.
+
+Cluster 2129:
+    Nursery of a Supreme Court Justice.
+
+Cluster 2130:
+    Assessing the Effectiveness of Single-Session Legal Research Skill Instruction through Pre- and Post-Testing.
+
+Cluster 2131:
+    Law Librarian, J.D. or Not J.D..
+
+Cluster 2132:
+    The Mission of the Legal Reference Librarian.
+
+Cluster 2133:
+     What Librarians Think about Lawyer Search Behavior.
+
+Cluster 2134:
+     Money, Morals, and Ethical Reform in the Law.
+
+Cluster 2135:
+    Standard Bar Codes Beware - Smartphone Users May Prefer QR Codes.
+
+Cluster 2136:
+    Law Library Book Orders.
+
+Cluster 2137:
+     Toward a Definition of Grey Legal Literature.
+
+Cluster 2138:
+    How One Law Library Is Administered.
+
+Cluster 2139:
+    Batlan, Felice. Women and Justice for the Poor.
+
+Cluster 2140:
+    The Price of Justice.
+
+Cluster 2141:
+    A Law Building for Indiana University.
+
+Cluster 2142:
+    Commercial Cataloging.
+
+Cluster 2143:
+    Response to Address of Welcome.
+
+Cluster 2144:
+    Legal Literature on International Human Rights.
+
+Cluster 2145:
+    The New School Building and the Law Librarian.
+
+Cluster 2146:
+    The Making of a Justice.
+
+Cluster 2147:
+    Government Litigation Files as a Source of Legal History.
+
+Cluster 2148:
+    The Practices of Law Publishers as They Affect Law Libraries.
+
+Cluster 2149:
+    Where Will You Work - A Five-Year Statistical Analysis of AALL Job Placement Listings.
+
+Cluster 2150:
+    Part III - Materials in the National Archives.
+
+Cluster 2151:
+     A History of Library Digitization.
+
+Cluster 2152:
+    Operation Compulex.
+
+Cluster 2153:
+    Development of the American Association of Law Libraries under the Expansion Plan.
+
+Cluster 2154:
+    The Opportunity Law Librarians Are Missing.
+
+Cluster 2155:
+    A Century's Worth of Access.
+
+Cluster 2156:
+    Law and Computers.
+
+Cluster 2157:
+    The Mills Memorial Library of the School of Law of New York University.
+
+Cluster 2158:
+    The A B C of Bar Library Cooperation.
+
+Cluster 2159:
+    Library for International Operations.
+
+Cluster 2160:
+    The Forms of Law.
+
+Cluster 2161:
+    Book Selection for the Law Library on a Limited Budget; or, Practical Suggestions for Making the Book Budget Stretch in a Law Library.
+
+Cluster 2162:
+    The Development of Law School Library Standards as Applied by Accrediting Agencies.
+
+Cluster 2163:
+    Getting It from the Source.
+
+Cluster 2164:
+    The Army's Law Libraries.
+
+Cluster 2165:
+     The History and Origins of Princeton's Long-Standing Tradition of Interdisciplinary Legal Scholarship.
+
+Cluster 2166:
+     Resolutions of a New Law Library Director.
+
+Cluster 2167:
+    Restoring the Public Library Ethos.
+
+Cluster 2168:
+     What Police, Prosecutors and Courts Aren't Doing to Protect America's Women.
+
+Cluster 2169:
+     30 Lessons Learned (and a Few Strokes of Luck) at the Crossroads.
+
+Cluster 2170:
+     An Intellectual History.
+
+Cluster 2171:
+    Legal Scholarship, Electronic Publishing, and Open Access.
+
+Cluster 2172:
+    Academic Law Libraries' New Frontier - The Post-Truth Cognitive Bias Challenge and Calls for Behavioral and Structural Reforms.
+
+Cluster 2173:
+    What about the Majority.
+
+Cluster 2174:
+    Factors to Consider When Cataloging and Classifyng United States Government Documents for Law Libraries.
+
+Cluster 2175:
+    Diversity.
+
+Cluster 2176:
+    A Catalog of Roman Law and Reclassification in the Columbia Law Library.
+
+Cluster 2177:
+     Thinking About What Lawyers Do.
+
+Cluster 2178:
+     Law Librarians, Law Libraries, and Legal Research in the Post-Internet Era.
+
+Cluster 2179:
+    Hudson, John. The Oxford History of Laws of England.
+
+Cluster 2180:
+    History of the Carolina-South Eastern Chapter, 1937-1955.
+
+Cluster 2181:
+    Advancing a Culture of Creativity in Libraries.
+
+Cluster 2182:
+    Finding the Middle Ground in Collection Development.
+
+Cluster 2183:
+    Like Mark Twain.
+
+Cluster 2184:
+    Procedural Codes of the State of New York.
+
+Cluster 2185:
+    Assessment Strategies in Technical Services.
+
+Cluster 2186:
+     Legal Information in the Department of Justice.
+
+Cluster 2187:
+    Evolution and Opportunity.
+
+Cluster 2188:
+    Possibilities of American Legal History.
+
+Cluster 2189:
+    Adnan's Story.
+
+Cluster 2190:
+    Access to the Justices' Papers.
+
+Cluster 2191:
+    Collaboration versus Communication.
+
+Cluster 2192:
+    Canadian Court Rules.
+
+Cluster 2193:
+    Exposure.
+
+Cluster 2194:
+    The Work of the American Law Institute and What It Means to the Law Librarian.
+
+Cluster 2195:
+    A Survey of Index to Foreign Legal Periodicals Users and Its Implications for Future Developments of the Index.
+
+Cluster 2196:
+    Rethinking Environmental Law.
+
+Cluster 2197:
+     Making Climate History at the Supreme Court.
+
+Cluster 2198:
+    The Future of Library Collections.
+
+Cluster 2199:
+     Strengthened, Maintained, or Degraded?.
+
+Cluster 2200:
+    Methods of Citing Statute Law.
+
+Cluster 2201:
+    Booksellers in Court.
+
+Cluster 2202:
+     The Reality of Being a Law Library Director in Times of Great Opportunity and Significant Challenges.
+
+Cluster 2203:
+     The Local Librarian's Role.
+
+Cluster 2204:
+     Endeavor v. Resignation.
+
+Cluster 2205:
+    Authorship Characteristics in Law Library Journal.
+
+Cluster 2206:
+    Adolf Sprudzs and the UST Index.
+
+Cluster 2207:
+    The Beacon Lights of the Law.
+
+Cluster 2208:
+    Subject Classification in Law Libraries - A Survey-1955.
+
+Cluster 2209:
+    Universal Citation and the American Association of Law Libraries.
+
+Cluster 2210:
+    Opinions of Justices Sitting in Chambers.
+
+Cluster 2211:
+    Issues and Trends in Collection Development for East Asian Legal Materials.
+
+Cluster 2212:
+    A National Program for the Publication of the Historical Documents of the United States.
+
+Cluster 2213:
+     Intellectual Property, Race, and the Making of Americans.
+
+Cluster 2214:
+    Microfacsimiles in Law Libraries.
+
+Cluster 2215:
+    A Proposed Definition of the Term Lawyering.
+
+Cluster 2216:
+    Shortlisted.
+
+Cluster 2217:
+    The Code of Federal Regulations and the United States Statutes at Large.
+
+Cluster 2218:
+    Law Library Administration-A Functional Approach.
+
+Cluster 2219:
+    Got Ideas.
+
+Cluster 2220:
+    The Periodical Section of the Uniform System of Citation, Thirteenth Edition.
+
+Cluster 2221:
+    Legal Festschriften.
+
+Cluster 2222:
+    Maintenance of Law Libraries under a Fee System.
+
+Cluster 2223:
+    Mattress Tags and Pillow Case.
+
+Cluster 2224:
+     A Collection Development Guide.
+
+Cluster 2225:
+     S.P. Scott, Fred Blume, Clyde Pharr, and Roman Law in Early Twentieth-Century America.
+
+Cluster 2226:
+     A Case Study of the University of New Hampshire Law Library.
+
+Cluster 2227:
+     Preliminary Report of the National Legal Resources Committee.
+
+Cluster 2228:
+    American Indians and Law Libraries.
+
+Cluster 2229:
+     Other Computer Applications in the Practice of Law.
+
+Cluster 2230:
+    Law Libraries and the Americans with Disabilities Act.
+
+Cluster 2231:
+    About Microaggressions.
+
+Cluster 2232:
+    Diversity in the Profession.
+
+Cluster 2233:
+     Ethical Issues in Libraries.
+
+Cluster 2234:
+     Striving for the Rule of Law in China.
+
+Cluster 2235:
+    The Use of Non-MARC Metadata in AALL Libraries.
+
+Cluster 2236:
+    United States Treaties and International Agreements.
+
+Cluster 2237:
+    An Informal Exploration of How Academic Law Libraries Curate Research Guides to Support Democracy, Rule of Law, and the Legal System.
+
+Cluster 2238:
+    Microfiche Conversion Program at Johnson & Swanson or What to Do When the Compactor Won't Work Anymore  .
+
+Cluster 2239:
+    Glass Half Full.
+
+Cluster 2240:
+    A Different Democratic Divide.
+
+Cluster 2241:
+    Learning New Applications.
+
+Cluster 2242:
+    Law Library Service to Prisoners--The Responsibility of Nonprison Libraries.
+
+Cluster 2243:
+     The Legacies of Langdell and His Metaphor.
+
+Cluster 2244:
+     A Law Librarian's Commentary on Critical Legal Studies.
+
+Cluster 2245:
+    A History of Intellectual Property in 50 Objects.
+
+Cluster 2246:
+    Rules of Court.
+
+Cluster 2247:
+    Horseless Carriages with Buggy-Whip Holders.
+
+Cluster 2248:
+    The Technology of Law.
+
+Cluster 2249:
+     The Road from Ancient Rome to the Second Amendment.
+
+Cluster 2250:
+    Building Planning for a New Law School Library.
+
+Cluster 2251:
+    The Black Book of Justice Holmes.
+
+Cluster 2252:
+     Navigating Law Librarianship While Black.
+
+Cluster 2253:
+    Justice on Trial.
+
+Cluster 2254:
+    The Law School Library--A Library of Research for Lawyer, Layman, and Legislator.
+
+Cluster 2255:
+    Retrospective.
+
+Cluster 2256:
+     A Study on the Unionization of Academic Law Libraries.
+
+Cluster 2257:
+     The Librarians's Guide.
+
+Cluster 2258:
+    The Therapy of Humor in the Practice of Law.
+
+Cluster 2259:
+    The New Mexico Law Library-A History.
+
+Cluster 2260:
+     Update.
+
+Cluster 2261:
+    Comparative Evaluation of Online Machine Translation Systems with Legal Texts.
+
+Cluster 2262:
+    Law Libraries in Italy.
+
+Cluster 2263:
+    A History of the West Nutshells.
+
+Cluster 2264:
+    The Academic Law Library in the Age of Affiliations.
+
+Cluster 2265:
+     One Hundred Years of Preservation in Law Library Journal.
+
+Cluster 2266:
+    Law Library--Post Earthquake.
+
+Cluster 2267:
+    The Internet of Things.
+
+Cluster 2268:
+    Recommendations for a County Law Library of 30,000 Volumes.
+
+Cluster 2269:
+    History of Michigan Law Libraries and Their Relation to General Libraries in Michigan .
+
+Cluster 2270:
+     The Curious History of Alphabetical Order.
+
+Cluster 2271:
+    What Second Life Taught Me about Learning.
+
+Cluster 2272:
+    Centralized University Library Service and the Law School.
+
+Cluster 2273:
+     Black Women and Systemic Gendered Racism.
+
+Cluster 2274:
+    Critical Legal Research.
+
+Cluster 2275:
+    Microform Brief.
+
+Cluster 2276:
+    What Does and Does Not Happen in Law School to Prepare Students to Practice Law.
+
+Cluster 2277:
+    Editing Justinian's Corpus.
+
+Cluster 2278:
+    The Library of the Bureau of Railway Economics in Its Inter-Library Relations.
+
+Cluster 2279:
+    A Defense of the Public Domain.
+
+Cluster 2280:
+     The State of the Art, 1978.
+
+Cluster 2281:
+    The Role of Conferences.
+
+Cluster 2282:
+    Foreign Law Selection and Acquisition.
+
+Cluster 2283:
+    The View from Above.
+
+Cluster 2284:
+    Law Libraries Are "Knowledge Institutions Supporting Democracy".
+
+Cluster 2285:
+    Breaking down the Black Box.
+
+Cluster 2286:
+    Law Librarianship in the Age of AI.
+
+Cluster 2287:
+     Practical Ways to Improve a Dysfunctional Library.
+
+Cluster 2288:
+     A Comprehensive Guidebook for Law Schools.
+
+Cluster 2289:
+    A Selective History of Technology in Law Libraries.
+
+Cluster 2290:
+    Managing Conflict.
+
+Cluster 2291:
+    A Mnemonic Classification for Law Libraries.
+
+Cluster 2292:
+    The Duty of the Members of the Faculty to the Librarian and the Duty of the Librarian to the Members of the Faculty.
+
+Cluster 2293:
+    Runaway Technology.
+
+Cluster 2294:
+    To Law Librarians of the United States and Canada.
+
+Cluster 2295:
+    The Secret Rules That Govern Our Digital Lives.
+
+Cluster 2296:
+    Yesterday's Monsters.
+
+Cluster 2297:
+    Incorporating Race into Your Legal Research Class.
+
+Cluster 2298:
+    The Library of the Institute of Advanced Legal Studies, London.
+
+Cluster 2299:
+    In Defense of Wikipedia .
+
+Cluster 2300:
+    Legal Futurology.
+
+Cluster 2301:
+    Binding in War Time.
+
+Cluster 2302:
+    Law Libraries and Laboratories.
+
+Cluster 2303:
+    Is This a Profession? Establishing Educational Criteria for Law Librarians.
+
+Cluster 2304:
+    Notes of a Law Book Scout in South America.
+
+Cluster 2305:
+    Service within and beyond Our Walls.
+
+Cluster 2306:
+    Response to Schanck.
+
+Cluster 2307:
+     Problems with Current English-Spanish Legal Dictionaries, and Notes toward a Critical Comparative Legal Lexicography .
+
+Cluster 2308:
+    Marketing and Outreach in Law Libraries.
+
+Cluster 2309:
+    The New College of Law Library at the University of New Mexico.
+
+Cluster 2310:
+    Working on the Law Reform Database.
+
+Cluster 2311:
+    Topical Law Reporters in the Law Library.
+
+Cluster 2312:
+    The Duke University Law Library - An Account of Its Development.
+
+Cluster 2313:
+    Law and Economics in Jane Austen.
+
+Cluster 2314:
+    Degree-Oriented Study among Law Librarians.
+
+Cluster 2315:
+    Thanking and Being Thanked.
+
+Cluster 2316:
+    Resources to Begin the Study of Jewish Law in Conservative Judaism.
+
+Cluster 2317:
+    The Relation of the Library to Legal Education.
+
+Cluster 2318:
+    Statute Law in the Field of Legal Research.
+
+Cluster 2319:
+    American Contagions.
+
+Cluster 2320:
+    Law Libraries in Canada.
+
+Cluster 2321:
+    The Pursuit of Happiness in the Founding Era.
+
+Cluster 2322:
+     Racial and Ethnic Diversity in Law Librarianship in the Twenty-First Century.
+
+Cluster 2323:
+    Cataloging and Classification of Law in South American Libraries-A Report.
+
+Cluster 2324:
+    Reviewing the State of the Art Reviews, or, How to Keep Up with Those Who Are Keeping Up.
+
+Cluster 2325:
+    The Practitioners' Council.
+
+Cluster 2326:
+    The Effects of Demand-Driven Acquisitions on Law Library Collection Development.
+
+Cluster 2327:
+    Bar and Allied Association Publications.
+
+Cluster 2328:
+     Connecting Legal Research Instruction and Current Legal Research Practice.
+
+Cluster 2329:
+    The State of Legal Research Education.
+
+Cluster 2330:
+    A Lawyer's Classification for Law.
+
+Cluster 2331:
+    Along Came Google.
+
+Cluster 2332:
+    Technique of Legal Research for the Practicing Lawyer.
+
+Cluster 2333:
+    Unifying the Nation.
+
+Cluster 2334:
+     One Hundred Years of AALL History.
+
+Cluster 2335:
+    Notes on New Hampshire Statute Law.
+
+Cluster 2336:
+    Southwestern Legal Center and School of Law Library, Southern Methodist University, Dallas, Texas.
+
+Cluster 2337:
+    Eldon Revare James, An Appreciation.
+
+Cluster 2338:
+     Who Applied and Who Was Chosen.
+
+Cluster 2339:
+     Partisanship, Race, and the Transformation of American Federalism.
+
+Cluster 2340:
+    Some Remarks on the Pennsylvania Side Reports.
+
+Cluster 2341:
+    Education--A Lifelong Process.
+
+Cluster 2342:
+    Cooperative Acquisitions.
+
+Cluster 2343:
+    The Algorithm as a Human Artifact.
+
+Cluster 2344:
+     A Week in the Life of a Black Female Law Librarian.
+
+Cluster 2345:
+    Address of Welcome to the American Association of Law Librarians.
+
+Cluster 2346:
+    Some Auxiliaries of Statute Revision.
+
+Cluster 2347:
+     The History of the UCLA Law Library, 1949-2000.
+
+Cluster 2348:
+     An Explanation.
+
+Cluster 2349:
+     Analysis or Psychoanalysis.
+
+Cluster 2350:
+     A Grey Paper.
+
+Cluster 2351:
+     Breaches and Heartbleed to BYOD- Are Bankers, Entertainment Company Executives, Celebrities, Postal Workers, Ice Cream Lovers, Home Builders, and CIOs the Only Ones Who Should Be Concerned.
+
+Cluster 2352:
+    Recent Experience in Cataloguing the Allegheny County Law Library, Pittsburg, PA..
+
+Cluster 2353:
+    The Federal Anti-Trust Law.
+
+Cluster 2354:
+    Report on Book Selection Made to the Executive Committee of the American Association of Law Libraries.
+
+Cluster 2355:
+     Ethics in Everyday Life.
+
+Cluster 2356:
+    Loaning Books from Law Libraries.
+
+Cluster 2357:
+    Gilson G. Glasier.
+
+Cluster 2358:
+    The Century Gap of Law Library Statistics.
+
+Cluster 2359:
+     Is There a Public Access Right to Academic Libraries in the United States and Canada.
+
